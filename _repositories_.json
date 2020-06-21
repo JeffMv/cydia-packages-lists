@@ -1,0 +1,218 @@
+{
+  "limneos.net": {
+    "repoRoot": "http://limneos.net/repo/",
+    "slugname": "limneos.net",
+    "packagesCount": 39,
+    "lastUpdate": "2020-06-21 19:03:39.971994",
+    "packagesUrl": "http://limneos.net/repo/Packages",
+    "usesDebian": false,
+    "encoding": "ISO-8859-1"
+  },
+  "rpetri.ch": {
+    "repoRoot": "http://rpetri.ch/repo/",
+    "slugname": "rpetri.ch",
+    "packagesCount": 63,
+    "lastUpdate": "2020-06-21 19:03:40.973232",
+    "packagesUrl": "http://rpetri.ch/repo/Packages",
+    "usesDebian": false,
+    "encoding": "UTF-8"
+  },
+  "c1d3r.com": {
+    "repoRoot": "http://c1d3r.com/repo/",
+    "slugname": "c1d3r.com",
+    "packagesCount": 37,
+    "lastUpdate": "2020-06-21 19:03:42.465577",
+    "packagesUrl": "http://c1d3r.com/repo/Packages.bz2",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "julioverne.github.io": {
+    "repoRoot": "http://julioverne.github.io/",
+    "slugname": "julioverne.github.io",
+    "packagesCount": 101,
+    "lastUpdate": "2020-06-21 19:03:44.088168",
+    "packagesUrl": "http://julioverne.github.io/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "repo.packix.com": {
+    "repoRoot": "http://repo.packix.com",
+    "slugname": "repo.packix.com",
+    "packagesCount": 9153,
+    "lastUpdate": "2020-06-21 19:04:38.693273",
+    "packagesUrl": "http://repo.packix.com/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "ramenrepo.github.io": {
+    "repoRoot": "https://ramenrepo.github.io/",
+    "slugname": "ramenrepo.github.io",
+    "packagesCount": 2,
+    "lastUpdate": "2020-06-21 19:04:39.843533",
+    "packagesUrl": "https://ramenrepo.github.io/Packages.bz2",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "cydiageek.yourepo.com": {
+    "repoRoot": "http://cydiageek.yourepo.com/",
+    "slugname": "cydiageek.yourepo.com",
+    "packagesCount": 333,
+    "lastUpdate": "2020-06-21 19:04:45.887875",
+    "packagesUrl": "http://cydiageek.yourepo.com/Packages.bz2",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "apt.alfhaily.me": {
+    "repoRoot": "http://apt.alfhaily.me/",
+    "slugname": "apt.alfhaily.me",
+    "packagesCount": 6,
+    "lastUpdate": "2020-06-21 19:04:46.924197",
+    "packagesUrl": "http://apt.alfhaily.me/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "sparkdev.me": {
+    "repoRoot": "https://sparkdev.me/",
+    "slugname": "sparkdev.me",
+    "packagesCount": 388,
+    "lastUpdate": "2020-06-21 19:04:49.568645",
+    "packagesUrl": "https://sparkdev.me/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "beta.unlimapps.com": {
+    "repoRoot": "https://beta.unlimapps.com/",
+    "slugname": "beta.unlimapps.com",
+    "packagesCount": 1681,
+    "lastUpdate": "2020-06-21 19:04:53.214689",
+    "packagesUrl": "https://beta.unlimapps.com/Packages.gz",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "data.tigisoftware.com": {
+    "repoRoot": "http://data.tigisoftware.com/cydia/",
+    "slugname": "data.tigisoftware.com",
+    "packagesCount": 3,
+    "lastUpdate": "2020-06-21 19:04:56.038072",
+    "packagesUrl": "http://data.tigisoftware.com/cydia/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "reddestdream.github.io": {
+    "repoRoot": "https://reddestdream.github.io/",
+    "slugname": "reddestdream.github.io",
+    "packagesCount": 2,
+    "lastUpdate": "2020-06-21 19:04:57.048047",
+    "packagesUrl": "https://reddestdream.github.io/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "repo.incendo.ws": {
+    "repoRoot": "https://repo.incendo.ws/",
+    "slugname": "repo.incendo.ws",
+    "packagesCount": 20,
+    "lastUpdate": "2020-06-21 19:04:58.564203",
+    "packagesUrl": "https://repo.incendo.ws/Packages.bz2",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "cydia.akemi.ai": {
+    "repoRoot": "https://cydia.akemi.ai/",
+    "slugname": "cydia.akemi.ai",
+    "packagesCount": 54,
+    "lastUpdate": "2020-06-21 19:05:03.652296",
+    "packagesUrl": "https://cydia.akemi.ai/Packages.bz2",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "repo.chariz.com": {
+    "repoRoot": "https://repo.chariz.com/",
+    "slugname": "repo.chariz.com",
+    "packagesCount": 129,
+    "lastUpdate": "2020-06-21 19:05:04.764527",
+    "packagesUrl": "https://repo.chariz.com/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "apt.thebigboss.org": {
+    "repoRoot": "http://apt.thebigboss.org/repofiles/cydia/",
+    "slugname": "apt.thebigboss.org",
+    "packagesCount": 9574,
+    "lastUpdate": "2020-06-21 19:05:17.210483",
+    "packagesUrl": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/main/binary-iphoneos-arm/Packages.bz2",
+    "encoding": "iso-8859-1",
+    "usesDebian": true
+  },
+  "repounclutter.coolstar.org": {
+    "repoRoot": "https://repounclutter.coolstar.org",
+    "slugname": "repounclutter.coolstar.org",
+    "packagesCount": 775,
+    "lastUpdate": "2020-06-21 19:05:20.091834",
+    "packagesUrl": "https://repounclutter.coolstar.org/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "repo.chimera.sh": {
+    "repoRoot": "https://repo.chimera.sh",
+    "slugname": "repo.chimera.sh",
+    "packagesCount": 78,
+    "lastUpdate": "2020-06-21 19:05:21.707939",
+    "packagesUrl": "https://repo.chimera.sh/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "build.frida.re": {
+    "repoRoot": "https://build.frida.re",
+    "slugname": "build.frida.re",
+    "packagesCount": 3,
+    "lastUpdate": "2020-06-21 19:05:22.479824",
+    "packagesUrl": "https://build.frida.re/Packages",
+    "usesDebian": false,
+    "encoding": "ISO-8859-1"
+  },
+  "coolstar.org": {
+    "repoRoot": "https://coolstar.org/publicrepo",
+    "slugname": "coolstar.org",
+    "packagesCount": 18,
+    "lastUpdate": "2020-06-21 19:05:23.627774",
+    "packagesUrl": "https://coolstar.org/publicrepo/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "apt.bingner.com": {
+    "repoRoot": "https://apt.bingner.com",
+    "slugname": "apt.bingner.com",
+    "packagesCount": 386,
+    "lastUpdate": "2020-06-21 19:05:26.790982",
+    "packagesUrl": "https://apt.bingner.com/dists/ios/1443.00/main/binary-iphoneos-arm/Packages.bz2",
+    "usesDebian": true,
+    "encoding": "utf-8"
+  },
+  "xia0z.github.io": {
+    "repoRoot": "https://xia0z.github.io",
+    "slugname": "xia0z.github.io",
+    "packagesCount": 14,
+    "lastUpdate": "2020-06-21 19:05:27.329943",
+    "packagesUrl": "https://xia0z.github.io/Packages",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "ib-soft.net": {
+    "repoRoot": "http://ib-soft.net/cydia/beta",
+    "slugname": "ib-soft.net",
+    "packagesCount": 3,
+    "lastUpdate": "2020-06-21 19:05:28.182352",
+    "packagesUrl": "http://ib-soft.net/cydia/beta/Packages.bz2",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  },
+  "getdelta.co": {
+    "repoRoot": "http://getdelta.co/",
+    "slugname": "getdelta.co",
+    "packagesCount": 3,
+    "lastUpdate": "2020-06-21 19:05:29.734529",
+    "packagesUrl": "http://getdelta.co/Packages.gz",
+    "usesDebian": false,
+    "encoding": "utf-8"
+  }
+}

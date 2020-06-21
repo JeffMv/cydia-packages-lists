@@ -1,0 +1,1003 @@
+Package: com.exile90.icleanerpro
+Version: 7.5.6
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./iCleanerPro_7.5.6.deb
+Size: 2248186
+MD5sum: 9c4ff8dff8201f39406a355ed794225e
+SHA1: 13113f16f09be565ac6af74182d8496e46000b17
+SHA256: c69a7c6599cd01b6e6eaf7629bcb0f9ff0e89a5967aa30580b2e160bbf5844ad
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.6.0
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./iCleanerPro_7.6.0.deb
+Size: 3412148
+MD5sum: 189fcd17a4e578ff7bedf6e4da3c00e0
+SHA1: 7ea0e5ad6db54da7502f16bd6f6c52b90622a17c
+SHA256: 62fdec53c0f7f866e91fb5967daa0525f97c7f1a808fba3d09de098f1eebf1cf
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.6.1
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./iCleanerPro_7.6.1.deb
+Size: 3476514
+MD5sum: 1092ade3fa86f47806ad6a95674b6b81
+SHA1: 02d6830fadc41ce99a5b117cc92f413c819f8eb7
+SHA256: bb71b17f473d3d347245ca79446873b7d4377dcd7efadc39c9bc6d4da4b8b25e
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.6.2
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./iCleanerPro_7.6.2.deb
+Size: 3478496
+MD5sum: 392d0b5fb0f6d4334fa05b5d354e5e79
+SHA1: b6f98d74b2f960ccaa1b403c09ad04f4065f4917
+SHA256: 84c53bf0d1b67d34796c5d4d00ea8bc5e41bae0dcc4675fe8a7d810121985b50
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.6.4
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./iCleanerPro_7.6.4.deb
+Size: 3565292
+MD5sum: e82848f686c56f6515f9c6df72d9bc5a
+SHA1: 9d9df839501fe0a57312a7312915945d168a02db
+SHA256: fe7a4de25d581a61b9b5ce049b8fdafe5a1f0ae0758e38176708ac92bccc32ec
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.7.0
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./iCleanerPro_7.7.0.deb
+Size: 4625528
+MD5sum: 717f23162f6c1e755b2eb9dfe3c848f5
+SHA1: aee6ce5f65f998b26250b4cf7e552e21516a5aff
+SHA256: 710c384841f80d37c39b38fdff21ca1c2f9279d5407486fa9545ca04ccd59bb1
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.7.1
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./iCleanerPro_7.7.1.deb
+Size: 5366626
+MD5sum: b421f4145e94ab64205ee8f2bbda78e1
+SHA1: 4f3b156ed246a5624bb3bf1d6b7f1d483f16b500
+SHA256: 7670406b8f0520eeffcd9f68f9646ffd55e803df968768de718f920c5b315d67
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.7.5
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./iCleanerPro_7.7.5.deb
+Size: 5385562
+MD5sum: 5b6209151608ac092b4805833691bd9d
+SHA1: 0949f21d5f407a2e32b1b5741a1fe313d9e49aff
+SHA256: c90508a0f6782136717407639147ae5bbfba730c252ba044185a0ed072e2fccd
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.8.2
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/iCleanerPro_7.8.2.deb
+Size: 6557578
+MD5sum: 2967fdbb6c3c65b7a1d00523136e7b58
+SHA1: 0eed6fcaf5e77dc5338e5b9da01d0e8786d662f1
+SHA256: 4e2f3600be5bc7253bdc890fe156d75a2e697a6e5404f549a01f65917d01f8c4
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.8.3
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/iCleanerPro_7.8.3.deb
+Size: 6468796
+MD5sum: 066dd8cd88f869605942ab7f6019c56f
+SHA1: 6dcfe8105eaf708bb983b2db73c90e91b4f48b4f
+SHA256: 91d9e941d47a2b6d89e1db7edba28aa7e0b1ecfa7127d1ebfa6c03fff0136314
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.ivanobilenchi.icleanerdarktheme
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: winterboard
+Filename: ./iCleanerDarkTheme_1.0.2.deb
+Size: 1274
+MD5sum: 5e798339af8424c399d5373630007dd7
+SHA1: a058489360ec590c87722bff7ff3e7b8bb5a197d
+SHA256: 5188576106e2f9657da7d7520e416e98b799586e6f4b9ff43bdcdc5205fd191c
+Section: Themes
+Homepage: http://ib-soft.net/icleaner
+Description: Dark theme for the iCleaner and iCleaner Pro apps.
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner Dark Theme
+
+Package: com.ivanobilenchi.icleanerdarktheme
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: winterboard
+Filename: ./debs/iCleanerDarkTheme_1.0.2.deb
+Size: 1274
+MD5sum: 5e798339af8424c399d5373630007dd7
+SHA1: a058489360ec590c87722bff7ff3e7b8bb5a197d
+SHA256: 5188576106e2f9657da7d7520e416e98b799586e6f4b9ff43bdcdc5205fd191c
+Section: Themes
+Homepage: http://ib-soft.net/icleaner
+Description: Dark theme for the iCleaner and iCleaner Pro apps.
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner Dark Theme
+
+Package: com.linusyang.appinst
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 392
+Pre-Depends: firmware (>= 5.0)
+Depends: net.angelxwind.appsyncunified (>= 5.1)
+Conflicts: com.sull.appinstaller
+Filename: ./debs/nodelete-com.linusyang.appinst.deb
+Size: 72688
+MD5sum: 285cb273e96cea58fd722f645a8a50ba
+SHA1: c9d7c6b185220d432f53de2a11373edc9ba666d6
+SHA256: 17fe753958f940cedb8617f7c6480b3b27d8fb2d8c87c006378d5d6e95d2d3a4
+Section: Utilities
+Priority: standard
+Homepage: https://github.com/angelXwind/AppSync
+Description: Install IPAs from the command line
+Tag: role::enduser, purpose::console
+Author: Linus Yang <laokongzi+appsync@gmail.com>
+Depiction: https://cydia.akemi.ai/?page/com.linusyang.appinst
+Name: appinst (App Installer)
+
+Package: com.unthreadedjb.hashtag-unthreadedjb-hashtag-screan
+Version: 0.0.0.0.0.0.0.3-ALAPHA
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depends: org.chronic-dev.animate, com.ih8sn0w.animatefix
+Filename: ./debs/com.unthreadedjb.hashtag-unthreadedjb-hashtag-screan.deb
+Size: 1722208
+MD5sum: 93b6824c328e4046cb21f2b90ce67a6d
+SHA1: cf8557eff0f20158bb232f8be3b2a6d56e4f5b7d
+SHA256: 0743eac314bc55098ce4e204f0849ca65de9ee93a1e763cb12d3f26f2c7cf242
+Section: Addons (BootLogo)
+Homepage: https://www.youtube.com/user/UnthreadedJB
+Description: #unthreadedjb screan .. it is of #gud #tweek HOLMES !!
+Author: #unthreadedjb
+Icon: file:///Library/KarenRepoIcons/com.unthreadedjb.hashtag-unthreadedjb-hashtag-screan.png
+Name: #unthreadedjb #screan
+
+Package: net.angelxwind.airspeaker
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 5768
+Depends: preferenceloader, net.angelxwind.karenprefs (>= 1.3)
+Filename: ./debs/nodelete-net.angelxwind.airspeaker.deb
+Size: 3262806
+MD5sum: 5367a244024fe9f764c0a1aa2d616824
+SHA1: 61c689afce00e0318cb9ca7d60d5efadfb02b52b
+SHA256: 6761e3d0becf2d79c7db94a29e60f793fbf17795ef1b749d7b210e6a5d4900a3
+Section: Utilities
+Homepage: https://cydia.akemi.ai/
+Description: Use your iOS device as an AirPlay speaker!
+Author: Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.airspeaker
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.airspeaker.png
+Name: AirSpeaker
+
+Package: net.angelxwind.allmailactions
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.allmailactions.deb
+Size: 714
+MD5sum: 9cce216687bc3670b09a9a4c25aedb57
+SHA1: bfacf6d00e127fdb6e3a1ddc35b3f2d685a07759
+SHA256: 08a51ab84128f410f28e0f8772c56841868b7b69d58e6fc134147bda3fdc342a
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: All Mail Actions (mikoto)
+
+Package: net.angelxwind.android-4x-pattern-lock
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Conflicts: net.angelxwind.ics-jb-alxt-theme
+Replaces: net.angelxwind.ics-jb-alxt-theme
+Filename: ./debs/net.angelxwind.android-4x-pattern-lock.deb
+Size: 539916
+MD5sum: ebbd50aada934a343c36fc04c2d5d036
+SHA1: 91cccb367b4f6a5f005ae814f2d5a0a5c268f28f
+SHA256: 093d8ae303d95b2272588089c8fd66127770d69b59b43cfd5e1d40702e6bbf97
+Section: Themes
+Homepage: https://cydia.angelxwind.net/
+Description: Android 4.x pattern lock theme for AndroidLock XT.
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.android-4x-pattern-lock
+Name: Android 4.x Pattern Lock for AndroidLockXT
+
+Package: net.angelxwind.appsync40plus
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Pre-Depends: firmware (>= 4.0), firmware (<< 5.0)
+Conflicts: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Replaces: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: ./debs/net.angelxwind.appsync40plus.deb
+Size: 9214
+MD5sum: 1dc3b985b409e00a3f264d3ad127c466
+SHA1: fd2e00f9fabb0f5972998a56b92267953920dfee
+SHA256: 975a049660b4df16b37afdf9e261496bd5f3b83b81f9ab2631d9ec907a9473b1
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: AppSync Unified allows you to sync and install unsigned iOS applications. Only for iOS 4.
+Author: Karen/あけみ, Dissident <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsync40plus
+Name: AppSync for iOS 4.0
+
+Package: net.angelxwind.appsync50plus
+Version: 9.2
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: net.angelxwind.appsyncunified
+Filename: ./debs/nodelete-net.angelxwind.appsync50plus.deb
+Size: 794
+MD5sum: 59c4215eca92cb5ef7cc87e40b804e0e
+SHA1: bedf128e942168c67f84934da448bca5e75c34fe
+SHA256: af0f0bb1f28c21fa2eb30d90ddd600a331e2ad9c671782ded37279ad004a2b1a
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for AppSync Unified.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified-transitional
+Name: AppSync Unified Transitional Package (50plus)
+
+Package: net.angelxwind.appsync60plus
+Version: 9.2
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: net.angelxwind.appsyncunified
+Filename: ./debs/nodelete-net.angelxwind.appsync60plus.deb
+Size: 794
+MD5sum: c7405b8ffa06ae8dc0886344cdd2a712
+SHA1: c5dc46b1a42044f84898f21f6b5e88d2587fe4c6
+SHA256: 322656df95c13f9acebb4dff5f4a97561ac1958e2f69f1ccbf05f8802383b120
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for AppSync Unified.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified-transitional
+Name: AppSync Unified Transitional Package (60plus)
+
+Package: net.angelxwind.appsync70plus
+Version: 9.2
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: net.angelxwind.appsyncunified
+Filename: ./debs/nodelete-net.angelxwind.appsync70plus.deb
+Size: 794
+MD5sum: 1e67f617ed45578a74feb58aad5ef6c9
+SHA1: ab08f2ec78d4ec8aa25c4503a700d1c06e43932f
+SHA256: 7a090908943c6e0841d0e7a4fcb20ea9b6ce89b97c1880363daa8a488a748037
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for AppSync Unified.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified-transitional
+Name: AppSync Unified Transitional Package (70plus)
+
+Package: net.angelxwind.appsyncunified
+Version: 80.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 42050
+MD5sum: c85456e75e9bcbd7174b8ad6e4e0dcb4
+SHA1: 3cd33452a5fd3ce3ea802713e540c00d03661054
+SHA256: 9f134ae1195783584cfde0c78dee439157c553c88703f0ae461b3f52248e577f
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.bettergooglemaps
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.bettergooglemaps.deb
+Size: 718
+MD5sum: a9fa332ac2b4b8be2d9b7f71a98d72a3
+SHA1: 4d373835e4abd59dd77ac41cc4583aa15dc922ff
+SHA256: 247bbf2fe6a3cde65d928318e6194d65a3cf15c947f658e10f2539b29154e399
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: Better Google Maps (mikoto)
+
+Package: net.angelxwind.betteryoutube
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.betteryoutube.deb
+Size: 716
+MD5sum: ac22c59af7d4015eaf42672ef31ad2ac
+SHA1: de169998881bfe78f6e2df0589a6dac39a51889f
+SHA256: e03cdbdf5e562879d8f5e07df2cfaa3048dbe5c219c06d4234641db6d8ae13ce
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: Better YouTube (mikoto)
+
+Package: net.angelxwind.cesiumhelper
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 1736
+Depends: mobilesubstrate, firmware (>= 7.0), applist, net.angelxwind.karenprefs (>= 1.5)
+Filename: ./debs/nodelete-net.angelxwind.cesiumhelper.deb
+Size: 1261522
+MD5sum: c7142b6fb9b1bef4542347560e821a4c
+SHA1: 448e93f49e071eb2736765fff07649bfc8aef9dc
+SHA256: d018bf27732bb3f4c5f8ceb48e3cf7090fd8d70f676c0fedc0eab4c8fb1de128
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enhance Cesium's integration with iOS!
+Author: Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.cesiumhelper
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.cesiumhelper.png
+Name: CesiumHelper
+
+Package: net.angelxwind.clitools
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depends: syslogcmdline, adv-cmds, com.innoying.sbutils, cycript | firmware (>= 11.0), irssi | firmware (>= 11.0), com.autopear.installipa, org.thebigboss.cacerts, com.eswick.ondeviceconsole, org.thebigboss.cutils, apt7, basic-cmds, bootstrap-cmds, bzip2, class-dump | firmware (>= 11.0), coreutils, developer-cmds, diskdev-cmds, file-cmds, gawk, gdb | firmware (>= 11.0), git, gzip, iokittools, less, make, com.conradkramer.open, nano, network-cmds, ldid, rsync, shell-cmds, system-cmds, com.ericasadun.utilities | firmware (>= 11.0), socat, screen, top, uikittools, findutils, inetutils, diffutils, lsof, subversion | firmware (>= 11.0), vim, xar | firmware (>= 11.0), tar, patch, unrar, unzip, wget, whois | firmware (>= 11.0), xml2 | firmware (>= 11.0), zip, p7zip
+Filename: ./debs/net.angelxwind.clitools.deb
+Size: 1004
+MD5sum: 55a752f982d2175f3294c1314737054d
+SHA1: 8604ec5b0fbc9cc9036e5485659708351991177d
+SHA256: c51175642a450d2ee365b793ecb1a3a1e87e47d2edadf642b911394b9402d531
+Section: System
+Homepage: https://cydia.angelxwind.net/
+Description: Metapackage for some CLI tools I use often.
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.clitools
+Name: CLI Tools
+
+Package: net.angelxwind.completeppsyncremover
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depends: mobilesubstrate
+Conflicts: com.teiron.ppsync, ppsync
+Filename: ./debs/net.angelxwind.completeppsyncremover.deb
+Size: 13332
+MD5sum: a71f62390b67de22fdadbee9deaf0549
+SHA1: 536547789c0998ecfa4c6a3d5635c383665ee8a8
+SHA256: 30f85e50d216973ed72c2f026019907912417d39681143730cb60364fdb0d4de
+Section: Utilities
+Homepage: https://cydia.angelxwind.net/
+Description: Completely removes traces of PPSync.
+Author: Karen/あけみ <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.completeppsyncremover
+Name: Complete PPSync Remover
+
+Package: net.angelxwind.euvolumelimitdisabler
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.euvolumelimitdisabler.deb
+Size: 724
+MD5sum: bb0129d48fd754883ed9dbaf964001df
+SHA1: 370a88e0375ab7e6f84f2b835284bc55cf73c19c
+SHA256: ff015a67da98f4c9feff3536bd67852c32fd1d44dd453acb1ecde3a8fbdc98ab
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: EU Volume Limit Disabler (mikoto)
+
+Package: net.angelxwind.facebookinternalsettings
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.facebookinternalsettings.deb
+Size: 724
+MD5sum: db4ca4ea6e81ca4455757c58efd5f5b3
+SHA1: 574bbfed248cc7db829105e2139c477ea81a872f
+SHA256: 35a43872b92aeba1cffee289452c04bd5823938c72ed5219835c69280a89ad39
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: Facebook Internal Settings (mikoto)
+
+Package: net.angelxwind.ineffectivepower
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 8.0)
+Conflicts: com.mohammadag.unicodesuppressor, com.imokhles.antieffective, com.sull.ineffectivepower
+Filename: ./debs/nodelete-net.angelxwind.ineffectivepower.deb
+Size: 3734
+MD5sum: 697651e5031e0df0802ee6bd229ad664
+SHA1: d5ab860acd8754e9adab34d1b32b1a1680a131a4
+SHA256: 0d1121bf3ebc2945adc643f1054cef69a34cd09421647123199e41465c4ccbda
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: Stop the infamous "Effective Power" text string from crashing CoreText!
+Author: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.ineffectivepower
+Name: IneffectivePower
+
+Package: net.angelxwind.internalfbicons
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depends: winterboard
+Filename: ./debs/net.angelxwind.internalfbicons.deb
+Size: 401572
+MD5sum: cfea15fe81a23fcf50a02d87ce937c5f
+SHA1: 1e405c961e5556fb6a4217a8de3731bfde168396
+SHA256: 8926c91bb9fdd478e6b024afcfffb511e514c019287b5dfe6ae1ea3243bd2674
+Section: Themes
+Homepage: https://cydia.angelxwind.net/
+Description: Facebook app icons used internally by employees.
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.internalfbicons
+Name: Internal FB Icons
+
+Package: net.angelxwind.iswipe
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Installed-Size: 220
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/nodelete-net.angelxwind.iswipe.deb
+Size: 34114
+MD5sum: 716c3607e6d48d21ab1b30ac457761b7
+SHA1: c90b2a5a3b39692a79129150e5fa6ffdb9afeda7
+SHA256: ab4c18adc7a122faeeaf5fa0505244c5772cbfa360f8640eaee7778ecb72017a
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: First gesture-based keyboard for iOS!
+Author: Karen／明美 (angelXwind), wyndwarrior <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.iswipe
+Name: iSwipe
+
+Package: net.angelxwind.iswipe
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/net.angelxwind.iswipe.deb
+Size: 1965152
+MD5sum: 3d2a65ef165d64d3f712a1848ca36dcb
+SHA1: 2b8d855896c4096cbb11d6b06a9e24c783d95ed5
+SHA256: 8ae61c2d6606770ef6ae1067fa5c3902923a53696abb0a4b75cb77f076dac8d2
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: Type words by swiping across the keyboard.
+Author: Andrew Liu (WyndWarrior), Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.iswipe
+Name: iSwipe
+
+Package: net.angelxwind.jellylockunified
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 6212
+Depends: firmware (>= 5.0), applist, mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs
+Conflicts: com.ravirajm.simplock, com.maxkatzmann.jellylock7, com.mkatzmann.jellylock
+Filename: ./debs/nodelete-net.angelxwind.jellylockunified.deb
+Size: 5550260
+MD5sum: c5394f2d8620da8382b18b67ad400d9d
+SHA1: 8a88d01d46d3f8e3bd0b4af65e68ac049e1c807b
+SHA256: 51aebd1f1f6734c4332e306854774cbcf0310e8929610e403ac556519d7d485f
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: A beautifully simple lockscreen application launcher.
+Author: Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.jellylockunified
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.jellylockunified.png
+Name: JellyLock Unified
+
+Package: net.angelxwind.mikoto
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 15548
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Conflicts: com.xcxiao.simplelsios10
+Filename: ./debs/nodelete-net.angelxwind.mikoto.deb
+Size: 11582804
+MD5sum: e1f49254a62ed949fd6d7d44c0b01043
+SHA1: 5717d7348bd1a23cc7bb94f659704409a21eeb8a
+SHA256: ea31dd47acfa2c397664ffb19e8bcc130d356d37fad49ccd6c45ebb32f06de69
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: Comprehensive iOS System/App Store App customisation suite
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mikoto
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.mikoto.png
+Name: mikoto
+
+Package: net.angelxwind.mobileterminal-applesdk
+Version: 521-karen-2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Pre-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debs/net.angelxwind.mobileterminal-applesdk.deb
+Size: 248692
+MD5sum: e2d63b556f01a3203a6d709c80c46bf7
+SHA1: 15c3962bc155924587dea65a63c2994cbfbbc803
+SHA256: 9e7378e1cffb66519d75f765b5c174fed1ac502426e1b990426d517e6450f91b
+Section: Terminal_Support
+Homepage: https://cydia.angelxwind.net
+Description: A Terminal emulator. This is a Terminal emulator for the iPhone. With it you can do all of your standard system administration tasks from anywhere: SSH into remote boxes, download files, edit configuration files, whatever.
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mobileterminal-applesdk
+Name: MobileTerminal
+
+Package: net.angelxwind.noautospotlightkeyboard
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.noautospotlightkeyboard.deb
+Size: 724
+MD5sum: eedd82c1af41c9e076fbb1eced44521c
+SHA1: 1c1926a4d76a33d02653ad7f24af7f1d84db7c26
+SHA256: 4b0f79e09f95246d18112c93f4669c53f4902c662b8a0cb980c667677ba5d2c0
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: No Auto Spotlight Keyboard (mikoto)
+
+Package: net.angelxwind.nocalculatorinputlimit
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.nocalculatorinputlimit.deb
+Size: 722
+MD5sum: d04da0d9ea42dcf28de2af7225e88433
+SHA1: dd66388e13e59036814856070f8ff17285babdcb
+SHA256: c2b74fece4842e51323814b231fdaa999062c2a9d076e69bd8a0dba29a3b7c8d
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: No Calculator Input Limit (mikoto)
+
+Package: net.angelxwind.nolschargingbattery
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.nolschargingbattery.deb
+Size: 720
+MD5sum: a7a010a7e5b541fe0bef159261bd4583
+SHA1: 2fe544abc987fcce96fcefd823f121df2a879bbe
+SHA256: e3590e0951994b5d2eaee21750d5ceed20bb10b2249e519c2016675e9cccfb5f
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: No LS Charging Battery (mikoto)
+
+Package: net.angelxwind.noplsrecovery
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.pushfix.recguard, com.sull.recoveryguardbeta, com.arefttt.norecoverstore
+Filename: ./debs/nodelete-net.angelxwind.noplsrecovery.deb
+Size: 5598
+MD5sum: e6f0fff137a97020bdcdbb9933927ad2
+SHA1: c7ff5dc7d1c4926d2069b6bcb3894f2f1366dada
+SHA256: 9ab21b474f5f5d996d47409222757a0b180b9ebf9870d3ff7ad3624e3bf13c32
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: A tweak that prevents accidental updates/restores and thievery.
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.noplsrecovery
+Name: NO PLS RECOVERY
+
+Package: net.angelxwind.nospotlightdim
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.nospotlightdim.deb
+Size: 714
+MD5sum: 9e8acc9f49a8b01e3f83e38a548e87ab
+SHA1: f27705b7fa9617feb6314c8ef88185409e1a5a75
+SHA256: a746bc663a8881670a858bedebcfdef6dbc5055782f885b8ee7278554269a8ab
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: No Spotlight Dim (mikoto)
+
+Package: net.angelxwind.nowallpapergradient
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.nowallpapergradient.deb
+Size: 718
+MD5sum: 0acdee84b136cd13364e329f7e20b073
+SHA1: 86e66c9dd2c726fbde0d596313eabe0951abb290
+SHA256: 08dfe0911aa6c89b5d03d8ee4be0be324881b75a1cc24a838c449cb04688fd0c
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: No Wallpaper Gradient (mikoto)
+
+Package: net.angelxwind.pineapplespinnerls
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 208
+Depends: mobilesubstrate, firmware (>= 7.0), com.dba-tech.lockpages
+Filename: ./debs/nodelete-net.angelxwind.pineapplespinnerls.deb
+Size: 51076
+MD5sum: cd70c5f6de511f386e1d2d378e7d9359
+SHA1: b318fca8fffbc972ac78e6aa6ec7ba2b0489053e
+SHA256: 212a50c8c6f39bbc1654bafb73f5ff2e7f54e359e0615caed8564dacf1bac2ad
+Section: Tweaks
+Description: Spin a pineapple on your lock screen!
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.pineapplespinnerls
+Name: PineappleSpinnerLS
+
+Package: net.angelxwind.preferenceorganizer2
+Version: 4.0.8
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 2016
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.5), net.angelxwind.karenlocalizer
+Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.sull.preferenceorganizer7
+Replaces: org.ilendsoft.preferenceorganizer, com.eliz.preferenceorganizer7
+Filename: ./debs/nodelete-net.angelxwind.preferenceorganizer2.deb
+Size: 1389558
+MD5sum: b4677faf3fe036219dd99404c15c0c33
+SHA1: bd626df89ba23bc466bf02dabd8a75689561a528
+SHA256: 155093a517db145d42ba0e28733d1e0b5bcfd4e291292158cdbd6146b0f77596
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Organises your Preferences app into several configurable categories for ease of navigation.
+Author: Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.preferenceorganizer2
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.preferenceorganizer2.png
+Name: PreferenceOrganizer 2
+
+Package: net.angelxwind.safestrat
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 196
+Filename: ./debs/nodelete-net.angelxwind.safestrat.deb
+Size: 3916
+MD5sum: 88b417f53cc7741ae03d6bb74fe833f0
+SHA1: 84df8df844daf12c52fd83aea9d8e2b005a064ba
+SHA256: c7dd5b190ddecb5570947f1fb79bee2ae1d155b0ce2ca67cda23498915d84e81
+Section: Utilities
+Homepage: http://cydia.angelxwind.net/
+Description: Volume-down at boot for SSH over USB
+Author: comex <karen@angelxwind.net>
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.safestrat
+Name: safestrat
+
+Package: net.angelxwind.sandboxpathfixer
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 696
+Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap (>= 1.0.2), net.angelxwind.karenprefs, applist
+Filename: ./debs/nodelete-net.angelxwind.sandboxpathfixer.deb
+Size: 23204
+MD5sum: 191c0f7fc3817119598160b1c3738331
+SHA1: fb7a7356ae7679f2c4b4e19e427aca6d7360e05b
+SHA256: be141a49b9e8a2aa2dc99766a2f34a8243588a90b1cb277c3bebebf49738761d
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Fixes sandbox paths for certain apps that are broken in iOS 8.0 and above
+Author: Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.sandboxpathfixer
+Name: Sandbox Path Fixer
+
+Package: net.angelxwind.showlsstatusclock
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.showlsstatusclock.deb
+Size: 720
+MD5sum: d77cc239c357e30a165e60a2e4435583
+SHA1: 7b986b37b8422323bcdb1bd489cd8f9559ae4f33
+SHA256: 789fa5ab208c8e1b4f42d02899e8eddeaa75b6e3c4c8173d74180c0be70db918
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: Show LS Status Clock (mikoto)
+
+Package: net.angelxwind.shownotificationdates
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.shownotificationdates.deb
+Size: 720
+MD5sum: 38e5063dd4940c6cb43d485ef4bfd0e8
+SHA1: e4202e183fa5ab99ed3cbc077fdc28356bb68f1c
+SHA256: d39fba04c16ebd110a5e67c2b33e661fe9740fbada3bdd64b1e53dc366a40397
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: Show Notification Dates (mikoto)
+
+Package: net.angelxwind.stash841
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depends: net.tihmstar.etasonuntether (>= 1.1.0), firmware (= 8.4.1)
+Filename: ./debs/net.angelxwind.stash841.deb
+Size: 1004
+MD5sum: 651c05a3b080e3d2bd88834e8267e6eb
+SHA1: 7d501343b93eb3959a16aff0694ccb6df0be878d
+SHA256: 7a5941fadf7a2972a461d54c22cc12966d129a504a2d3dbec9d0315fbe8332d2
+Section: System
+Homepage: https://cydia.angelxwind.net/
+Description: Enables stashing on #etasonJB (iOS 8.4.1)
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.stash841
+Name: Stashing for #etasonJB (8.4.1)
+
+Package: net.angelxwind.stash935fix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depends: firmware (= 9.3.5)
+Filename: ./debs/net.angelxwind.stash935fix.deb
+Size: 970
+MD5sum: 7599d9832a856a5bc7cc1b9fa85739ab
+SHA1: 3bd9db222d749a4d3d61b5d5b4b08278c10c7a28
+SHA256: 7cb2ecad1251fc01fb25ef0e7b907cd49f32eec52f27071bf81120a2e1cca2df
+Section: System
+Homepage: https://cydia.angelxwind.net/
+Description: Fixes stashing on Phœnix (iOS 9.3.5)
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.stash935fix
+Name: Stashing Fix for Phœnix (9.3.5)
+
+Package: net.angelxwind.syscallfail
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 196
+Depends: firmware (>= 7.0)
+Filename: ./debs/nodelete-net.angelxwind.syscallfail.deb
+Size: 2272
+MD5sum: 66e0bc70961648bcb17308716f99d958
+SHA1: ffc43e161eda18815a3c03cd1e0c458b529fd711
+SHA256: b0b5d609b67aed5e254a52cdaa704ba2b6760b42801eeb2c1bc43e9219f620d1
+Section: Utilities
+Homepage: https://cydia.angelxwind.net/
+Description: Proof of concept of a security vulnerability that exists in evasi0n7 1.0.3 and below.
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.syscallfail
+Name: syscallfail
+
+Package: net.angelxwind.testflightfixer
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Filename: ./debs/net.angelxwind.testflightfixer.deb
+Size: 828
+MD5sum: a9f6fb9335c5c7bae8fb12b8bb8ac840
+SHA1: bef556b5fc68fa6a5ac01af4834538bb9a2580d5
+SHA256: fce9e9b48b472465323b6afb8e7634b513953d610c2e13c98adfeb67c0f854c8
+Section: Utilities
+Homepage: https://cydia.angelxwind.net/
+Description: Repairs provisioning profile permissions notably affecting TestFlight in some jailbroken iOS installs
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.testflightfixer
+Name: TestFlight/Provisioning Profile Fixer
+
+Package: net.angelxwind.trillianenhancer
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.trillianenhancer.deb
+Size: 714
+MD5sum: 7ebcc5bfef1159288fde981d4c728051
+SHA1: 870aaf28274bd9f11d3366005163657c8ada2f89
+SHA256: 2aebaacee8aa73328a6a2c6499b65f9ddaf85b562fbb2fdb887cbff60f9d0bbf
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: Trillian Enhancer (mikoto)
+
+Package: net.angelxwind.unlimitedncnotifications
+Version: 8.88
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.unlimitedncnotifications.deb
+Size: 722
+MD5sum: 505240a889625eafe3add5c76f4b4b13
+SHA1: 501bac11ec1f428c5bb43516ec469999eb90d929
+SHA256: bfa4401e37707d147d6a4f6fd220ace98769a30b0b75299f5fa50c563537722e
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Transitional package for mikoto.
+Tag: cydia::obsolete
+Author: Karen Tsai (angelXwind)
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.mikoto-transitional
+Name: Unlimited NC Notifications (mikoto)
+

@@ -1,0 +1,112 @@
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.7~beta3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: files/com.rpetrich.rocketbootstrap_1.0.7_beta3_iphoneos-arm.deb
+Size: 37990
+MD5sum: 7c693be81595deb417858ffc5ae8cd10
+SHA1: e0f1b4afbac67e3c8beb39df819997fd0cb54468
+SHA256: 4b7e9c8a0c6d5fc3179e0c5f7fb880239f8c5f30e481979b9d7e4829d58cfb73
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.alfhaily.appthickening
+Version: 0.9.0
+Architecture: iphoneos-arm
+Maintainer: Majd Alfhaily
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: files/me.alfhaily.appthickening_0.9.0_iphoneos-arm.deb
+Size: 3454
+MD5sum: 741ad51533f8b915fe67c3d9a55c63a0
+SHA1: 4ff904fb0241664d3e742eb6135f71bfaa735dda
+SHA256: bd0cc4a71d4ef2f04befefe763dcc8fc28673d8ccea39afbb4053142467fe914
+Section: Tweaks
+Description: Disable App Thinning.
+Author: Majd Alfhaily
+Name: App Thickening
+
+Package: me.alfhaily.cercube
+Version: 5.1.18
+Architecture: iphoneos-arm
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Installed-Size: 15104
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: files/me.alfhaily.cercube_5.1.18_iphoneos-arm.deb
+Size: 4279360
+MD5sum: 2ce9ac47034d82dc1f3dba8e60f3c01c
+SHA1: a0b89f5118e2c29729be5a6c73257a84540a26ab
+SHA256: 325809aaa9bb995b457ad7f90b6448a85001e173284787fff3489a40ee7a0f6a
+Section: Tweaks
+Priority: optional
+Description: Download YouTube videos and more!
+Author: Majd Alfhaily
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Name: Cercube for YouTube
+Sileodepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+
+Package: me.alfhaily.inevitable
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Installed-Size: 740
+Depends: mobilesubstrate, libactivator (>= 1.9.12), firmware (>= 12.0)
+Filename: files/me.alfhaily.inevitable_1.0.0_iphoneos-arm.deb
+Size: 96266
+MD5sum: 352be4a11ce78202cc7754a06b39ddba
+SHA1: 313b16dc8334d8a8a376a434fa419a6edd50fb06
+SHA256: 72c4b24f3ef900d774c3dea70212d7f48e5160c26396066f138478a31f02dcf3
+Section: Tweaks
+Description: Make your home screen perfectly balanced, as all things should be.
+Author: Majd Alfhaily <freemanrepo@me.com>
+Icon: file:///Library/PreferenceBundles/InevitablePreferences.bundle/CydiaIcon.png
+Name: Inevitable
+
+Package: me.alfhaily.opencli
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 68
+Filename: files/me.alfhaily.opencli_1.0.0_iphoneos-arm.deb
+Size: 2504
+MD5sum: 64f400c8a9a649697e5e54f1a11d9cf4
+SHA1: 483c509d55722eaa84ada3ed2dc335f061850c8a
+SHA256: c4b201a5591a339245b3cd309a1de4bcbaec594c6ff2943b5c478e5f54f00e43
+Section: System
+Description: Launch apps from the command-line, originally made by Conrad Kramer. This package is updated to work with Electra 11.x.
+Tag: purpose::console, role::hacker
+Author: Majd Alfhaily <freemanrepo@me.com>
+Dev: freemanrepo
+Name: Open
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.alfhaily.rocket
+Version: 3.7.3
+Architecture: iphoneos-arm
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: files/me.alfhaily.rocket_3.7.3_iphoneos-arm.deb
+Size: 7513012
+MD5sum: 48d70d9b04d89642774380c98bd09566
+SHA1: 7f14b95c9fe6afaf5ba95e34d2248437f9560b54
+SHA256: 7ff47ee512950c141eb4254f8e3396ab09a92c772153059a473795851de0949f
+Section: Tweaks
+Priority: optional
+Description: Save posts and view stories anonymously and do much more
+Author: Majd Alfhaily
+Depiction: https://api.getrocketapp.io/depiction/web
+Icon: https://api.getrocketapp.io/resources/depiction/images/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://api.getrocketapp.io/depiction/sileo
+

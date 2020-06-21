@@ -1,0 +1,614 @@
+Package: com.c1d3r.ChargeAnimations
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, me.nepeta.libcolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debs/ChargeAnimations.deb
+Size: 24191190
+MD5sum: 69a317a17b1a8e3c789fa34e07d69565
+SHA1: 81685c162f099c4ccdc634a88ddf9549eb4818ed
+SHA256: f2e3291491127edf4d57de2dd695e13619151d47234f0abc56440744cc160ac9
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for when plugging in your device!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.ChargeAnimations
+Dev: c1d3r
+Name: ChargeAnimations
+
+Package: com.c1d3r.ChargeAnimations
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader
+Filename: ./debs/ChargeAnimations-3.0.deb
+Size: 23944216
+MD5sum: 503b0e8b94974c21a3bc80febce222ac
+SHA1: b8ed08e538e7572e3791e7cbb052520f93366925
+SHA256: 12ac0a816100e3a7db740d48abe6372f034b2bb0178df067805838117cfb03af
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for when plugging in your device!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.ChargeAnimations
+Dev: c1d3r
+Name: ChargeAnimations
+
+Package: com.c1d3r.ChargeAnimations
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/ChargeAnimations-3.0.1.deb
+Size: 23944244
+MD5sum: ca203c33686ea72945aa1de586323acf
+SHA1: 3238e0950b196a084c818907c3a25bad3edcbab2
+SHA256: 91678008235093ad86d18612e734a5cd9bf475de659342934c95142f5dc6f7fb
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for when plugging in your device!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.ChargeAnimations
+Dev: c1d3r
+Name: ChargeAnimations
+
+Package: com.c1d3r.ChargeAnimations
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/ChargeAnimations-3.0.2.deb
+Size: 23944630
+MD5sum: b9f575a8e10e974636946f4e3a77b48d
+SHA1: c2ccbfb56b4177d6854ec3bb4d11455c3787353c
+SHA256: ca4da822e5c64b1b8c83b3ffa392a9e2962eaf7cb247b22c58b1fbdd29fa0801
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for when plugging in your device!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.ChargeAnimations
+Dev: c1d3r
+Name: ChargeAnimations
+
+Package: com.c1d3r.ChargeAnimations
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/ChargeAnimations-3.0.3.deb
+Size: 24909504
+MD5sum: e8b24204b6cdfb2b8f21270abd764130
+SHA1: dc17e224858c1730a787074ce2dbe2c015093576
+SHA256: 1d9698bdd1503fcb1574c37d50e570987b58660dad28d11a4118e6ba1c487381
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for when plugging in your device!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.ChargeAnimations
+Dev: c1d3r
+Name: ChargeAnimations
+
+Package: com.c1d3r.ChargeAnimations
+Version: 3.0.5
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/ChargeAnimations_3.0.5.deb
+Size: 24912234
+MD5sum: ed486ec349fdee7442b0bafc5540dca5
+SHA1: e95351d407384da8f49460888f063bd41cbca483
+SHA256: 5575cd3663a4115878274f59a987720bffc9d22c6429dba177fe1f5a7983b4c9
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for when plugging in your device!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.ChargeAnimations
+Dev: c1d3r
+Name: ChargeAnimations
+
+Package: com.c1d3r.ChargeAnimations
+Version: 3.0.6
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/ChargeAnimations_3.0.6.deb
+Size: 24890312
+MD5sum: eb8ccb4fa8fff611dd5ecfc7705bb984
+SHA1: 2014f7b10f99b79492b9312bde5bf8d37ba70f65
+SHA256: 1bcd7d064365fb2ae9ebcb94cfac16743d4b8fd3bbcc6ffd491827985c827672
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for when plugging in your device!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.ChargeAnimations
+Dev: c1d3r
+Name: ChargeAnimations
+
+Package: com.c1d3r.GlyphAlert
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, applist, me.nepeta.libcolorpicker, com.rpetrich.rocketbootstrap (>= 1.0.7~beta2)
+Filename: ./debs/GlyphAlert.deb
+Size: 1920720
+MD5sum: 17d35a15b8742be78abcfad19ad01c5b
+SHA1: dc94f210e1801466fa760cd2d4f75752cd16df98
+SHA256: d9db25942d6e1a227b3b37bcc5efc5c12cc534981ec60a872348593abbbfccc2
+Section: Tweaks
+Priority: optional
+Description: Animated glyphs when receiving notifications, assignable to specific applications!
+Author: c1d3r
+Dev: c1d3r
+Name: GlyphAlert
+
+Package: com.c1d3r.GlyphAlert
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>= 1.0.7~beta2), preferenceloader
+Filename: ./debs/GlyphAlert-2.0.deb
+Size: 1671646
+MD5sum: 75a63b1978d6551b949397a29d19c4e4
+SHA1: 504cc0c9d705a4652b7262858e47cec907699779
+SHA256: e9e91d95ef07001ac4d563caeccaba36c08dda4f275a84dc8477a5f6aea001e3
+Section: Tweaks
+Priority: optional
+Description: Animated glyphs when receiving notifications, assignable to specific applications!
+Author: c1d3r
+Dev: c1d3r
+Name: GlyphAlert
+
+Package: com.c1d3r.GlyphAlert
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>= 1.0.7~beta2), preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/GlyphAlert-2.0.1.deb
+Size: 1671696
+MD5sum: 6f1be9f3871495f25834b69de9b4bd85
+SHA1: 1de8bdebf111ca195a3c107a2d3c405ae4ab46f6
+SHA256: ac56d33081bbbaf4f8e04c5b737a62902632d583da98064bcf915a387ce2c1f7
+Section: Tweaks
+Priority: optional
+Description: Animated glyphs when receiving notifications, assignable to specific applications!
+Author: c1d3r
+Dev: c1d3r
+Name: GlyphAlert
+
+Package: com.c1d3r.GlyphAlert
+Version: 2.0.1-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>= 1.0.7~beta2), preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/GlyphAlert_2.0.1-1.deb
+Size: 1674696
+MD5sum: dab6128d18cc2650d340456f927b8d14
+SHA1: 413c0654e5fe3b49c5b075f77303fa96040f5f4f
+SHA256: 0ec58285605bc8d02a88eeaa9e59b34d2d3b2931c25fb311d5eb17108e9b56f6
+Section: Tweaks
+Priority: optional
+Description: Animated glyphs when receiving notifications, assignable to specific applications!
+Author: c1d3r
+Dev: c1d3r
+Name: GlyphAlert
+
+Package: com.c1d3r.HomeButtonPlus
+Version: 1.2.1-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: com.macciti.lockplus, com.macciti.lockpluspro
+Filename: ./debs/HomeButtonPlus.deb
+Size: 6556446
+MD5sum: 19e40e70160715ff38a2a4da94fe8391
+SHA1: 29d5868a49b5a0464fc5ae6b422be440f64a63c2
+SHA256: 521360f6826c5156532888ce7368a0132928de14ac8741d2d212cda268bdec16
+Section: Tweaks
+Priority: optional
+Description: Get more out of your home button + TouchID sensor.
+Tag: cydia::commercial
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.HomeButtonPlus
+Dev: c1d3r
+Name: HomeButtonPlus
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.4-2
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.4-2.deb
+Size: 9363396
+MD5sum: a4054cd0ebb3e7990540d6efdd200ea9
+SHA1: 51aad0372c2e7ae695ad72b7843800b0c32f960f
+SHA256: 07a0ce9a01ff43450d030dd250502528382a9b093e3bad9fa90ab7b7658bfa70
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.5-beta1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.5-b1.deb
+Size: 9984288
+MD5sum: 758d136969f3fe4bdaa13b9f6a182183
+SHA1: 6060669dd7ad0eb5b4f9fddf1d1141f34c7c7986
+SHA256: 95991e78e01799e00facba323acef993b001e628f5c552429323b0b963ba0282
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.6-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.6.deb
+Size: 9828800
+MD5sum: 9723720106efa33619b2bcf5c3d0ec28
+SHA1: da76e15fea3e9f52481aae0491caecb1dcbb8d64
+SHA256: 88026a4d0d17f8591dae6eedd180ee75784f95196002aa2a8def0ff7a7e9d083
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.6-2
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.6-2.deb
+Size: 9843516
+MD5sum: cf62475d9c992d0ba316ff719cb4b990
+SHA1: da563fbe9c9d284582a175a4a98387783ec1f994
+SHA256: 1c5306060660a992a506030bf5c45d6d3a072f31c40bede4ace2abede78ce718
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_1.0.0-1.deb
+Size: 9886112
+MD5sum: c9bb84a220cf3de1b6d7a796c8db55a9
+SHA1: 70e2279833740939d8c799cd474edb2719d5e9ba
+SHA256: 9d965cefa74d7856ee73927f401dc67a45a6d2eaf0eb1194a76cf2188cfd96f1
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_1.1.0.deb
+Size: 9581140
+MD5sum: 88e77da059fd5ce58c8b312439dd2a17
+SHA1: 076d918a7016c44daccbd13d973fd10067dc49bb
+SHA256: e9021c28fa45ae8689a7e03a3263e8d1468f49767e4311658fa86927a6cb6bba
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_1.1.1.deb
+Size: 9590176
+MD5sum: 424e14cea7a7d98b496c652a8cc6eddb
+SHA1: 86172044849729f9d0a97e2ffc7aa896e9e34e46
+SHA256: 119aeb105d29a4e8d25aa4d24005c52694542a26009f5b15c0305cfc965355d7
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 1.1.2-3
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_1.1.2-3.deb
+Size: 9888784
+MD5sum: 7688e7aa6ddc27697ebf89212aa7f792
+SHA1: b7fe32baad6485d6157d4fe74972b1aba232aa0b
+SHA256: a9fe72ab9f102f7b5130ed4ff577bf57af5ea561052263d2af96660816294ef4
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 1.1.3-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_1.1.3-1.deb
+Size: 9869740
+MD5sum: 1b0c7a633465273fd803bd6389ef3bad
+SHA1: 188a36d3c7ac7987c4d3750bb6687cd7ac03646a
+SHA256: e889d68904004661b8cab1d188f1248c7a903cdecc2525214b41973de1ead7ef
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 1.1.4-4
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_1.1.4-4.deb
+Size: 9883988
+MD5sum: 0cc08c7e22357ff02c29e78eb21e44c7
+SHA1: 86042bf66950286121ec36a0b80d5c2817af612d
+SHA256: 8c185b8b6b4dc8605a8394a920e11539baca9967573f8ae5eb68aee11f453ce1
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Notchification
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader
+Filename: ./debs/Notchification-2.0.deb
+Size: 1804408
+MD5sum: 407791d5ddb76ab17f66369b15606930
+SHA1: 9d2537ca9edb32bdbff4f897ffea739041736649
+SHA256: e99acc8c4204244834a30f8b5398729bfe2397ade87fd9a9c4209428804c9d80
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for all device
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.Notchification
+Name: Notchification
+
+Package: com.c1d3r.Notchification
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/Notchification-2.0.1.deb
+Size: 1804452
+MD5sum: 781daca27b13e6e5f6ced6a4d26a77c8
+SHA1: 46402812be22606f3a931b98e2d7804a3052f8be
+SHA256: afdaa65d4696db6ee8db2a4ecbfecb225c5744bb3cdecec3c6feb639e0e47a03
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for all device
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.Notchification
+Name: Notchification
+
+Package: com.c1d3r.Notchification
+Version: 2.0.2-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/Notchification_2.0.2-1.deb
+Size: 1808946
+MD5sum: 334e66eee370378d6a86312e83964d30
+SHA1: 126cb02cfd0ffff4910e52d6be2ab70e186bc23d
+SHA256: 1a092f62b150c18489c18371f46c017930c53dc09c1375ebfe0bb45079671136
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for all device
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.Notchification
+Name: Notchification
+
+Package: com.c1d3r.Notchification
+Version: 2.0.2-2
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/Notchification-2.0.2-2.deb
+Size: 1808822
+MD5sum: 98eebae110c8b28a09870406a115f258
+SHA1: 79d126bacd70cd8cb595bb696fead575efd0bd5c
+SHA256: 72d77e4df28669c38882b3a23d209cf7c9cf9e48483d6564166340af866c228b
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for all device
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.Notchification
+Name: Notchification
+
+Package: com.c1d3r.Notchification
+Version: 2.0.2-3
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/Notchification-2.0.2-3.deb
+Size: 1808828
+MD5sum: dd095aeb7bf08adce1f01af41c55b351
+SHA1: 6a65f35040b58b92a74ef05fc5bfa41c03958d15
+SHA256: b6ac713bbf64e7c448280970f0869706f5f0c377122e3d1395f3a8601d57bda0
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for all device
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.Notchification
+Name: Notchification
+
+Package: com.c1d3r.Notchification
+Version: 2.1-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/Notchification_2.1-1.deb
+Size: 1797934
+MD5sum: 81d1b2f900ad3c226388fc4d3daeb351
+SHA1: 133c4afa484f6df55fd30956b89e86950f6d6d61
+SHA256: baab8710da01d3a1338a5141bbeec95d36b66a6e7697d4acbc3a203c168c3bb9
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for all device
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.Notchification
+Name: Notchification
+
+Package: com.c1d3r.Notchification
+Version: 2.1-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/Notchification.deb
+Size: 1797934
+MD5sum: 81d1b2f900ad3c226388fc4d3daeb351
+SHA1: 133c4afa484f6df55fd30956b89e86950f6d6d61
+SHA256: baab8710da01d3a1338a5141bbeec95d36b66a6e7697d4acbc3a203c168c3bb9
+Section: Tweaks
+Priority: optional
+Description: Beautiful animated notifications for all device
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.Notchification
+Name: Notchification
+
+Package: com.c1d3r.PageLabels
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.c1d3r.PageLabels_1.0_iphoneos-arm.deb
+Size: 10146
+MD5sum: bf17a4c22bf575598fad27682f4069e2
+SHA1: 64d7cfaeb00aedf040f2035c2456bd3c1816e68a
+SHA256: 22fcdfc9f11bc2c870562421c82c0e60498fe7fa9b24d95fa8e1eddd3b9467dc
+Section: Tweaks
+Priority: optional
+Description: Add a header to each page of your homescreen
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pagelabels
+Dev: c1d3r
+Name: PageLabels
+
+Package: com.c1d3r.PageLabels
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.c1d3r.PageLabels_1.1_iphoneos-arm.deb
+Size: 18778
+MD5sum: 12f4dff041307de03b1bc053e4a6c5e0
+SHA1: e8a6b9b5bee5657e16ca58ab8a920067bfd5fc20
+SHA256: 4bef9020e452465e63ee04f391b409e711b4a8590f815ac4da6330f5359f954b
+Section: Tweaks
+Priority: optional
+Description: Add a header to each page of your homescreen
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pagelabels
+Dev: c1d3r
+Name: PageLabels
+
+Package: com.c1d3r.PullOverPro
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./debs/PullOverPro.deb
+Size: 2080654
+MD5sum: d185cdfe8c640e60de569cb547e7f1c9
+SHA1: e93eacbef618ab7fc93ee300eb265d05040a085f
+SHA256: c1417ec23b3d0f7833176ac1a1bb84730ed07a3a708305f0a8f79e7b19ddf889
+Section: Tweaks
+Priority: optional
+Description: A better way to multitask!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pulloverpro
+Dev: c1d3r
+Name: PullOver Pro
+
+Package: com.c1d3r.PullOverPro
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./debs/PullOverPro_2.1.deb
+Size: 1867362
+MD5sum: ead41a2bcd7666c6822b8119007c593f
+SHA1: 12c1d991f1f8a7e10486a833b50e36fc507dd992
+SHA256: da6c48c1b5e5c370f5ace39d24f1195ffab2412ab835dcfdf385539c4a97ee91
+Section: Tweaks
+Priority: optional
+Description: A better way to multitask!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pulloverpro
+Dev: c1d3r
+Name: PullOver Pro
+
+Package: com.c1d3r.PullOverPro
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./debs/PullOverPro_2.2.1.deb
+Size: 1566082
+MD5sum: 241e2cdf1544b5a4b3af4815604e71f1
+SHA1: b202bca6c201150d8f6cec37c632e833105b2147
+SHA256: 0807c46c1abd04b042dbbff6f3aa69ab65f823a85e88872be88f3321b43a9051
+Section: Tweaks
+Priority: optional
+Description: A better way to multitask!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pulloverpro
+Dev: c1d3r
+Name: PullOver Pro
+
+Package: com.c1d3r.ScrollViewScrubber
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/ScrollViewScrubber.deb
+Size: 16982
+MD5sum: a94f1596e034bdcd1c390c70f580c96f
+SHA1: 5fd10b8b190c6ee58bc9f2f6a71b1b52cb932d0f
+SHA256: c5286368e1fa9a729979e2e5ef9e7bb0ae5385b30e0e0484afba44b21f9c8bae
+Section: Tweaks
+Priority: optional
+Description: Adds a blue grabber to the side of most scrollviews!
+Author: c1d3r
+Name: ScrollViewScrubber
+
+Package: com.c1d3r.TiltPaper
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.c1d3r.TiltPaper_1.1-1_iphoneos-arm.deb
+Size: 13418
+MD5sum: 2ab5764a32bc14a8b4ebd86650751c23
+SHA1: 918a466ef1214da94a3f27c1eaa3401418aec339
+SHA256: f9f2a93e81eae3a5863546c67e3cb072fcffde10f4f0259533b720a9c7003537
+Section: Tweaks
+Priority: optional
+Description: Scroll through your wallpaper by tilting. Just set your wallpaper like normal. (No settings to configure)
+Author: c1d3r
+Dev: c1d3r
+Name: TiltPaper
+
+Package: com.c1d3r.switches
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, me.nepeta.libcolorpicker, com.rpetrich.rocketbootstrap, applist
+Filename: ./debs/switches.deb
+Size: 1558858
+MD5sum: 4b85b8187aa4155a6b595a93dc1fc963
+SHA1: e222fe723f313bb65a65ad882bda34d4d8ab6c33
+SHA256: 391985d292d4b12af188ff8f9f87a2a4d0d264f2bdc03e1f32550efa51999fc0
+Section: Tweaks
+Priority: optional
+Description: Add a little flair to your switches
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.switches
+Dev: c1d3r
+Name: Switches
+

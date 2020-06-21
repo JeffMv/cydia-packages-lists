@@ -1,0 +1,278 @@
+Name: Perl
+Package: org.coolstar.perl
+Provides: perl
+Replaces: perl
+Version: 5.22.0
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Section: Development
+Tag: purpose::console, role::hacker
+Filename: ./debs/org.coolstar.perl_5.22.0_iphoneos-arm.deb
+Size: 17765778
+MD5sum: d07f58aedb64c3bd79ce63accd55578c
+SHA1: 511fa06bcc78fc78a3f8a024f6d029fda649c62b
+SHA256: 7c944061c0a29f87084baf0899d1e067f16f2bab1101327fb813396ab5ca8a3e
+
+Package: org.coolstar.classicbadges
+Name: Classic Badges
+Depends: com.anemonetheming.anemone
+Version: 3.0
+Architecture: iphoneos-arm
+Description: Bring back the iOS 6 badges to iOS 7+!
+Maintainer: CoolStar
+Author: CoolStar
+Section: Tweaks
+Filename: ./debs/org.coolstar.classicbadges.deb
+Size: 5572
+MD5sum: 43933090233259615842c2ff89db1719
+SHA1: a8dd4392f26145356cd18675700abebc9824318a
+SHA256: d4553b32b45b84f2b693331cf3944e5524796886dbb9849a88518040c7be9cea
+
+Package: org.coolstar.classicapps
+Name: Classic Apps
+Depends: mobilesubstrate
+Version: 0.0.1-24
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: CoolStar
+Author: CoolStar
+Section: Tweaks
+Installed-Size: 20
+Filename: ./debs/org.coolstar.classicapps_0.0.1-24_iphoneos-arm.deb
+Size: 4168
+MD5sum: 0b521681692f6f674c6dd979de7260c2
+SHA1: da52af3cba2440b5c88588be6589046396fe4627
+SHA256: c94c9bba077a5b629bf1ee723c9e07b91cddebefd9e66cb863efceebb1c4200f
+
+Package: org.coolstar.classicfonts
+Name: Classic Fonts
+Depends: mobilesubstrate
+Version: 0.0.1-9
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: CoolStar
+Author: CoolStar
+Installed-Size: 72
+Section: Tweaks
+Filename: ./debs/org.coolstar.classicfonts_0.0.1-9_iphoneos-arm.deb
+Size: 4164
+MD5sum: fc18c2c75d7a966028f16759feeab45a
+SHA1: 9525ac9cf4587aca75cdc2728a7b666701179fa4
+SHA256: 8b23b6a3628432c03ed6dc62a339b9e2ce8fcb487b89f43ab4d3beae44bbfb2e
+
+Package: org.coolstar.modernbadges
+Name: Modern Badges
+Depends: com.anemonetheming.anemone
+Version: 3.0
+Architecture: iphoneos-arm
+Description: Who said ClassicBadges needed to be Classic?
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: Themes
+Filename: ./debs/org.coolstar.modernbadges.deb
+Size: 8298
+MD5sum: c0a2918aebe1fcda1ef7cdf1c1faf59f
+SHA1: 379c9b43299aee79f332a5e58cad1e270124cc1a
+SHA256: a48bdadc55b571914103d1e235d0b82a98fedc0f01e55afa58155d4eb450cc9c
+
+Package: org.coolstar.customclock
+Name: CustomClock Example
+Depends: org.coolstar.themelib, winterboard
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: An example theme for the CustomClock feature of ThemeLib.
+Maintainer: CoolStar
+Author: CoolStar
+Section: Themes
+Filename: ./debs/org.coolstar.customclock.deb
+Size: 1880
+MD5sum: 02fe9cba0ef4a0db22fa8590e682c98c
+SHA1: bd3824c03b683b0eb6b0a22962f85b463467d23b
+SHA256: 4aa96b31b58024d75b6b6b03d2b4b7186b3f58be32e35a360c68582f73e8fa83
+
+Package: org.coolstar.removepasscode
+Name: RemovePasscode
+Architecture: iphoneos-arm
+Description: Remove iOS passcodes over SSH. Compatible with iOS 5.0 - iOS 8.1.2. DOES NOT WORK IN SAFESTRAT ENVIRONMENT YET.
+Maintainer: CoolStar
+Author: CoolStar
+Section: System
+Tag: role::hacker
+Version: 1.0.0-1
+Installed-Size: 64
+Filename: ./debs/org.coolstar.removepasscode_1.0.0-1_iphoneos-arm.deb
+Size: 2890
+MD5sum: c7524db044beb14a2198c792e449d7fe
+SHA1: 1cd3f06ef9c3d4223d8ab2d7f39fcdb063008189
+SHA256: b43db560689f1097585c2d1864619191830170fb09d20a214ebb3053472a5409
+
+Package:org.coolstar.circleicons
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: com.anemonetheming.anemone
+Section: Themes
+Description: Circle Icons with cool overlays!
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: CircleIcons
+Filename: ./debs/circleicons.deb
+Size: 64834
+MD5sum: 6180e5a158ff549747d852b277b04fe7
+SHA1: 34480fc8e90a14c6ed079a0db044a7bd7c70edfb
+SHA256: 80502516019d77501004b4a7399fb791aa112b6d51c6e7b6bfde6dfc0aa15d3f
+
+Package:org.coolstar.circleicons
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: com.anemonetheming.anemone
+Section: Themes
+Description: Circle Icons with cool overlays!
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: CircleIcons
+Filename: ./debs/circleicons-1.3.deb
+Size: 103686
+MD5sum: 76612aa760a7e7ef207dfd896f462969
+SHA1: 19fc572f5b702208f4ff328006758f6d19210db9
+SHA256: 3eee4236eb29b1b0b31b60074aaf772c93fcb4b44f5c500121b025090c62e691
+
+Package:org.coolstar.circleicons
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: com.anemonetheming.anemone
+Section: Themes
+Description: Circle Icons with cool overlays!
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: CircleIcons
+Filename: ./debs/circleicons-1.3.1.deb
+Size: 105882
+MD5sum: df200a270eff0f457c2105a780d503fd
+SHA1: 0ec3e6089bf2936505fcc6b8d5f90fb76f7253e3
+SHA256: edc2a219e2a2f8823cc92af933281cf917475110c4ce9f85748fb741ca5baab8
+
+Package:org.coolstar.circleicons
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: com.anemonetheming.anemone
+Section: Themes
+Description: Circle Icons with cool overlays!
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: CircleIcons
+Filename: ./debs/circleicons-1.3.2.deb
+Size: 105902
+MD5sum: 511070a14d77fb6b2f04ae14942bdf22
+SHA1: 39b812c20907423f315d2710544908cee013e253
+SHA256: 7cf5e1e6987ebe3e88cc787c5e897a2a6dd623483956bb2e63a50cc5e4f29ae2
+
+Package:org.coolstar.ayerishack
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: com.anemonetheming.anemone, curl, p7zip, tar
+Conflicts: org.thebigboss.ayeris
+Section: Themes
+Description: ayeris for Anemone. FTFY, Surenix.
+Author: Surenix <surenix@surenix.me>
+Name: Ayeris for Anemone
+Filename: ./debs/ayerisanemone.deb
+Size: 2324
+MD5sum: 28fe0c7ee211bdce4e211be880538c3e
+SHA1: b26d88aa79fbb340fe455ff474b16cd7173e6f03
+SHA256: 55dd478f1b9ccad797a87b048344fbf4d6d13b2488683e53ba4fe1da676ac123
+
+Package: org.coolstar.classicdocknothemes
+Name: ClassicDock Non-Themes
+Depends: mobilesubstrate
+Conflicts: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: ClassicDock for users who do not wish to have a theming engine installed.
+Maintainer: CoolStar
+Author: CoolStar & sharedRoutine
+Section: Tweaks
+Version: 2.0-3
+Installed-Size: 696
+Filename: ./debs/org.coolstar.classicdock.deb
+Size: 402176
+MD5sum: f6644f123b800f36db27a981d4516bcb
+SHA1: 7eace14fb6bf0d8dfa28e4f6bfd9fc35bf1ed9de
+SHA256: f89858542c05f2af0a86e08c209a90abfcd739ac8756bb6a7c15398e93382a73
+
+Package: org.coolstar.stash933
+Name: Stashing for iOS 9.2 - 10.2
+Depends: firmware (>= 9.2), firmware (<= 10.2), org.coolstar.cctools
+Version: 1.5.0
+Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
+Architecture: iphoneos-arm
+Description: Stash 3rd party components to make more space for them!
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: System
+Filename: ./debs/stash933-1.5.0.deb
+Size: 30290
+MD5sum: 6e2972fa7dbed153cb43c6554f45b873
+SHA1: 4f8e00c82078d5fdab4a84069fcd551a70954091
+SHA256: bb5052755a942ab3b80432a21416106e31f3f00f039920ac4a3aef6ac23950a0
+
+Package: org.coolstar.stash933
+Name: Stashing for iOS 9.2 - 9.3.5
+Depends: firmware (>= 9.2), firmware (<= 9.3.5), org.coolstar.cctools
+Version: 1.5.1
+Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
+Architecture: iphoneos-arm
+Description: Stash 3rd party components to make more space for them!
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: System
+Filename: ./debs/stash933.deb
+Size: 30418
+MD5sum: 81a9f4e9af445759c828beb9047a555e
+SHA1: 953a9cc097cf5ae8e8bca018a79d7b679db6565f
+SHA256: c215419ea69cd7bcb582edc6c60ba0095280a396897d930716352e6ba0f2da02
+
+Package: org.coolstar.scp-sftp-dropbear
+Name: SCP and SFTP for dropbear
+Depends: openssl
+Version: 1.0.2
+Conflicts: openssh
+Architecture: iphoneos-arm
+Description: Add SCP and SFTP for use with dropbear SSH server. (Useful with Yalu jailbreaks).
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: System
+Filename: ./debs/scp-sftp-dropbear.deb
+Size: 196386
+MD5sum: 4221c938339c2e21cd4758e2b4a41212
+SHA1: d7675f2dc6ec58662e85da4a14b9ddf9db7cf312
+SHA256: 2a0253ba7e20ad7bd25f8304f500199bb549b7cbada7279c50aa684f613ecad4
+
+Package: org.coolstar.statusbarexample
+Name: Status Bar Example Theme
+Description: An example status bar theme for use with Anemone
+Depends: com.anemonetheming.anemone
+Version: 1.0
+Author: CoolStar <coolstarorganization@gmail.com>
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Architecture: iphoneos-arm
+Section: Themes
+Filename: ./debs/statusbarexample.deb
+Size: 1094
+MD5sum: 8bf23d4a0d704337203c41a03ee19f28
+SHA1: 322fcc446559b28d80486f9caed7fb01e4aa2aba
+SHA256: 87ebd329dfcb0843e31bda65c245b40d0f259f6460c98ed423c9b2c98aff111a
+
+Package: org.coolstar.wordart-revgradients
+Name: WordArt + ReverseGradients
+Description: A minimal theme to fix iOS 7+'s icons using a combination of WordArt and Reverse Gradient icons
+Depends: com.anemonetheming.anemone, org.coolstar.circleicons, org.coolstar.modernbadges
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: Themes
+Filename: ./debs/org.coolstar.wordart-revgradients.deb
+Size: 449808
+MD5sum: ee85beef27f3a8436567f12373d731ba
+SHA1: 943e60dfb0879daa207a92450f33fe362cb9399b
+SHA256: 16f6b788d2f7d8d0690ec0bb42952c8de6ab496877c8699e75597ed500e24389

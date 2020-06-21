@@ -1,0 +1,2501 @@
+Package: com.andrewabosh.safari-in-messages
+Name: Safari in Messages
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Open links natively inside Messages
+Maintainer: Andrew Abosh <andrewaboshartworks+chariz@gmail.com>
+Author: Andrew Abosh <andrewaboshartworks+chariz@gmail.com>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 152
+Tag: compatible_min::ios10.0
+Icon: https://chariz.com/cdn/icon/safari-in-messages/icon@3x.png
+Depiction: https://chariz.com/get/safari-in-messages
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.andrewabosh.safari-in-messages/depiction.json
+Filename: debs/com.andrewabosh.safari-in-messages_1.0_iphoneos-arm.deb
+SHA256: 13f169b71d14a26cb6551fb1f5df9be370a46250164b9f31c6d6df2a404431a1
+MD5sum: 2f85db02c4f988e30db76a319916c43e
+Size: 5556
+
+Package: com.apextweaks.veloxreloaded
+Name: Velox Reloaded
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Bring widgets right to your homescreen, baby.
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 5392
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/velox-reloaded/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veloxreloaded/depiction.json
+Filename: debs/com.apextweaks.veloxreloaded_1.0.0_iphoneos-arm.deb
+SHA256: 9acb6db48b5a62da113e3eb40655927a4ed1a39658413dc013e04d3e9d9a7984
+MD5sum: e796e07a97d1911293cb86835b13d97a
+Size: 3676632
+
+Package: com.apextweaks.veloxreloaded
+Name: Velox Reloaded
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Bring widgets right to your homescreen, baby.
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Installed-Size: 5392
+Tag: cydia::commercial, compatible::ios13
+Icon: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veloxreloaded/depiction.json
+Filename: debs/com.apextweaks.veloxreloaded_1.0.1_iphoneos-arm.deb
+SHA256: 0decb36c1ff06c8189dbc81c589ce20b4dad5e66f064b982e21aca2a856ff62b
+MD5sum: 0096a5b6ededbb5a34b2eccffcecd8ab
+Size: 4991576
+
+Package: com.apextweaks.veloxreloaded
+Name: Velox Reloaded
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Bring widgets right to your homescreen, baby.
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Installed-Size: 10412
+Tag: cydia::commercial, compatible::ios13
+Icon: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veloxreloaded/depiction.json
+Filename: debs/com.apextweaks.veloxreloaded_1.1.0_iphoneos-arm.deb
+SHA256: 443f88c90a07da456acfc5b50886aa68e5dd9159aa416e238f301bce6bf6c4c0
+MD5sum: 185170a910c820894912004905328073
+Size: 1657706
+
+Package: com.apextweaks.veloxreloaded
+Name: Velox Reloaded
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Bring widgets right to your homescreen, baby.
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Installed-Size: 21255
+Tag: cydia::commercial, compatible::ios13
+Icon: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veloxreloaded/depiction.json
+Filename: debs/com.apextweaks.veloxreloaded_1.1.1_iphoneos-arm.deb
+SHA256: c043c7c9a799a95fd29acd9b53c06cfe989945136ca2847c95ea19fe32bb7393
+MD5sum: de23e0ba4bce157536a39d3ab23c426b
+Size: 4094086
+
+Package: com.apextweaks.veloxreloaded
+Name: Velox Reloaded
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: Bring widgets right to your homescreen, baby.
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Installed-Size: 10365
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/velox-reloaded/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veloxreloaded/depiction.json
+Filename: debs/com.apextweaks.veloxreloaded_1.1.2_iphoneos-arm.deb
+SHA256: b3fca5c853e2d3661433e5ef50217db1062431734da3fa86c0dcd5bf15ec99bf
+MD5sum: 7e52c86402a995b0202d1462491d5507
+Size: 2412410
+
+Package: com.apextweaks.veloxreloaded
+Name: Velox Reloaded
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Bring widgets right to your homescreen, baby.
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/velox-reloaded/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/
+Installed-Size: 22163
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veloxreloaded/depiction.json
+Filename: debs/com.apextweaks.veloxreloaded_1.2_iphoneos-arm.deb
+SHA256: 3b8596d34ee67c826aad1d35768bf6b525809589d5a679b2be501dbe83632759
+MD5sum: 3722a06226bc5dd12e6e71f6ccb4cff3
+Size: 4178898
+
+Package: com.apextweaks.veloxreloaded
+Name: Velox Reloaded
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, com.chpwn.iconsupport
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Bring widgets right to your homescreen, baby.
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/velox-reloaded/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veloxreloaded/
+Installed-Size: 22163
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veloxreloaded/depiction.json
+Filename: debs/com.apextweaks.veloxreloaded_1.2.1_iphoneos-arm.deb
+SHA256: 9325ed5db5b73844956d277038de9734f2a994885601cd940a14a3bbb84a9cb7
+MD5sum: 5ff1a7a7d9790bbbf333ec779f40308f
+Size: 4179710
+
+Package: com.apextweaks.veza
+Name: Veza
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Description: Quick Controls right at your disposal!
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 4952
+Tag: cydia::commercial, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veza/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veza/depiction.json
+Filename: debs/com.apextweaks.veza_1.0_iphoneos-arm.deb
+SHA256: 61d92f886d5ea11f37cedeb51fe12c4f45a80228a4cd1315b1867bd46227b0bd
+MD5sum: 15482b1037f3dc7c6fa555ad2eff522c
+Size: 3253592
+
+Package: com.apextweaks.veza
+Name: Veza
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Quick Controls right at your disposal!
+Maintainer: ApexTweaks <support@apextweaks.com>
+Author: ApexTweaks <support@apextweaks.com>
+Section: Tweaks
+Installed-Size: 6861
+Tag: cydia::commercial, compatible_min::ios11.0
+Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.apextweaks.veza/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veza/depiction.json
+Filename: debs/com.apextweaks.veza_1.1.0_iphoneos-arm.deb
+SHA256: 54989809667e79b1d8a957bc376fc0deba109657e1dfe7f625acba64aa845d2f
+MD5sum: f6ea6726912a4edbb9b4f7705d6beefe
+Size: 3480278
+
+Package: com.burritoz.kai
+Name: Kai
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Device battery indicators on your lock screen!
+Maintainer: burrit0z <carsondzielinski@gmail.com>
+Author: burrit0z <carsondzielinski@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/kai/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.burritoz.kai/
+Installed-Size: 670
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.burritoz.kai/depiction.json
+Filename: debs/com.burritoz.kai_1.0.0_iphoneos-arm.deb
+SHA256: a574caf3a4eb8c883f72e3da3c938b83f4060047ee39ac18fb66cac59c5b066c
+MD5sum: df986fbfbf8d7d43e34a5db5d09031f8
+Size: 125946
+
+Package: com.burritoz.kai
+Name: Kai
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Description: Device battery indicators on your lock screen!
+Maintainer: burrit0z <carsondzielinski@gmail.com>
+Author: burrit0z <carsondzielinski@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/kai/icon@3x.png
+Depiction: https://chariz.com/buy/kai
+Installed-Size: 702
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.burritoz.kai/depiction.json
+Filename: debs/com.burritoz.kai_1.0.0-1_iphoneos-arm.deb
+SHA256: 9401708716a9b156e877b9a93c91ae85c073f2286626d74fa57ea0b5cd23da69
+MD5sum: 05c5d6092ac71f2f673b55400566cf88
+Size: 127552
+
+Package: com.burritoz.kai
+Name: Kai
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Device battery indicators on your lock screen!
+Maintainer: burrit0z <carsondzielinski@gmail.com>
+Author: burrit0z <carsondzielinski@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/kai/icon@3x.png
+Depiction: https://chariz.com/buy/kai
+Installed-Size: 704
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.burritoz.kai/depiction.json
+Filename: debs/com.burritoz.kai_1.0.1_iphoneos-arm.deb
+SHA256: 9a589cac4025e524682efa23bb504c78bd9ca22bd79a4527f52770afea1e13fc
+MD5sum: 8a061e9070ef1c18afcaceb46db238c8
+Size: 132628
+
+Package: com.burritoz.kai
+Name: Kai
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Device battery indicators on your lock screen!
+Maintainer: burrit0z <carsondzielinski@gmail.com>
+Author: burrit0z <carsondzielinski@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/kai/icon@3x.png
+Depiction: https://chariz.com/buy/kai
+Installed-Size: 728
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.burritoz.kai/depiction.json
+Filename: debs/com.burritoz.kai_1.1.0_iphoneos-arm.deb
+SHA256: 3e6af996be4aa9ec0edcbc0879f7b1421865df6b6b018906a2100a4967b85cb9
+MD5sum: 04d502bdaae4bd0dc9a682e932876d5c
+Size: 134726
+
+Package: com.daveapps.quitall
+Name: QuitAll
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: One tweak to quit them all
+Maintainer: Dave van Wijk <anwijkdave@gmail.com>
+Author: Dave van Wijk <anwijkdave@gmail.com>
+Section: Tweaks
+Version: 1
+Installed-Size: 484
+Tag: compatible::ios13
+Icon: https://chariz.com/cdn/icon/quitall/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.daveapps.quitall/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.daveapps.quitall/depiction.json
+Filename: debs/com.daveapps.quitall_1_iphoneos-arm.deb
+SHA256: bee98af323aff669b4ae102e4837c53d5187bfd96458ab2208f58aa370aaf853
+MD5sum: f389c65193830af084c4dfd2fdcf3722
+Size: 204546
+
+Package: com.daveapps.quitall
+Name: QuitAll
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: One tweak to quit them all
+Maintainer: Dave van Wijk <anwijkdave@gmail.com>
+Author: Dave van Wijk <anwijkdave@gmail.com>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 480
+Tag: compatible::ios13
+Icon: https://chariz.com/cdn/icon/quitall/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.daveapps.quitall/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.daveapps.quitall/depiction.json
+Filename: debs/com.daveapps.quitall_1.0.1_iphoneos-arm.deb
+SHA256: e7021e18c99af25be13ed2b32494722b6afa695ad84449204ddf5a90ea0ca82a
+MD5sum: 9a8e5649d17f6164214f0903df68140b
+Size: 202544
+
+Package: com.ericrabil.musica
+Name: Musica
+Depends: mobilesubstrate, firmware (>= 13.2)
+Architecture: iphoneos-arm
+Description: remap battery case button to media controls
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 264
+Icon: https://chariz.com/cdn/icon/musica/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.ericrabil.musica/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ericrabil.musica/depiction.json
+Filename: debs/com.ericrabil.musica_1.0.0_iphoneos-arm.deb
+SHA256: 22803fcf1de52dae4239d70c4fff8f8da31dd0272d4a3c734540a6d56cb15565
+MD5sum: 5b9876fc9a3cc741e6731835f96d3f5b
+Size: 8200
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Description: A tweak for Messages to automatically hide conversations from unknown senders, swipe to hide/unhide or block/unblock individual conversations, and secure conversations.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 1280
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.2.1_iphoneos-arm.deb
+SHA256: a2da68e054ff1b9f9c5b425daf2ac1f66b1f39937c60ba05b72cd348ef6d3687
+MD5sum: d6c0c20329028c3c3a869c9be920907b
+Size: 880924
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Description: Use this tweak to hide, secure, and block conversations like clockwork.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+Version: 1.2.2
+Installed-Size: 1280
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.2.2_iphoneos-arm.deb
+SHA256: 6602fb8ec26e01a2fa0a57c1b5904bb1bcbd9ca983d08b114bcdd3f9b501c38b
+MD5sum: 11fbb73d53a494e8842c32c052bad874
+Size: 881054
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Description: Use this tweak to hide, secure, and block conversations like clockwork.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+Version: 1.2.3
+Installed-Size: 1280
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.2.3_iphoneos-arm.deb
+SHA256: 24b42ab6db21bf3ac27efb85c02076c46e1bc924f5ef9298702d7848317f7f93
+MD5sum: a40adabe4f5f0725eccec852a4c71dc8
+Size: 881138
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Description: Use this tweak to hide, secure, and block conversations like clockwork.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+Version: 1.3.0
+Installed-Size: 1280
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.3.0_iphoneos-arm.deb
+SHA256: 0c17acaf29b8302fc339a54618642da57412633ef6676fc26dda05769f416769
+MD5sum: fd0034e699a4dee376b2cae91f410731
+Size: 882626
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx
+Architecture: iphoneos-arm
+Description: Use this tweak to hide, secure, and block conversations like clockwork.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+Version: 1.3.1
+Installed-Size: 2012
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.3.1_iphoneos-arm.deb
+SHA256: a4a31ccce614a2cc118cda7a615cdd7df29bee1b7ca199dfd0b192ccc98556b5
+MD5sum: bb27df82ef5773314594bf93325f7f6d
+Size: 861118
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx
+Architecture: iphoneos-arm
+Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+Version: 1.4.0
+Installed-Size: 1212
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.4.0_iphoneos-arm.deb
+SHA256: d1ae22ce5112018cc4c1973924a4aaebf560285116243773de6a80c48d7ddbd9
+MD5sum: d99a4c0736103398d17fcd14154f3f88
+Size: 864688
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx
+Architecture: iphoneos-arm
+Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+Version: 1.4.1
+Installed-Size: 1212
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.4.1_iphoneos-arm.deb
+SHA256: 00e9ee296ffb0bd9af19ccb595dac4e3682d819f720f92106b14181eef32d48b
+MD5sum: 2d450e8b91cd4be9e6bd629c98684093
+Size: 864848
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx
+Architecture: iphoneos-arm
+Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+Version: 1.4.2
+Installed-Size: 1212
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.4.2_iphoneos-arm.deb
+SHA256: d439b0e196ba6d0aec14017f55fdce0ec7daf3e9445585d580b0e72f04c58646
+MD5sum: 791c74d02722b293599e814a3bb33850
+Size: 865654
+
+Package: com.jacobcxdev.idunnou
+Name: iDunnoU
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx
+Architecture: iphoneos-arm
+Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios13
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.idunnou/
+Version: 1.4.3
+Installed-Size: 1212
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.idunnou/depiction.json
+Filename: debs/com.jacobcxdev.idunnou_1.4.3_iphoneos-arm.deb
+SHA256: 2a2b349e9291b79c69ff923a07de90d7fe5a84c1e3b7335380acff3986c54263
+MD5sum: 6756b653b44f6c9091443e27f85741e5
+Size: 866410
+
+Package: com.jacobcxdev.iris
+Name: Iris
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx (>= 1.1.0), ws.hbang.alderis
+Conflicts: com.jacobcxdev.idunnou, com.ryant453.groups, com.creaturecoding.covertck
+Architecture: iphoneos-arm
+Description: Put the sparkle back in 'i'Message!
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/iris/icon@3x.png
+Depiction: https://chariz.com/buy/iris
+Version: 1.0.0
+Installed-Size: 1552
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.iris/depiction.json
+Filename: debs/com.jacobcxdev.iris_1.0.0_iphoneos-arm.deb
+SHA256: 17449585492d4f5b4d80582bac387d56181946eb679627d004db1cedc35347cf
+MD5sum: 44293fb8f3ad8fa2eeb5b639b5086d0b
+Size: 794616
+
+Package: com.jacobcxdev.iris
+Name: Iris
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx (>= 1.1.0), ws.hbang.alderis
+Conflicts: com.jacobcxdev.idunnou, com.ryant453.groups, com.creaturecoding.covertck
+Architecture: iphoneos-arm
+Description: Put the sparkle back in 'i'Message!
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/iris/icon@3x.png
+Depiction: https://chariz.com/buy/iris
+Version: 1.0.1
+Installed-Size: 1552
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.iris/depiction.json
+Filename: debs/com.jacobcxdev.iris_1.0.1_iphoneos-arm.deb
+SHA256: d718af59e8982df5a25e21de41176780144452bcef03a6174b398db11fe840d8
+MD5sum: aecb2e5074fec8fc9950d76ac07c5655
+Size: 795250
+
+Package: com.jacobcxdev.libjcx
+Name: libJCX
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: A library used by JacobCXDev.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: System
+Tag: role::developer, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 1.0.0
+Installed-Size: 280
+Depiction: https://repo.chariz.com/package/com.jacobcxdev.libjcx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.libjcx/depiction.json
+Filename: debs/com.jacobcxdev.libjcx_1.0.0_iphoneos-arm.deb
+SHA256: 352f00aa93c2fdb0e5171d1ff5d569f997a198fdb653ea576aca5abd58e556e4
+MD5sum: cb225642077ddc068888dd1a8d01167f
+Size: 29052
+
+Package: com.jacobcxdev.libjcx
+Name: libJCX
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: A library used by JacobCXDev.
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Section: System
+Tag: role::developer, compatible_min::ios11.0
+Version: 1.1.0
+Installed-Size: 320
+Depiction: https://chariz.com/get/libjcx
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.libjcx/depiction.json
+Filename: debs/com.jacobcxdev.libjcx_1.1.0_iphoneos-arm.deb
+SHA256: d3a0bce1148da2937abc1997e2e104c37414a373ecd98a078d689c974af4476d
+MD5sum: 6991b3f31f2af9af9c466541be2a1fc3
+Size: 31742
+
+Package: com.jannikcrack.devvix.dayn
+Name: Dayn
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: New notification concept 
+Maintainer: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>
+Author: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>
+Replaces: com.jannikcrack.dayn
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/dayn/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jannikcrack.devvix.dayn/
+Version: 1.0
+Installed-Size: 1272
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jannikcrack.devvix.dayn/depiction.json
+Filename: debs/com.jannikcrack.devvix.dayn_1.0_iphoneos-arm.deb
+SHA256: af9303be08b2f6fc43c22307bbc4adde6621adcd18a8e93cc18e97695439e8e2
+MD5sum: 58c6c29bcff83d8b13a6337eab82c42e
+Size: 490888
+
+Package: com.jannikcrack.devvix.dayn
+Name: Dayn
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Conflicts: com.laughingquoll.maple2
+Architecture: iphoneos-arm
+Description: New notification concept 
+Maintainer: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>
+Author: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>
+Replaces: com.jannikcrack.dayn
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/dayn/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jannikcrack.devvix.dayn/
+Version: 1.0.1
+Installed-Size: 1272
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jannikcrack.devvix.dayn/depiction.json
+Filename: debs/com.jannikcrack.devvix.dayn_1.0.1_iphoneos-arm.deb
+SHA256: 84f2056bc79976b5009becbdf9b600933c21b1a9bc213d456684984f8f1a105a
+MD5sum: 00477d023bf36069ba6bbe0f22cd3527
+Size: 491036
+
+Package: com.jannikcrack.devvix.dayn
+Name: Dayn
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: New notification concept 
+Maintainer: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>
+Author: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>
+Replaces: com.jannikcrack.dayn
+Section: Tweaks
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/dayn/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.jannikcrack.devvix.dayn/
+Version: 1.1
+Installed-Size: 1288
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jannikcrack.devvix.dayn/depiction.json
+Filename: debs/com.jannikcrack.devvix.dayn_1.1_iphoneos-arm.deb
+SHA256: afc63645d3cc3ac4d98d6922918b1871f94af942d0dd9ed02ff8b9ec7d9df1ed
+MD5sum: 05d35ad617bcd143d3cfa15dcdeb86d0
+Size: 493400
+
+Package: com.kef.rofi
+Name: Rofi
+Depends: mobilesubstrate, ws.hbang.alderis, ws.hbang.common (>= 1.11), applist
+Architecture: iphoneos-arm
+Description: An app launcher tweak.
+Maintainer: Kef <theonlykef@gmail.com>
+Author: Kef <theonlykef@gmail.com>
+Section: Tweaks
+Version: 1.2
+Installed-Size: 388
+Icon: https://chariz.com/cdn/icon/rofi/icon@3x.png
+Depiction: https://chariz.com/buy/rofi
+Tag: compatible_min::ios11.0
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.kef.rofi/depiction.json
+Filename: debs/com.kef.rofi_1.2_iphoneos-arm.deb
+SHA256: 4359266da6df22a7a9766f0cd48f7381a4f771ebf74a6edc0763969cce833c6a
+MD5sum: 4d892e7707d2cd8e4d0a63451e390668
+Size: 55288
+
+Package: com.laughingquoll.daisy
+Name: Daisy
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Architecture: iphoneos-arm
+Description: A better audio interface experience.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 300
+Icon: https://chariz.com/cdn/icon/daisy/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.daisy/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.daisy/depiction.json
+Filename: debs/com.laughingquoll.daisy_1.0_iphoneos-arm.deb
+SHA256: 1b1e69b09e82b2fa7fe856bcabcfe171a436512f9227cc84345ae4b1a938b079
+MD5sum: 85a6da554f928cfa210875544abd3cfa
+Size: 28728
+
+Package: com.laughingquoll.darkalertspls
+Name: DarkAlertsPls
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Force alerts to respond to iOS 13 dark mode.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 200
+Icon: https://chariz.com/cdn/icon/darkalertspls/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.darkalertspls/
+Tag: compatible::ios13
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.darkalertspls/depiction.json
+Filename: debs/com.laughingquoll.darkalertspls_1.0_iphoneos-arm.deb
+SHA256: 0b9e6e5e69cef6ce5ea419308b4ddb64ee259855b2a2972a5e1e5e4f1e76a172
+MD5sum: c80e5d8df5e184bf5d72ba49fda9868e
+Size: 3520
+
+Package: com.laughingquoll.noctis13
+Name: Noctis Neo
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui
+Conflicts: com.laughingquoll.noctisxi, com.laughingquoll.noctis12
+Architecture: iphoneos-arm
+Description: Dark mode, your way.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 648
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/noctis-neo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.noctis13/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
+Filename: debs/com.laughingquoll.noctis13_1.0_iphoneos-arm.deb
+SHA256: 71122c1ab11b91d81db7deea3a1d8aa55a174097649f027854c45dd472b87514
+MD5sum: c62cde180172f2ab76e95f114c41bc89
+Size: 63230
+
+Package: com.laughingquoll.noctis13
+Name: Noctis Neo
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Description: Dark mode, your way.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.1
+Installed-Size: 648
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/noctis-neo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.noctis13/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
+Filename: debs/com.laughingquoll.noctis13_1.1_iphoneos-arm.deb
+SHA256: aae22b0fd37c6a592cf55757ced0a8c1a532c267a4c581e5f8de554840357da0
+MD5sum: f6e0e62aea3831f601915a804571e976
+Size: 63754
+
+Package: com.laughingquoll.noctis13
+Name: Noctis Neo
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Description: Dark mode, your way.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2
+Installed-Size: 648
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/noctis-neo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.noctis13/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
+Filename: debs/com.laughingquoll.noctis13_1.2_iphoneos-arm.deb
+SHA256: b22327b434f1d1b511a59c438b9f40c8cd77cec7e2723573a0635b94d0fa8d48
+MD5sum: 6b503392658698e2f9aa8450f222e056
+Size: 65528
+
+Package: com.laughingquoll.noctis13
+Name: Noctis Neo
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Description: Dark mode, your way.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 648
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/noctis-neo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.noctis13/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
+Filename: debs/com.laughingquoll.noctis13_1.2.1_iphoneos-arm.deb
+SHA256: bf3e1d7180d9e21033cbb2c36ff8affd5a0366a95c2d536276fc8955298b7486
+MD5sum: 35547a598e780a90b428056d37920c03
+Size: 66286
+
+Package: com.laughingquoll.noctis13
+Name: Noctis Neo
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Description: Dark mode, your way.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2.2
+Installed-Size: 616
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/noctis-neo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.noctis13/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
+Filename: debs/com.laughingquoll.noctis13_1.2.2_iphoneos-arm.deb
+SHA256: 964f20d8d3f56fd97ba9f1f2b30564681ecfa93ea7c2127eee20846b7e11cfa0
+MD5sum: d7bd47746bf1746b4529cbdca24b666f
+Size: 68268
+
+Package: com.laughingquoll.noctis13
+Name: Noctis Neo
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Description: Dark mode, your way.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2.3
+Installed-Size: 632
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/noctis-neo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.noctis13/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
+Filename: debs/com.laughingquoll.noctis13_1.2.3_iphoneos-arm.deb
+SHA256: e93493fc117b31272077e5c8bde98394b7fabbd17569fc582b6e457e4ba04c6f
+MD5sum: 95cdf4086e3403273eed305abf8c67e5
+Size: 69570
+
+Package: com.laughingquoll.noctis13
+Name: Noctis Neo
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Description: Dark mode, your way.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2.4
+Installed-Size: 616
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/noctis-neo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.noctis13/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
+Filename: debs/com.laughingquoll.noctis13_1.2.4_iphoneos-arm.deb
+SHA256: 5acf0d6a772481f2c0e81586deab8a79ce9ee79c8e38e0645d4d89f11e81f9cf
+MD5sum: 4e725e4199df9d0054720f05c184cb41
+Size: 68424
+
+Package: com.laughingquoll.prefixui
+Name: PrefixUI
+Version: 1.2.2
+Section: System
+Architecture: iphoneos-arm
+Depends: me.nepeta.libcolorpicker
+Installed-Size: 252
+Author: LaughingQuoll <me@laughingquoll.net>
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Description: An awesome framework of some sort!!
+Tag: role::developer
+Icon: https://chariz.com/cdn/icon/prefixui/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.prefixui/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.prefixui/depiction.json
+Filename: debs/com.laughingquoll.prefixui_1.2.2_iphoneos-arm.deb
+SHA256: 4927ff100a274c85844e3af5d603fa164ba0536142956ad0771b0793767b00a0
+MD5sum: 95d76278b8f92a60c29e9bb962b34368
+Size: 34096
+
+Package: com.laughingquoll.prefixui
+Name: PrefixUI
+Depends: me.nepeta.libcolorpicker, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: An awesome framework of some sort!
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: System
+Tag: role::developer, compatible_min::ios11.0
+Version: 1.2.6
+Installed-Size: 172
+Icon: https://chariz.com/cdn/icon/prefixui/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.prefixui/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.prefixui/depiction.json
+Filename: debs/com.laughingquoll.prefixui_1.2.6_iphoneos-arm.deb
+SHA256: 7da07aef167756521534789cbc3dcb4635d1feae96bf885537be9193f7c203ee
+MD5sum: 3d3ca26c3d73a92deccbf04aba1ff42b
+Size: 21864
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 568
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.0_iphoneos-arm.deb
+SHA256: a820bde792c1045b84c1b923505cc758431038515a7078468331b001cf69880a
+MD5sum: 9304d9a4210420c2d117ef7aae2c9902
+Size: 61222
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.1
+Installed-Size: 588
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.1_iphoneos-arm.deb
+SHA256: dcd842eaae7ed3f05f3fe9040896f465683126da16536960e77ff4100c28d8f8
+MD5sum: eea473fb01970e7f7da32063558f445e
+Size: 88322
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.1.1
+Installed-Size: 588
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.1.1_iphoneos-arm.deb
+SHA256: b4a1736730089e8328816736268577e72ebbf32fe1342dffe2c16c29312a95c2
+MD5sum: b4bb0d750dae394b5be145d2e9e4ff91
+Size: 89550
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.1.2
+Installed-Size: 592
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.1.2_iphoneos-arm.deb
+SHA256: 5c266f5c112d768b64b2a7bdb543419a0a3909171a645998fc365448791f98c1
+MD5sum: 9b33151041ee30dd4bab420fd74cd0e5
+Size: 90974
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.1.3
+Installed-Size: 592
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.1.3_iphoneos-arm.deb
+SHA256: c8b44610da942c0a83ba8231f755c5987d8eb9e656b4d639b6092caee641fd08
+MD5sum: 330a642a477435c5e471357feefecf43
+Size: 91402
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2
+Installed-Size: 592
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.2_iphoneos-arm.deb
+SHA256: 3ed562955d9eb6f61957a49edc3ba030d2db26927f2fb50a2fc5df8fe3be1bdb
+MD5sum: d29ab1189868cad65b12d2997e7f17bb
+Size: 91604
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 592
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.2.1_iphoneos-arm.deb
+SHA256: 90b5e8cb49ce2a76c3380c917255a32d50a0201aaeeac953a0c224a33fcb4717
+MD5sum: 71682a7bd5f95a2fdb69dd4f905bc65c
+Size: 91660
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2.2
+Installed-Size: 592
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.2.2_iphoneos-arm.deb
+SHA256: 1ca4cfab3a0021325f731a3fce65465df380c3f65a075008093201b2b4bbb7fb
+MD5sum: 4be98b78a13fe29a2ad00901a2fa04c5
+Size: 92518
+
+Package: com.laughingquoll.siliquapro
+Name: Siliqua Pro
+Depends: firmware (>= 11.0), mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Custom actions for AirPods Pro
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2.3
+Installed-Size: 560
+Tag: cydia::commercial, compatible_min::ios11.0
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.siliquapro/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.siliquapro/depiction.json
+Filename: debs/com.laughingquoll.siliquapro_1.2.3_iphoneos-arm.deb
+SHA256: fec23037eefefe54ed8db8de7579f2d5da41e55e81a44adaa88e7f7855310ea0
+MD5sum: c751bf5720a332ca1a9c7c5274bd56bd
+Size: 91398
+
+Package: com.laughingquoll.sunflower
+Name: Sunflower
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make 3D Touch great again!
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 200
+Depiction: https://repo.chariz.com/package/com.laughingquoll.sunflower/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.sunflower/depiction.json
+Filename: debs/com.laughingquoll.sunflower_1.0_iphoneos-arm.deb
+SHA256: 1b020aa4f451180a01a15fa64f86a267b1178d167b5e3d1f6aa19bd246c39b3b
+MD5sum: 9efed5b48154eb26d8f5f663a2b1bb01
+Size: 3084
+
+Package: com.laughingquoll.sunflower
+Name: Sunflower
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make 3D Touch great again!
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.1
+Installed-Size: 200
+Depiction: https://repo.chariz.com/package/com.laughingquoll.sunflower/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.sunflower/depiction.json
+Filename: debs/com.laughingquoll.sunflower_1.1_iphoneos-arm.deb
+SHA256: 68ea699de12d7e1f1714daea9b71a25b2b7dc5532179ed0f71c466dadd685ddf
+MD5sum: dbc369fff41893b8b0524adb3f46c75f
+Size: 2998
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 496
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.0_iphoneos-arm.deb
+SHA256: 9f57dcc455fe42de1e07e07bf59220afa01a527e05657ac3a5b0b34c5377c607
+MD5sum: ae5b91ab853a35782bd3692d3680bd43
+Size: 70966
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.0.2
+Installed-Size: 496
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.0.2_iphoneos-arm.deb
+SHA256: ae9a80e279e37b4d6cdef85e1821bfcf3a3f23a715e2f7517dc969c52285753b
+MD5sum: c16b8c0fefba66dffac9d734a04d9b1c
+Size: 74134
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.1
+Installed-Size: 1036
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.1_iphoneos-arm.deb
+SHA256: 7a1d6c5eb43fb58632edd752f7334625876543b9648b8eb2de87355d5ffc73a6
+MD5sum: de1394d068be94dd1fa4aa7c461137d4
+Size: 405442
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.1.1
+Installed-Size: 1036
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.1.1_iphoneos-arm.deb
+SHA256: 804463b093d656bbc74b183e38a75e68ecea2c52bf3a0bd33a1d1e460ea05bd3
+MD5sum: 19259366302c62ec1f5e85a138e00522
+Size: 405126
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.2
+Installed-Size: 1132
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.2_iphoneos-arm.deb
+SHA256: cfefc10faf3a12006d7e6d1b79a20d9b3c03ee366097e8a2b7525f3c42d601b2
+MD5sum: 55d3ec85e4fd345d2e161507c6afebaf
+Size: 429070
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3
+Installed-Size: 1160
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3_iphoneos-arm.deb
+SHA256: fdf4f71340f1b2e702717c6ee89c9fc07b3362b9aef53a54b71bac52b79b0e82
+MD5sum: d1bd056d3ed1f4c38304aa4e144e14b3
+Size: 450150
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.1
+Installed-Size: 1192
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.1_iphoneos-arm.deb
+SHA256: 67c151266e3c4f1b250490cf3166b8b06f2a562d22919e65f762ff209d00e27e
+MD5sum: 83db51f7ad129e10c2db063857f1d149
+Size: 457892
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.2
+Installed-Size: 1192
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.2_iphoneos-arm.deb
+SHA256: 9286a28f851a0e847831d303b758c435b81036ee8f2f825c41e88d9024c2f1fc
+MD5sum: 3d1bfc6aa6938c046b1defee3973717e
+Size: 458848
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.3
+Installed-Size: 1192
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.3_iphoneos-arm.deb
+SHA256: 6705f4bff7178178ab7db66eb41b6b7a26ee8e8a31e1de54fcf663dc142aac27
+MD5sum: c36e408ebfe0748180d01a6c29d42b44
+Size: 458634
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.4
+Installed-Size: 1224
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.4_iphoneos-arm.deb
+SHA256: f7f1aa6d3a6487ccc16b7804c660693474fa207b31d288945b5c92154f4b428d
+MD5sum: c3aadb327129ee69fbc382da226b6941
+Size: 461942
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.5
+Installed-Size: 1224
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.5_iphoneos-arm.deb
+SHA256: ed9fbe81bf32b11dc10dd0cb70aae3b6b244882e76f8c9c51429f83312cbcafb
+MD5sum: dfe068e24225b10124ce2e3675bf2181
+Size: 462286
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.6
+Installed-Size: 1224
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.6_iphoneos-arm.deb
+SHA256: 904690ee0ee75970f908955c9b5da08d1e8b201c311cbb47b034977687f24d3c
+MD5sum: f3e8307d6650cc59dfca79f678e5308e
+Size: 464810
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.7
+Installed-Size: 1224
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.7_iphoneos-arm.deb
+SHA256: ac5391c20e30a723a572e44cf93e8aac380a42868c9a9f632e0f57ebdbb885c9
+MD5sum: 89881ffd4a1a0776d1387b41f5f7b761
+Size: 464654
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.8
+Installed-Size: 1224
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.8_iphoneos-arm.deb
+SHA256: 78e94193cccd39546a6ee680ad8db124a124dbeae58c8402b2372572aaf56eb5
+MD5sum: 0b8348d7860c4329dd313a2118b46a50
+Size: 465632
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.3.9
+Installed-Size: 1224
+Tag: cydia::commercial
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.3.9_iphoneos-arm.deb
+SHA256: 4b7a5fc015f41882b4457a17cc85860d74866a645d45b8877450fed138d5ee88
+MD5sum: 314e93f05a5c6103f1c0f342d6da16d0
+Size: 466074
+
+Package: com.laughingquoll.watermelon
+Name: Watermelon
+Depends: firmware (>= 12.0), mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS style lockscreen widgets.
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Version: 1.4
+Installed-Size: 1224
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/watermelon/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.laughingquoll.watermelon/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+Filename: debs/com.laughingquoll.watermelon_1.4_iphoneos-arm.deb
+SHA256: a4294d4d0f2b86e36a4c9cb0fca39d0bd884c7a0258c41d53708037301180501
+MD5sum: acdc893fda37885d9b79b195a4569ce1
+Size: 457018
+
+Package: com.noisyflake.betteralarm
+Name: BetterAlarm
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Description: A beautiful timer and alarm screen
+Maintainer: NoisyFlake <support@noisyflake.com>
+Author: NoisyFlake <support@noisyflake.com>
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 384
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/betteralarm/icon@3x.png
+Depiction: https://chariz.com/buy/betteralarm
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.noisyflake.betteralarm/depiction.json
+Filename: debs/com.noisyflake.betteralarm_1.0.0_iphoneos-arm.deb
+SHA256: e5e3939f2838e0d6206bb15cec906274efa918f4146d16e1173caa57c5f00875
+MD5sum: 25110bc970eaebb5a3f81d6982aabc9f
+Size: 36770
+
+Package: com.noisyflake.magmaevo
+Name: Magma Evo
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Architecture: iphoneos-arm
+Description: Redefine your Control Center
+Maintainer: NoisyFlake <support@noisyflake.com>
+Author: NoisyFlake <support@noisyflake.com>
+Section: Tweaks
+Version: 2.0.0
+Installed-Size: 2056
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/magma-evo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.noisyflake.magmaevo/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.noisyflake.magmaevo/depiction.json
+Filename: debs/com.noisyflake.magmaevo_2.0.0_iphoneos-arm.deb
+SHA256: d006486e8ed597c6893b00b72c129b9c62814823944e0a580d0bf59a4ef19fa1
+MD5sum: 9af89eee95d212b0a4b0f725ee24b8a1
+Size: 1356268
+
+Package: com.noisyflake.magmaevo
+Name: Magma Evo
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Architecture: iphoneos-arm
+Description: Redefine your Control Center
+Maintainer: NoisyFlake <support@noisyflake.com>
+Author: NoisyFlake <support@noisyflake.com>
+Section: Tweaks
+Version: 2.0.1
+Installed-Size: 2056
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/magma-evo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.noisyflake.magmaevo/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.noisyflake.magmaevo/depiction.json
+Filename: debs/com.noisyflake.magmaevo_2.0.1_iphoneos-arm.deb
+SHA256: 9b4fb42cf69e8a022d208175223dea06897cb26159e55f5aedcc6435695e7cbf
+MD5sum: 994285eb77cfb5ebd71610bad3e8d394
+Size: 1355496
+
+
+Package: com.noisyflake.magmaevo
+Name: Magma Evo
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Architecture: iphoneos-arm
+Description: Redefine your Control Center
+Maintainer: NoisyFlake <support@noisyflake.com>
+Author: NoisyFlake <support@noisyflake.com>
+Section: Tweaks
+Version: 2.0.2
+Installed-Size: 1876
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/magma-evo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.noisyflake.magmaevo/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.noisyflake.magmaevo/depiction.json
+Filename: debs/com.noisyflake.magmaevo_2.0.2_iphoneos-arm.deb
+SHA256: f26ef7b76487974e9689582ca18bbc9905e8b25ded4be4066bcf1f6fbc95f1ee
+MD5sum: 3e8aa4e942097ac8d2bddb42a8922381
+Size: 1331162
+
+Package: com.noisyflake.magmaevo
+Name: Magma Evo
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Architecture: iphoneos-arm
+Description: Redefine your Control Center
+Maintainer: NoisyFlake <support@noisyflake.com>
+Author: NoisyFlake <support@noisyflake.com>
+Section: Tweaks
+Version: 2.0.3
+Installed-Size: 2128
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/magma-evo/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.noisyflake.magmaevo/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.noisyflake.magmaevo/depiction.json
+Filename: debs/com.noisyflake.magmaevo_2.0.3_iphoneos-arm.deb
+SHA256: e388bc592203a4fb3b7d543e3a2d2d0841a5cf249470d792a16fe9721d237634
+MD5sum: 14bd591de93aa4e10cc956f41fc3a550
+Size: 1358460
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 488
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.0.0_iphoneos-arm.deb
+SHA256: 0f81476b2fa430be54ddce8fca1722123328cd7292df4a5edfb45a20d5acc0dc
+MD5sum: fded151a80181fb0c88449220ad88bec
+Size: 113900
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 488
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.0.1_iphoneos-arm.deb
+SHA256: c06df6a474c69b5c669576ee32f49a4be731da1a0bb068a9343a4f589b335bf6
+MD5sum: 268747626929cb62fc73335ea336602b
+Size: 96266
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Section: Tweaks
+Version: 1.1.0
+Installed-Size: 1172
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.1.0_iphoneos-arm.deb
+SHA256: b61a0b68fca448ba370f4d91b1a13a55540c080a4275115b7c6bb74c7fe8000e
+MD5sum: e72125713da764a46b38be7780a73081
+Size: 302600
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Section: Tweaks
+Version: 1.1.1
+Installed-Size: 668
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.1.1_iphoneos-arm.deb
+SHA256: c6e5c92971996aab08dce37215037d55a958fc668cae7de162e73eca7a23589b
+MD5sum: 8733dcefc7de1de2fb0ee112bc37e2ba
+Size: 302596
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Section: Tweaks
+Version: 1.1.2
+Installed-Size: 668
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.1.2_iphoneos-arm.deb
+SHA256: 6ff9f737880f71f29fecfea63e23df52c4f26bf3ccd2baf7a02898d64c151b96
+MD5sum: 7906bfc037de51f8ff1e5d544aa6e909
+Size: 302538
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Section: Tweaks
+Version: 1.1.3
+Installed-Size: 668
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.1.3_iphoneos-arm.deb
+SHA256: 205f4e94d0bad2f1526c817bc8198ec40c9b91152ae4d4b907f0677157e0a809
+MD5sum: f3b0fb6cd6a106c76b9fa43bfdca8208
+Size: 302432
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Section: Tweaks
+Version: 1.2.0
+Installed-Size: 1320
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.2.0_iphoneos-arm.deb
+SHA256: c9377d61230db4011fbbc793331a2bff456d568541ef43dbce628544dec625a4
+MD5sum: 2e9408d6ac6fbcddeb028f70daf06818
+Size: 242922
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 1320
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.2.1_iphoneos-arm.deb
+SHA256: a81506f16b8373a99b8a42902b5c758524dcf57b8eb872f767797de5314e1f2a
+MD5sum: 7df11b5f4555c75c4446d925c109582a
+Size: 240862
+
+Package: com.qiop1379.swipeextenderx
+Name: SwipeExtenderX
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Section: Tweaks
+Version: 1.3.0
+Installed-Size: 1404
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
+Depiction: https://chariz.com/buy/swipeextenderx
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
+Filename: debs/com.qiop1379.swipeextenderx_1.3.0_iphoneos-arm.deb
+SHA256: 4f9312c9d4f20c60540be52a71ace677fd6f136ae4899046ba13053c471bd0c8
+MD5sum: 13d23f122c1468d21eaa5d828ec5cc80
+Size: 252026
+
+Package: com.shade.nougat
+Name: Nougat
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Description: Android NC for iOS
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/nougat/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.shade.nougat/
+Tag: cydia::commercial, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 1.0
+Installed-Size: 9436
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.shade.nougat/depiction.json
+Filename: debs/com.shade.nougat_1.0_iphoneos-arm.deb
+SHA256: 7e3dbdba2dbaebd83978d38d74a5b013885222d7e5dbf990d8847e38771b48e0
+MD5sum: 64ee810790c0950532299ad9d5f2cc8b
+Size: 999198
+
+Package: com.shade.nougat
+Name: Nougat
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Architecture: iphoneos-arm
+Description: Android NC for iOS
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/nougat/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.shade.nougat/
+Tag: cydia::commercial, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 1.0.1
+Installed-Size: 9448
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.shade.nougat/depiction.json
+Filename: debs/com.shade.nougat_1.0.1_iphoneos-arm.deb
+SHA256: 6295d031110d7f70a19134ed7c8394a977a8d7690b879c536f8adc4cb500c05a
+MD5sum: 625258a1be054bc305506ac99c1a0cb2
+Size: 1011396
+
+Package: com.shade.nougat
+Name: Nougat
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Architecture: iphoneos-arm
+Description: Android NC for iOS
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/nougat/icon@3x.png
+Depiction: https://chariz.com/buy/nougat
+Tag: cydia::commercial, compatible_min::ios10.0
+Version: 1.1
+Installed-Size: 10064
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.shade.nougat/depiction.json
+Filename: debs/com.shade.nougat_1.1_iphoneos-arm.deb
+SHA256: 3278ba4860dda7d0fd78051b668b444686788101db87a71d519d895cd0627f43
+MD5sum: 3be3972e898a56b2b636a0e2cc89f06a
+Size: 1061258
+
+Package: com.squ1dd13.bouncebass
+Name: Circuliser
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.muirey03.libmryipc
+Architecture: iphoneos-arm
+Description: Circular music visualiser.
+Maintainer: Squ1dd13 <squ1dd13dev@gmail.com>
+Author: Squ1dd13 <squ1dd13dev@gmail.com>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 560
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/circuliser/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.squ1dd13.bouncebass/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.squ1dd13.bouncebass/depiction.json
+Filename: debs/com.squ1dd13.bouncebass_1.0_iphoneos-arm.deb
+SHA256: 5f57114922050256f45cd18db6a597c6c43bfc5c5309158f8b0e9068045b7dfc
+MD5sum: 733a4c4afadd124dee30bc9bf3151947
+Size: 95472
+
+Package: com.squ1dd13.bouncebass
+Name: Circuliser
+Depends: firmware (>= 12.0), mobilesubstrate, com.muirey03.libmryipc, com.squ1dd13.inky
+Architecture: iphoneos-arm
+Description: Circular music visualiser.
+Maintainer: Squ1dd13 <squ1dd13@gmail.com>
+Author: Squ1dd13 <squ1dd13@gmail.com>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 532
+Depiction: https://repo.chariz.com/package/com.squ1dd13.bouncebass/
+Icon: https://chariz.com/cdn/icon/circuliser/icon@3x.png
+Tag: cydia::commercial, compatible_min::ios12.0
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.squ1dd13.bouncebass/depiction.json
+Filename: debs/com.squ1dd13.bouncebass_1.0.1_iphoneos-arm.deb
+SHA256: 8ec9cbd7f304c0b2d98d573e61cdc1c6158582b248e5db8c29481939f152ec82
+MD5sum: 52203784207e0dd30b417dfcee971456
+Size: 95534
+
+Package: com.squ1dd13.inky
+Name: Inky
+Architecture: iphoneos-arm
+Description: Inky is a colour picker library that can be used to provide colour options in tweak preference bundles.
+Maintainer: Squ1dd13 <squ1dd13dev@gmail.com>
+Author: Squ1dd13 <squ1dd13dev@gmail.com>
+Section: System
+Tag: role::developer, compatible::ios12, compatible::ios13
+Version: 1.0
+Installed-Size: 3028
+Depiction: https://repo.chariz.com/package/com.squ1dd13.inky/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.squ1dd13.inky/depiction.json
+Filename: debs/com.squ1dd13.inky_1.0_iphoneos-arm.deb
+SHA256: a8ed45cd7a660699d975eb8032a8da1a70e99357ef58e089a5ed9a90b17b3145
+MD5sum: 4c8ba3e2d38c420de6ef1845298f33df
+Size: 666898
+
+Package: com.tcbrooks.titan
+Name: Titan
+Description: True picture in picture support for all your favorite apps
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Author: tcbrooks <thesaltcracka@gmail.com>
+Maintainer: tcbrooks <thesaltcracka@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0
+Installed-Size: 688
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/titan/icon@3x.png
+Depiction: https://chariz.com/buy/titan
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tcbrooks.titan/depiction.json
+Filename: debs/com.tcbrooks.titan_1.0_iphoneos-arm.deb
+SHA256: 439f3dce4b84c402493853a7d6b2cd8464b28881a1f87251a9e8fafdd0166e5c
+MD5sum: 5ba6c15be05975b945489ebb909bbfd6
+Size: 121330
+
+Package: com.tcbrooks.titan
+Name: Titan
+Description: True picture in picture support for all your favorite apps
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), com.bingner.plutil
+Author: tcbrooks <thesaltcracka@gmail.com>
+Maintainer: tcbrooks <thesaltcracka@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 688
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/titan/icon@3x.png
+Depiction: https://chariz.com/buy/titan
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tcbrooks.titan/depiction.json
+Filename: debs/com.tcbrooks.titan_1.0.1_iphoneos-arm.deb
+SHA256: d2c0f8591a3377d2d140767d84f9a34d267b3a61eb510f8de61e2c77c9f6624a
+MD5sum: 62160db6849be4f22ea25de21b280d81
+Size: 121404
+
+Package: com.tr1fecta.weatherground
+Name: WeatherGround
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Architecture: iphoneos-arm
+Description: Weather right at your fingertips!
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Tag: compatible::ios13
+Icon: https://chariz.com/cdn/icon/weatherground/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.tr1fecta.weatherground/
+Version: 1.0
+Installed-Size: 248
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tr1fecta.weatherground/depiction.json
+Filename: debs/com.tr1fecta.weatherground_1.0_iphoneos-arm.deb
+SHA256: c7f73bf2ebacee27f48a14005b8b76af90fb6204d2136933c3abba09c2fdf655
+MD5sum: d6d0e5a45f198b5f2ea5b0a2cdaf8940
+Size: 25480
+
+Package: dev.aryanjnambiar.wonderbar
+Name: Wonderbar
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis
+Architecture: iphoneos-arm
+Description: Complete status bar customization at your fingertips!
+Maintainer: Aryan Nambiar <awesomeajn@gmail.com>
+Author: Aryan Nambiar <awesomeajn@gmail.com>
+Section: Tweaks
+Tag: compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/wonderbar/icon@3x.png
+Depiction: https://repo.chariz.com/package/dev.aryanjnambiar.wonderbar/
+Version: 1.0.0
+Installed-Size: 396
+SileoDepiction: https://repo.chariz.com/api/sileo/package/dev.aryanjnambiar.wonderbar/depiction.json
+Filename: debs/dev.aryanjnambiar.wonderbar_1.0.0_iphoneos-arm.deb
+SHA256: 194133e1933b7a1c38e297b01675ad7ed176c45256e95fe04f532fc17c552ac4
+MD5sum: ab313f012806b401665a35d6feb95df9
+Size: 22296
+
+Package: dev.aryanjnambiar.wonderbar
+Name: Wonderbar
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis
+Architecture: iphoneos-arm
+Description: Complete status bar customization at your fingertips!
+Maintainer: Aryan Nambiar <awesomeajn@gmail.com>
+Author: Aryan Nambiar <awesomeajn@gmail.com>
+Section: Tweaks
+Tag: compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/wonderbar/icon@3x.png
+Depiction: https://repo.chariz.com/package/dev.aryanjnambiar.wonderbar/
+Version: 1.0.1
+Installed-Size: 396
+SileoDepiction: https://repo.chariz.com/api/sileo/package/dev.aryanjnambiar.wonderbar/depiction.json
+Filename: debs/dev.aryanjnambiar.wonderbar_1.0.1_iphoneos-arm.deb
+SHA256: 7b0f869505b2fd06d2dfa0e4df8316d3079a6f1588ad41233ff5df17dd952bb9
+MD5sum: a748a3416bb19bfa765098d4624638b0
+Size: 24632
+
+Package: dev.aryanjnambiar.wonderbar
+Name: Wonderbar
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis, preferenceloader
+Architecture: iphoneos-arm
+Description: Complete status bar customization at your fingertips!
+Maintainer: Aryan Nambiar <awesomeajn@gmail.com>
+Author: Aryan Nambiar <awesomeajn@gmail.com>
+Section: Tweaks
+Tag: compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/wonderbar/icon@3x.png
+Depiction: https://repo.chariz.com/package/dev.aryanjnambiar.wonderbar/
+Version: 1.1
+Installed-Size: 368
+SileoDepiction: https://repo.chariz.com/api/sileo/package/dev.aryanjnambiar.wonderbar/depiction.json
+Filename: debs/dev.aryanjnambiar.wonderbar_1.1_iphoneos-arm.deb
+SHA256: 0bf5cdab724751624279885211baf629f3b0fb27ff906ba24a1eb0f767bcfcea
+MD5sum: fd5ace56a34c3c8659ff2fbebcff8fa8
+Size: 24958
+
+Package: hi.my.name.is.ubik.kalm
+Name: Kalm
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Author: ubik <cydia@ubikstyl.es>
+Section: Tweaks
+Description: Keep Kalm.
+Version: 1.0.0
+Installed-Size: 468
+Tag: cydia::commercial, compatible::ios12
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Depiction: https://repo.chariz.com/package/hi.my.name.is.ubik.kalm/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/hi.my.name.is.ubik.kalm/depiction.json
+Filename: debs/hi.my.name.is.ubik.kalm_1.0.0_iphoneos-arm.deb
+SHA256: 06e79f02ae473231cfac589f86f7369bbdf57b42eae266629fc0e93ea6ac3494
+MD5sum: 0716c888c24ef5335e8ae41b423856e7
+Size: 64420
+
+Package: hi.my.name.is.ubik.kalm
+Name: Kalm
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Author: ubik <cydia@ubikstyl.es>
+Section: Tweaks
+Description: A beautiful first sight.
+Version: 1.3.4
+Installed-Size: 980
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Depiction: https://repo.chariz.com/package/hi.my.name.is.ubik.kalm/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/hi.my.name.is.ubik.kalm/depiction.json
+Filename: debs/hi.my.name.is.ubik.kalm_1.3.4_iphoneos-arm.deb
+SHA256: 10458bb19acaeffb65c5c522582ba359740fbd17f3b1e9508c9a1d7f26fb9d11
+MD5sum: 17b03f4e877b51f766a18812ff9003bf
+Size: 205406
+
+Package: hi.my.name.is.ubik.kalm
+Name: Kalm
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Author: ubik <cydia@ubikstyl.es>
+Section: Tweaks
+Description: A beautiful first sight.
+Version: 1.4.0
+Installed-Size: 1008
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Depiction: https://repo.chariz.com/package/hi.my.name.is.ubik.kalm/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/hi.my.name.is.ubik.kalm/depiction.json
+Filename: debs/hi.my.name.is.ubik.kalm_1.4.0_iphoneos-arm.deb
+SHA256: dd0f53ea73040595d3386f2719ac3148d87a179eb2ffc00576d12c50c5b68f84
+MD5sum: 9e2a6e2d58a4d7a53752d634b29f5214
+Size: 191234
+
+Package: hi.my.name.is.ubik.kalm
+Name: Kalm
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Author: ubik <cydia@ubikstyl.es>
+Section: Tweaks
+Description: A beautiful first sight.
+Version: 1.4.1
+Installed-Size: 1008
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Depiction: https://repo.chariz.com/package/hi.my.name.is.ubik.kalm/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/hi.my.name.is.ubik.kalm/depiction.json
+Filename: debs/hi.my.name.is.ubik.kalm_1.4.1_iphoneos-arm.deb
+SHA256: a2974ec7f313e983ca7d57da23148496c27003b61948d4a4dbb77f67b89f96b5
+MD5sum: 3636f486b94d90f90e712c32201924ce
+Size: 191536
+
+Package: hi.my.name.is.ubik.kalm
+Name: Kalm
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Author: ubik <cydia@ubikstyl.es>
+Section: Tweaks
+Description: A beautiful first sight.
+Version: 1.4.2
+Installed-Size: 1008
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Depiction: https://repo.chariz.com/package/hi.my.name.is.ubik.kalm/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/hi.my.name.is.ubik.kalm/depiction.json
+Filename: debs/hi.my.name.is.ubik.kalm_1.4.2_iphoneos-arm.deb
+SHA256: 3fdd113fddadd0a6b8866013342378ddcc022119f9160825616b91f7fa848a0a
+MD5sum: 68fc39b38db7c1f679a45d0f1c1bab6a
+Size: 193552
+
+Package: hi.my.name.is.ubik.kalm
+Name: Kalm
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Author: ubik <cydia@ubikstyl.es>
+Section: Tweaks
+Description: A beautiful first sight.
+Version: 1.4.3
+Installed-Size: 1008
+Tag: cydia::commercial, compatible_min::ios12.0
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Depiction: https://repo.chariz.com/package/hi.my.name.is.ubik.kalm/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/hi.my.name.is.ubik.kalm/depiction.json
+Filename: debs/hi.my.name.is.ubik.kalm_1.4.3_iphoneos-arm.deb
+SHA256: 3ae3c16fa3a6306f8afc8e34d38c40a32cc0753ba85040ed440976afb9879039
+MD5sum: d6b3932bd8723a1c067205da22cf55ff
+Size: 194574
+
+Package: me.conorthedev.lyricify
+Name: Lyricify
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: Access lyrics for your favourite songs directly on your lockscreen
+Maintainer: ConorTheDev <support@conorthedev.me>
+Author: ConorTheDev <support@conorthedev.me>
+Section: Tweaks
+Version: 1.2
+Installed-Size: 948
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+Icon: https://chariz.com/cdn/icon/lyricify/icon@3x.png
+Depiction: https://repo.chariz.com/package/me.conorthedev.lyricify/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/me.conorthedev.lyricify/depiction.json
+Filename: debs/me.conorthedev.lyricify_1.2_iphoneos-arm.deb
+SHA256: 379ec2dd96c3176dd7a95bd19a232e13ad4a20742a68444315d0d8ecff53471e
+MD5sum: f01ec57c9f9cc9853882b69ef942c6d8
+Size: 329028
+
+Package: me.daveapps.counted
+Name: Counted
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Your days are Counted
+Support: https://github.com/vanwijkdave/Counted/issues
+Maintainer: Dave van Wijk <vanwijkdave@gmail.com>
+Author: Dave van Wijk <vanwijkdave@gmail.com>
+Section: Tweaks
+Version: 1
+Installed-Size: 268
+Tag: compatible::ios13
+Icon: https://chariz.com/cdn/icon/counted/icon@3x.png
+Depiction: https://repo.chariz.com/package/me.daveapps.counted/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/me.daveapps.counted/depiction.json
+Filename: debs/me.daveapps.counted_1_iphoneos-arm.deb
+SHA256: 44c1244cef6afe4f2fa8d474c81c63d1537fc437049cd82b93de2a6be0d610cd
+MD5sum: ecac8ff6fa80540082ca16279b177903
+Size: 44142
+
+Package: me.daveapps.counted
+Name: Counted
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Your days are Counted
+Support: https://github.com/vanwijkdave/Counted/issues
+Maintainer: Dave van Wijk <vanwijkdave@gmail.com>
+Author: Dave van Wijk <vanwijkdave@gmail.com>
+Section: Tweaks
+Version: 1.1
+Installed-Size: 268
+Tag: compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/counted/icon@3x.png
+Depiction: https://repo.chariz.com/package/me.daveapps.counted/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/me.daveapps.counted/depiction.json
+Filename: debs/me.daveapps.counted_1.1_iphoneos-arm.deb
+SHA256: 9dcd61f0716ff5966a94a44e843ace2dfcc8fc03ea75d1282b69c7fb9b7d055f
+MD5sum: 0f7a6a2fbb0121def028ba93a2da6ee3
+Size: 46754
+
+Package: ws.hbang.alderis
+Name: Alderis Color Picker
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Conflicts: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Provides: org.thebigboss.libcolorpicker (= 1.6.7), me.nepeta.libcolorpicker (= 1.6.2-3)
+Architecture: iphoneos-arm
+Description: Color picker support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Depiction: https://repo.chariz.com/package/ws.hbang.alderis/
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible::ios12, compatible::ios13
+dev: hbang
+Version: 1.0
+Installed-Size: 2172
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.alderis/depiction.json
+Filename: debs/ws.hbang.alderis_1.0_iphoneos-arm.deb
+SHA256: a29d44455e9a2fdc44e419700f0a7b87cc60e5304965479bd6da621481998ce5
+MD5sum: 054ee0897db4ac3d6dc02e6cf5da9cb4
+Size: 492004
+
+Package: ws.hbang.alderis
+Name: Alderis Color Picker
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
+Architecture: iphoneos-arm
+Description: Color picker support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Depiction: https://repo.chariz.com/package/ws.hbang.alderis/
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible_min::ios12.0
+dev: hbang
+Version: 1.0.1
+Installed-Size: 2172
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.alderis/depiction.json
+Filename: debs/ws.hbang.alderis_1.0.1_iphoneos-arm.deb
+SHA256: 820ec9c2b1872123d1dc8af35aeecd9dda7132653663e9d2234f75af772c6caf
+MD5sum: 84dd9a5bd258ef8270f068123b5af8f0
+Size: 492020
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: com.rpetrich.rocketbootstrap, firmware (>= 13.0) | jp.ashikase.techsupport
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.common/
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: hbang
+Version: 1.14
+Installed-Size: 1984
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.common/depiction.json
+Filename: debs/ws.hbang.common_1.14_iphoneos-arm.deb
+SHA256: 0dfb13c5ede945a26821b6ad708f49a5ff43b42990cc373401767fcb2834c97c
+MD5sum: 175e38b3300f272d2a59a50f7452c3e0
+Size: 177334
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: com.rpetrich.rocketbootstrap, firmware (>= 13.0) | jp.ashikase.techsupport
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.common/
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: hbang
+Version: 1.15
+Installed-Size: 1928
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.common/depiction.json
+Filename: debs/ws.hbang.common_1.15_iphoneos-arm.deb
+SHA256: ee6038aa055bea296b646bb37f474bd6b8b9686db8c9e244d7461bb15c57c573
+MD5sum: 13fd3ebcb19f11832e9ec303e115bbcc
+Size: 223698
+
+Package: ws.hbang.common
+Name: Cephei Tweak Support
+Depends: firmware (<< 8.0) | mobilesubstrate (>= 0.9.7000) | com.rpetrich.rocketbootstrap, firmware (<< 8.0) | mobilesubstrate (<< 99) | com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: https://chariz.com/cdn/icon/cephei/icon@3x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.common/
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible_min::ios5.0
+dev: hbang
+Version: 1.15.1
+Installed-Size: 1912
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.common/depiction.json
+Filename: debs/ws.hbang.common_1.15.1_iphoneos-arm.deb
+SHA256: a76aeedb3197ceb00ef0547545db62dd6feb175b21bf3b763246b853f22cc4ac
+MD5sum: 463f08050142b9b1d1cb6a4391dac2cf
+Size: 222316
+
+Package: ws.hbang.newterm2
+Name: NewTerm (iOS 10 – 13)
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.newterm2/
+Support: https://hashbang.productions/support/
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.3
+Installed-Size: 6704
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.newterm2/depiction.json
+Filename: debs/ws.hbang.newterm2_2.3_iphoneos-arm.deb
+SHA256: 0b503de81239f51fd5904f11f2b2c3b654009320a4f0d2fd0d2131259c75a00b
+MD5sum: 20ec1b8aae7d2f4a85a55ea97bea583e
+Size: 2129090
+
+Package: ws.hbang.newterm2
+Name: NewTerm (iOS 10 – 13)
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.newterm2/
+Support: https://hashbang.productions/support/
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.4
+Installed-Size: 6792
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.newterm2/depiction.json
+Filename: debs/ws.hbang.newterm2_2.4_iphoneos-arm.deb
+SHA256: 656946a2844b1fecfb4d3330f7463340d032724cb15313edfc1b3c3b898bfb97
+MD5sum: 9de0a2d8c6b2cb9ddc5467cb8e51f54c
+Size: 2183056
+
+Package: ws.hbang.quanta
+Name: Quanta (iOS 13)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: Better Smart Battery Case support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/quanta/icon@3x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.quanta/
+Support: https://hashbang.productions/support/
+Tag: purpose::extension, compatible::ios13
+Version: 1.0
+Installed-Size: 312
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.quanta/depiction.json
+Filename: debs/ws.hbang.quanta_1.0_iphoneos-arm.deb
+SHA256: 10389926ea19e9ca00b8941f29e013e20e31bed351395f33b8ababa85248e1cd
+MD5sum: 85e819c5cbb222c114a8b0889d9834b7
+Size: 15472
+
+Package: ws.hbang.runtimebrowser
+Name: RuntimeBrowser
+Architecture: iphoneos-arm
+Description: Class browser for Objective-C runtime
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Utilities
+Icon: https://repo.chariz.com/package/ws.hbang.runtimebrowser/icon@3x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.runtimebrowser/
+Version: 1.0
+Installed-Size: 5024
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.runtimebrowser/depiction.json
+Filename: debs/ws.hbang.runtimebrowser_1.0_iphoneos-arm.deb
+SHA256: e69446cba64e78cf1fbe169f2d6c05716d92e114da5ffd81b583d47818dd60e1
+MD5sum: 57d66366d0f0f4ebe3be3e1d9d3d8878
+Size: 1550648
+
+Package: ws.hbang.runtimebrowser
+Name: RuntimeBrowser
+Architecture: iphoneos-arm
+Description: Class browser for Objective-C runtime
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Utilities
+Icon: https://repo.chariz.com/package/ws.hbang.runtimebrowser/icon@3x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.runtimebrowser/
+Version: 1.0.1
+Installed-Size: 5028
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.runtimebrowser/depiction.json
+Filename: debs/ws.hbang.runtimebrowser_1.0.1_iphoneos-arm.deb
+SHA256: 48b4e5cbc25fe66be47b2acfb702f31f8da24b1659814b7343aa5ebcf4d83da9
+MD5sum: 677fea99ff4546d0a29efe70e4eb06c7
+Size: 1550920
+
+Package: ws.hbang.stopcrashingpls
+Name: StopCrashingPls
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Workaround for iOS 13 jetsam crash issue
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/stopcrashingpls/icon@3x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.stopcrashingpls/
+Support: https://hashbang.productions/support/
+Tag: purpose::extension, compatible::ios13
+Version: 1.0
+Installed-Size: 184
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.stopcrashingpls/depiction.json
+Filename: debs/ws.hbang.stopcrashingpls_1.0_iphoneos-arm.deb
+SHA256: 26f7242994dd60764232a0aa6316f2a1c2e25f0c74851916707e4a0bceb1cd94
+MD5sum: 9c125fe83433d783b485dc1b50029f30
+Size: 4010
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.imkpatil.floatingdock, com.bengiannis.primo, com.imkpatil.floatingdockplus, com.p2kdev.floatingdockplus13, com.synnyg.floatydock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multipla/
+Tag: cydia::commercial, compatible::ios11, compatible::ios12, compatible::ios13
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.0.0_iphoneos-arm.deb
+SHA256: 4a347651e399f59fe66876f0225180f63dcb3cfa7ab15978d88c7aa6942095b9
+MD5sum: f36bad934b84fd1e23e27c83c11a2c13
+Size: 877514
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multipla/
+Tag: cydia::commercial, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 2115
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.1.0_iphoneos-arm.deb
+SHA256: e2cf4bd86f465f42717ea900018e63de109ad009c0f1acc8b3e2f2b927d7b9a9
+MD5sum: e3e20f351737e694b939f79429302f24
+Size: 963996
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: xyz.burritoz.thomz.multiplalite, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, com.blakeboxberger.bazzi2, com.blakeboxberger.bazzi
+Replaces: xyz.burritoz.thomz.multiplalite
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multipla/
+Tag: cydia::commercial, compatible_min::ios11.0
+Installed-Size: 2155
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.1.1_iphoneos-arm.deb
+SHA256: 9fac9ef806ffdd8c5bd12f367b2e5f28fd6acd35da5b153ba5ee6bd8c5f6e1ee
+MD5sum: 3b34399d6dbf193b2f349aa99ef6c684
+Size: 996810
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: xyz.burritoz.thomz.multiplalite, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, xyz.burritoz.thomz.multiplalite
+Replaces: xyz.burritoz.thomz.multiplalite
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multipla/
+Tag: cydia::commercial, compatible_min::ios11.0
+Installed-Size: 2143
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.1.2_iphoneos-arm.deb
+SHA256: 3ae4ffe84c29a2c231abc15b4e81be2051a1158d363f4fa5dd18cd28832b8050
+MD5sum: a780c98201b4f47b6f0a1d7412e108f0
+Size: 1068532
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: xyz.burritoz.thomz.multiplalite, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, xyz.burritoz.thomz.multiplalite
+Replaces: xyz.burritoz.thomz.multiplalite
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multipla/
+Tag: cydia::commercial, compatible_min::ios11.0
+Installed-Size: 2522
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.2.0_iphoneos-arm.deb
+SHA256: 1568c5ceaaa9413d7c1e95a7dfce2f8b1f457a53825c200cdf2ec878e28a06f0
+MD5sum: 5f857cb753581e4d2ed6f3a75f871bb7
+Size: 1197168
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: xyz.burritoz.thomz.multiplalite, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, xyz.burritoz.thomz.multiplalite
+Replaces: xyz.burritoz.thomz.multiplalite
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multipla/
+Tag: cydia::commercial, compatible_min::ios11.0
+Installed-Size: 2522
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.2.0-1_iphoneos-arm.deb
+SHA256: c86b4b645c5490bdf0ca0b40fc47ffd5b0d67ee834e26e8534177aec38575a64
+MD5sum: 9204550f60e25cc66450ea62df9d94c3
+Size: 1196936
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: xyz.burritoz.thomz.multiplalite, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, xyz.burritoz.thomz.multiplalite
+Replaces: xyz.burritoz.thomz.multiplalite
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multipla/
+Tag: cydia::commercial, compatible_min::ios11.0
+Installed-Size: 2807
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.2.1_iphoneos-arm.deb
+SHA256: 877b810a8840f905e407b8e711afbf43e0f077a15a327fb62fa026c3f16cb05e
+MD5sum: c47c67c45e3a8c5b49534dbb977c5d6d
+Size: 1292054
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.peppa.Primo, com.eswick.harbor3, com.spark.vesta, xyz.burritoz.thomz.multiplalite
+Replaces: xyz.burritoz.thomz.multiplalite
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://chariz.com/buy/multipla
+Tag: cydia::commercial, compatible_min::ios11.0
+Installed-Size: 2808
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.2.2_iphoneos-arm.deb
+SHA256: fee6fdcd3f861428f9099ba76bc403bec21975535895de09d12dab0645edfd9b
+MD5sum: 435d9579c3c0a3eedb51fab8d2d05649
+Size: 1291718
+
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.peppa.Primo, com.eswick.harbor3, com.spark.vesta, xyz.burritoz.thomz.multiplalite
+Replaces: xyz.burritoz.thomz.multiplalite
+Version: 1.2.3
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://chariz.com/buy/multipla
+Tag: cydia::commercial, compatible_min::ios11.0
+Installed-Size: 3012
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multipla/depiction.json
+Filename: debs/xyz.burritoz.thomz.multipla_1.2.3_iphoneos-arm.deb
+SHA256: 4a9165908db8a9a1fcadb947035bd9d1fbdb2fafa9b8f8e3a75db1fea4c98cf3
+MD5sum: 58271818e69e1152fc16d921a209a5f5
+Size: 1292020
+
+Package: xyz.burritoz.thomz.multiplalite
+Name: Multipla Lite
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: xyz.burritoz.thomz.multipla, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, com.blakeboxberger.bazzi2, com.blakeboxberger.bazzi
+Replaces: xyz.burritoz.thomz.multipla
+Version: 1.1.1~lite2
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla-lite/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multiplalite/
+Tag: compatible_min::ios11.0
+Installed-Size: 1885
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multiplalite/depiction.json
+Filename: debs/xyz.burritoz.thomz.multiplalite_1.1.1~lite2_iphoneos-arm.deb
+SHA256: 35cdad039a2a05ee578f7e9d692224759d07834a2fdc13385fb24143c2a30e03
+MD5sum: afaa34c882c2e5807b0ade26b721a181
+Size: 957178
+
+Package: xyz.burritoz.thomz.multiplalite
+Name: Multipla Lite
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: xyz.burritoz.thomz.multipla, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta
+Replaces: xyz.burritoz.thomz.multipla
+Version: 1.1.1~lite5
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <carsonzielinski@gmail.com>
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla-lite/icon@3x.png
+Depiction: https://repo.chariz.com/package/xyz.burritoz.thomz.multiplalite/
+Tag: compatible_min::ios11.0
+Installed-Size: 1842
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multiplalite/depiction.json
+Filename: debs/xyz.burritoz.thomz.multiplalite_1.1.1~lite5_iphoneos-arm.deb
+SHA256: 59770a4b25db7e0707dc27163957cf245f8ca989516ebc80fd89c2769a83c998
+MD5sum: 21c250b49f60cc58261c7eb256c5e1c9
+Size: 956564
+

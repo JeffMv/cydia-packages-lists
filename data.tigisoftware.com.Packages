@@ -1,0 +1,52 @@
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Version: 1.5.3-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 9244
+Filename: ./com.tigisoftware.appdatamanager_1.5.3-2_iphoneos-arm.deb
+Size: 3670508
+MD5sum: 2eb6620e23db6922701e2407d5676f52
+SHA1: 87a9281b7a79c8f784572db419ffbd6bfe3649b6
+SHA256: 78575a62159b0f9d049c6e1c8aac5ba1143fffc5b75a9f3ace8b24cd2f795b24
+Section: Utilities
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Name: Apps Manager
+
+Package: com.tigisoftware.filza
+Name: Filza File Manager
+Version: 3.7.7-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 31900
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./com.tigisoftware.filza_3.7.7-2_iphoneos-arm.deb
+Size: 13268432
+MD5sum: 607bf49736c9337f6a4921751e6e54fc
+SHA1: d0b1dcd7850fe9c05e73e2510ac555ea62c0846f
+SHA256: bf29d001de663884d885b27d18ec13f57aa39c292d8d022a24171161ed5c32d2
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Name: Filza File Manager
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager (64-bit only)
+Version: 3.7.7-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 21756
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./com.tigisoftware.filza64bit_3.7.7-2_iphoneos-arm.deb
+Size: 8808238
+MD5sum: 749ce23f96248a4498202f0afc509e18
+SHA1: 7aa2639d277b915d600ce1bd097827198d6d12bd
+SHA256: 7e39c076e49b3e9ea74e90077eaa0a2602e987d09e579e06a5c6c0371e940b36
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
+

@@ -1,0 +1,71 @@
+Package: GamePlayer
+Version: 3.4
+Section: 八门神器
+Priority: optional
+Architecture: iphoneos-arm
+Installed-Size: 2800
+Maintainer: Maocai Luo <luomao2000@tom.com>
+Description: 由于谷歌广告调整所以现在无法显示广告了！我们决定推出IOS和安卓全免费全功能八门神器，请大家耐心等待！！八门神器是一个通用手机游戏修改器，可以轻松修改HP、MP、金钱等等。支持iOS 6.x 7.x 8.x 9.x系统。安装完成后，需要重起设备。更多八门神器的使用问题请登陆官方网站http://zntx.cc论坛.或者加QQ/微信377803226咨询！
+Name: GamePlayer八门神器V3.4
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Filename: tools/GamePlayer_V3.4.deb
+Size: 1502822
+MD5sum: 49d88577e231d4c36ae0f8cbb40bfb14
+Pre-Depends: firmware (>= 6.0), mobilesubstrate
+
+Homepage: http://ultrasn0w.com/
+Package: ultrasn0w
+Name: 超雪1.2.7
+Version: 1.2.7
+Section: 系统工具
+Priority: optional
+Icon: file:///Applications/Cydia.app/Sections/[工具].png
+Filename: tools/ultrasn0w.deb
+Size: 14564
+Architecture: iphoneos-arm
+Installed-Size: 30
+Description: iPhone Dev Team's iPhone 4, 3G and 3GS software unlock, now with added PwnApple.  Compatible with iPhone 4 baseband 01.59.00 and iPhone 3G/3GS basebands 04.26.08, 05.11.07, 05.12.01, 05.13.04 and 06.15.00!  Thanks to @sherif_hashim and @Oranav for contributing baseband crashes.
+Maintainer: Dev Team <blog@iphone-dev.org>
+Author: Dev Team <blog@iphone-dev.org>
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.3209-1), firmware (<< 5.0) | mobilesubstrate (>= 0.9.3900)
+Conflicts: blacksn0w, yellowsn0w, gsc.wildcat
+MD5sum: 017e776a541bc7a46f6f18a8aa304cf5
+
+Package: stardic
+Source: stardict
+Version: 3.0.1-6
+Name: 源码安装
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Andrew Lee (李健秋) <ajqlee@debian.org>
+Installed-Size: 48
+Size: 13182
+Priority: optional
+Filename: office/stardic_3.0.1-6_all.deb
+Depends: stardict
+Section: 办公软件
+Priority: optional
+Homepage: http://stardict.sourceforge.net/
+Description: transiational dummy package which can be safely removed. Dummy package to upgrade to the new stardict package.
+MD5sum: f52ad3665164162faed66a3a120726fd
+
+Package: fit4cn
+Version: 4.0-build0513
+Architecture: iphoneos-arm
+Maintainer: WEIP.Tech <qf12250@163.com>
+Installed-Size: 12787
+Size: 2667732
+Pre-Depends: firmware (>= 3.2)
+Depends: mobilesubstrate (>= 0.9.3228-1), preferenceloader (>= 2.0.2-1)
+Section: 输入法
+Priority: standard
+Homepage: http://fit4.cn
+Description: FIT 五笔输入法 4.0 Build 0513，支持 iOS 4.3.3。<br><br>更新:<br>五笔拼音混合情况下，增加联想，繁体输出时也有联想<br>调整了一下键盘，优化了繁体转换<br>优化了性能，增加大小键盘，修复b1 crash，进入安全模式的问题
+Tag: role::enduser
+Author: FIT4CN <fit4cn@gmail.com>
+Filename: tools/fit4cn.deb
+Icon: file:///Applications/FITSetting.app/icon.png
+Name: FIT 五笔输入法（iPhone）
+Sponsor: FunInput.com <http://funinput.com>
+MD5sum: bd281e7e04b2d9f9beaa8411a9948ad8
+

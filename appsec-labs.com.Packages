@@ -1,0 +1,46 @@
+Package: com.appsec-labs.inalyzer
+Filename: debs/iNalyzer_9.5.deb
+Name: iNalyzer
+MD5Sum: d7ecbc67858e8131bac198ee67a82566
+Size: 1893858
+Maintainer: AppSec-Labs <info@appsec-labs.com>
+Description: iNalyzer for iOS 8 and 9
+Section: AppSec-Labs
+Author: AppSec-Labs
+Version: 9.5
+Pre-Depends: ldone
+Depends: zip, unzip, OpenSSH, cycript, class-dump-z, mobilesubstrate, com.ericasadun.utilities, coreutils, odcctools, gawk
+Architecture: iphoneos-arm
+Essential: no
+Icon: https://appsec-labs.com/cydia/CydiaIcon.png
+Homepage: https://www.appsec-labs.com/iNalyzer
+RequiresRespring: false
+VersionsSupported: 2.01,2.1,2.2,2.21
+
+Package: ldone
+Filename: debs/ldone-0.2.deb
+Priority: optional
+Section: Development
+Maintainer: Dissident <apps@hackulo.us>
+Author: Dissident <apps@hackulo.us>
+Architecture: iphoneos-arm
+Version: 0.2
+Description: Quick Mach-O binary utility
+Name: ldone
+Size: 7666
+MD5sum: 5718d81e78a7544e3a0c3ac2918468b4
+
+Package: class-dump-z
+Filename: debs/class-dump-z_2.0-1_iphoneos-arm.deb
+MD5sum: 4c081c0b524c272867b1ec7f20259eed
+Size: 171440
+Name: Class Dump Z
+Version: 2.0-1
+Architecture: iphoneos-arm
+Replaces: com.c0deh4cker.class-dump-z
+Author: KenneyTM
+Maintainer: C0deH4cker
+Section: Development
+Description: Reverse engineer ObjC headers
+ Like Class Dump, Class Dump Z is a powerful and useful tool for reverse engineering Objective-C headers. Using Class Dump Z, one can reproduce the headers used in any given Objective-C binary. This tool is useful for MobileSubstrate tweak development. Class Dump Z is a newer, more powerful version of Class Dump. This version has more options and comes closer to getting the correct headers.
+Tag: role::hacker

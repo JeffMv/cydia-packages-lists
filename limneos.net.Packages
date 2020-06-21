@@ -1,0 +1,675 @@
+Package: jp.ashikase.libsymbolicate
+Version: 0.0.1
+Section: Development
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Pre-Depends: firmware (>= 4.0)
+Depends: rootlessjb
+Architecture: iphoneos-arm
+Filename: .//jp.ashikase.symbolicate_rootless_0.0.1_iphoneos-arm.deb
+Size: 203184
+SHA256: df905d72b0b1c21d7bfb54d30ead95d8bd77ef668c65510f372d7fdc588219b1
+Description: Library to symbolicate memory addresses.
+ This library is based upon CrashReporter by kennytm.
+ This is a patched version to work on rootlessJB.
+Name: libsymbolicate (rootlessJB)
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Homepage: http://github.com/ashikase/libsymbolicate
+
+Package: net.limneos.MobileMiner
+Version: 1.0
+Section: System
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//net.limneos.MobileMiner-1.0-1.deb
+Size: 995932
+SHA256: dd2fa4203abaf55d20753f0a0e9c196ff43e998fc23703c91de8eddb8c851a93
+Description: Mine ETN with your iPhone!
+Name: MobileMiner
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Applications/MobileMiner.app/AppIcon60x60@2x.png
+
+Package: net.limneos.answeringmachinex
+Version: 1.2-32
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>=0.1-80) ,  firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Architecture: iphoneos-arm
+Filename: .//net.limneos.answeringmachinex_1.2-32_iphoneos-arm.deb
+Size: 529366
+Installed-Size: 2388
+SHA256: 4f70556a3a62f0ea87a7929c2899a32260e95c3f2ca6389c59025bc4718cd6e9
+Description: AnsweringMachine XS (iOS 11/12/13)
+Name: AnsweringMachine XS
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.answeringmachinex
+
+Package: net.limneos.answeringmachinex
+Version: 1.2-6
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>=0.1-80) ,  firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Architecture: iphoneos-arm
+Filename: .//net.limneos.answeringmachinex_1.2-6_iphoneos-arm.deb
+Size: 528970
+Installed-Size: 2384
+SHA256: 83005cbac19ecba7e9cf0c9ed4a04ad17bb39a833c680a84e39784f6bf16f700
+Description: AnsweringMachine XS (iOS 11/12/13)
+Name: AnsweringMachine XS
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.answeringmachinex
+
+Package: net.limneos.aquaboardx
+Version: 0.2-2
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize
+Architecture: iphoneos-arm
+Filename: .//net.limneos.aquaboardx_0.2-2_iphoneos-arm.deb
+Size: 88770
+Installed-Size: 712
+SHA256: 5f405b927f32debcd90b4fed5da83015f7dae8c19d557534ed6248488bd36dbe
+Description: Amazing Water Effects On SpringBoard
+Name: AquaBoard XS (iOS 11/12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.aquaboardx
+MainLibMD5: ae8018ef2597fe0a450b9a44678e7ec9
+Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
+
+Package: net.limneos.audiorecorder
+Version: 1.9-16
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: net.limneos.callrecorder
+Architecture: iphoneos-arm
+Filename: .//net.limneos.audiorecorder_1.9-16_iphoneos-arm.deb
+Size: 3942168
+Installed-Size: 12448
+SHA256: 515dc9de7977ba158b5559e8405741ae1c770a6e39ab6a113ca4ae02e4c90f50
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder 2 (iOS 8,9,10,11)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorder
+MainLibMD5: 7d693e892a5b504021a574045f8284ed
+
+Package: net.limneos.audiorecorder
+Version: 1.9-2
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: net.limneos.callrecorder
+Architecture: iphoneos-arm
+Filename: .//net.limneos.audiorecorder_1.9-2_iphoneos-arm.deb
+Size: 3914476
+Installed-Size: 12444
+SHA256: 030569f7948a13a2aa5eb236f301d43f573a50b652bde60d7f02d5c1d6640c95
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder 2 (iOS 8,9,10,11)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorder
+MainLibMD5: c64c10d6b80e5fc627a786d7eede713e
+
+Package: net.limneos.audiorecorderxs
+Version: 3.2-47
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Architecture: iphoneos-arm
+Filename: .//net.limneos.audiorecorderxs_3.2-47_iphoneos-arm.deb
+Size: 3270536
+Installed-Size: 21588
+SHA256: 77cb3c2ec024de5db5305ac304b4347997996cdf9c8825d279c7b9133e5f963f
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS (iOS 12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
+
+Package: net.limneos.audiorecorderxs
+Version: 3.5-32
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Architecture: iphoneos-arm
+Filename: .//net.limneos.audiorecorderxs_3.5-32_iphoneos-arm.deb
+Size: 3336328
+Installed-Size: 21820
+SHA256: 19c5cd4ea3c9b4c46dabffc047b5704d68fe99a9ad5ed0b237fd5fdb1f9607af
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS (iOS 12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
+
+Package: net.limneos.autoanswerx
+Version: 0.2-17
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//net.limneos.autoanswerx_0.2-17_iphoneos-arm.deb
+Size: 149570
+Installed-Size: 764
+SHA256: 829a8779f3d24501e57284da774bd04cef6cee385815b24b1d3fbfa69ff60dc8
+Description: Auto-answer any calls!
+Name: AutoAnswer XS (iOS 11/12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/autoanswerx
+MainLibMD5: 06f477e66b2ff61be9aca919d873323f
+Icon: file:///Library/PreferenceBundles/AutoAnswer.bundle/AutoAnswerXSettings@2x.png
+
+Package: net.limneos.bioprotectx
+Version: 3.1-68
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11)
+Conflicts: net.limneos.bioprotect
+Architecture: iphoneos-arm
+Filename: .//net.limneos.bioprotectx_3.1-68_iphoneos-arm.deb
+Size: 553426
+Installed-Size: 1332
+SHA256: 785089a6989a05f3e390917275b3f5d8e669b45125aee6c4fcc2abf97803ea6c
+Description: Protect your apps with Touch/Face ID!
+Name: BioProtect X (iOS 11)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/bioprotectx
+MainLibMD5: 84735ce6415bcc83bb901fccc617da7c
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+
+Package: net.limneos.bioprotectxs
+Version: 4.4-49
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Architecture: iphoneos-arm
+Filename: .//net.limneos.bioprotectxs_4.4-49_iphoneos-arm.deb
+Size: 622234
+Installed-Size: 2268
+SHA256: f713cc3878b1ed5bfecfdafcd008100964bb30e57a2efb8ce5ad0379e4a29384
+Description: Protect your apps with Touch/Face ID!
+Name: BioProtect XS (iOS 12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/bioprotectxs
+MainLibMD5: 08df3d7f9f69586bc0f7deca9c5d9afa
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+
+Package: net.limneos.bioprotectxs
+Version: 4.4-51
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Architecture: iphoneos-arm
+Filename: .//net.limneos.bioprotectxs_4.4-51_iphoneos-arm.deb
+Size: 621974
+Installed-Size: 2268
+SHA256: 10715ce201626d24171f5f1ef01d4618bbfe1fcb9a67b96e9120432f931992c6
+Description: Protect your apps with Touch/Face ID!
+Name: BioProtect XS (iOS 12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/bioprotectxs
+MainLibMD5: 4cdf9e467e612e961fa4421c0fcd8396
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+
+Package: net.limneos.callbarx
+Version: 0.3-76
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (< 12)
+Architecture: iphoneos-arm
+Filename: .//net.limneos.callbarx_0.3-76_iphoneos-arm.deb
+Size: 205164
+Installed-Size: 768
+SHA256: 7b36f44f08f36674b03db602acff81d4248f8b49f7eaef72b3ebea1f239790ab
+Description: Don't let incoming calls interrupt you!
+Name: CallBar X
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.callbarx
+MainLibMD5: b192dff99267e5ef634827c11cb68c03
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+
+Package: net.limneos.callbarxs
+Version: 2.3-75
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12)
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Architecture: iphoneos-arm
+Filename: .//net.limneos.callbarxs_2.3-75_iphoneos-arm.deb
+Size: 225230
+Installed-Size: 1356
+SHA256: 82401a25debdc16b23703bfec6ae1bc61aa30f579f2127eee225252d1a88134c
+Description: Don't let incoming calls interrupt you!
+Name: CallBar XS (iOS 12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/callbarxs
+MainLibMD5: 51eaa1b2e1dff5139686426143b1fda0
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+
+Package: net.limneos.callbarxs
+Version: 3.2-143
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12)
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Architecture: iphoneos-arm
+Filename: .//net.limneos.callbarxs_3.2-143_iphoneos-arm.deb
+Size: 294694
+Installed-Size: 1608
+SHA256: 213f6b8efdea0ca9863ab3a234b621410f79e7b6e16a5be5887777c5629ea44a
+Description: Don't let incoming calls interrupt you!
+Name: CallBar XS (iOS 12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/callbarxs
+MainLibMD5: a4d139e5a67f3c33a17c0c780c934cb9
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+
+Package: net.limneos.callbarxs
+Version: 3.2-50
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12)
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Architecture: iphoneos-arm
+Filename: .//net.limneos.callbarxs_3.2-50_iphoneos-arm.deb
+Size: 287044
+Installed-Size: 1588
+SHA256: c0b902ec4715115d3ee69e508aea04d72f2eb32ef31006a72c5eefb36bbba6db
+Description: Don't let incoming calls interrupt you!
+Name: CallBar XS (iOS 12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/callbarxs
+MainLibMD5: ed551a17bdf3fa1c1ec0a8d150832889
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+
+Package: net.limneos.calleridgreecebeta
+Version: 1.0-163
+Section: Tweaks
+Maintainer: Elias Limneos
+Architecture: iphoneos-arm
+Filename: .//net.limneos.calleridgreecebeta_1.0-163_iphoneos-arm.deb
+Size: 51552
+Installed-Size: 312
+SHA256: 2a62eede9c5f80a0b06d1e01f154cb262e6c1d61b53560c355056382c96ab46a
+Description: CallerID for Mobile and Landlines!
+ Added basic iOS 7 support
+Name: CallerID Greece
+Author: Elias Limneos
+
+Package: net.limneos.callrecorder
+Version: 0.7-47
+Section: Tweaks
+Maintainer: Elias Limneos
+Depends: mobilesubstrate (>= 0.9.5000) ,preferenceLoader
+Architecture: iphoneos-arm
+Filename: .//net.limneos.callrecorder_0.7-47_iphoneos-arm.deb
+Size: 462044
+Installed-Size: 1172
+SHA256: 8511a2af9d59363c8058abd233aeebf828e7b0350aa13cde60a475d4d79b433b
+Description: First iPhone Call Recorder Ever!
+ 
+ Record regular phone calls directly on your iPhone.
+ 
+ Supported iOS 6.x to 8.x
+  
+ Now Supports iOS 8.x including iPhone 6 and 6 Plus!!!
+ 
+ Audio Recorder, the so anticipated tweak for iPhone , has come to prove it was possible!
+ 
+ With Audio Recorder, you can record the phone calls you need to listen to later, such as business calls, appointment arrangements etc and you can store them locally on your iPhone.
+ You can then play them, send them to your email or delete them.
+ 
+ There are options to automatically notify the remote party with a warning voice message that the call will be recorded at the beginning of your recording. (You are responsible for enabling or disabling this according to your country's law, since the other party's consent is necessary by law in many countries)
+ 
+ Audio Recorder does not use a remote server to store your calls, like other apps use as a workaround. It records directly on the device! There is no need for an internet connection when you record a call.
+ 
+ Although Audio Recorder can automatically notify the other party that the call is being recorded, you should be aware that recording call conversations without the other party's consent is illegal in many countries. Check to comply with your country's laws before buying or using this application. The developer or the seller take no responsibility if you use this application in any way that would result in breaking the law.
+  
+ Currently, on iPhone4S devices it only works when you switch to Speaker while in a call.
+ 
+ The application works on iPhone 4S,iPhone 5,iPhone 5S and iPhone 6/6 Plus devices.
+ 
+ The tweak that so many people have been waiting for is finally here!
+ 
+ Audio Recorder's price is $ 3.99
+ 
+ Version 0.7 Changes: Added full iOS 8.x and iPhone 6 support
+ 
+ Version 0.5.x Changes: Added full iOS 7.x.x and iPhone 5S support, added option to transfer license on device
+Name: Audio Recorder
+Author: Elias Limneos
+Icon: file:///Library/PreferenceLoader/Preferences/CallRecorder.png
+
+Package: net.limneos.classdump-dyld
+Version: 1.3-1
+Section: System
+Architecture: iphoneos-arm
+Filename: .//net.limneos.classdump-dyld_1.3-1_iphoneos-arm.deb
+Size: 152626
+Installed-Size: 920
+SHA256: 8f83e6a604b3215ace2636fafc2468a0ba487815ab9ce29a93712b068676893e
+Description: Class-dump most images on device or shared cache
+Name: classdump-dyld
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.limneos.fixactivatorplaypause
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, libactivator
+Architecture: iphoneos-arm
+Filename: .//net.limneos.fixactivatorplaypause_0.0.1-4_iphoneos-arm.deb
+Size: 2532
+Installed-Size: 72
+SHA256: 1994d548ad64202ddc68de686a63c3104afbb135aa12ccfe51e44b9ebd588c08
+Description: A patch for Activator that fixes play/pause toggle action on iOS 11.3.x
+Name: Activator Play/Pause fix 11.3.x
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.limneos.glow
+Version: 0.2-51
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Architecture: iphoneos-arm
+Filename: .//net.limneos.glow_0.2-51_iphoneos-arm.deb
+Size: 167760
+Installed-Size: 768
+SHA256: 5cf4023e41ca94c3533dc9c5b8f7e56450333fad02ec35627f415442f39b1bdd
+Description: Let your lockscreen glow!
+Name: Glow
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/glow/
+MainLibMD5: 815970e5f2c015faee2d57610ebb015e
+Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
+
+Package: net.limneos.glow
+Version: 0.2-97
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Architecture: iphoneos-arm
+Filename: .//net.limneos.glow_0.2-97_iphoneos-arm.deb
+Size: 167066
+Installed-Size: 768
+SHA256: 63c8c99656e10bbc78b3c4480169ac5cf43855b2fd9d610e6f377429ca31caff
+Description: Let your lockscreen glow!
+Name: Glow
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/glow/
+MainLibMD5: 6b18284ce4f1b57464ce469735984834
+Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
+
+Package: net.limneos.homekithub
+Version: 0.1-18
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//net.limneos.homekithub_0.1-18_iphoneos-arm.deb
+Size: 6090
+Installed-Size: 152
+SHA256: 25b83afacbe5c3bddfcecfc6e7a9327699f72da08b32d1a85b1b8b2f8e862eb2
+Description: Enables iPhones to work as HomeKit Remote Hubs
+Name: homekithub
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://limneos.net/homekithub
+
+Package: net.limneos.instaonlinemonitor
+Version: 0.2-87
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-142)
+Conflicts: net.limneos.instaonlinemonitor
+Architecture: iphoneos-arm
+Filename: .//net.limneos.instaonlinemonitor_0.2-87_iphoneos-arm.deb
+Size: 214734
+Installed-Size: 992
+SHA256: 402a2e1e62496ea1d90fd5ccc0b60db0ceb47960ccf23716f99dd5198299f3a6
+Description: Get notified when an Instagram user is online!
+Name: InstaOnlineMonitor
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.instaonlinemonitor
+Icon: file:///Library/PreferenceBundles/InstaOnlineMonitor.bundle/InstaOnlineMonitor.png
+
+Package: net.limneos.instaonlinemonitor
+Version: 0.2-91
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-142)
+Conflicts: net.limneos.instaonlinemonitor
+Architecture: iphoneos-arm
+Filename: .//net.limneos.instaonlinemonitor_0.2-91_iphoneos-arm.deb
+Size: 215120
+Installed-Size: 992
+SHA256: eb459cba9a6e4b5bd237c3643bd1d102eba0d09d8267ba5a8250da727eef2aaf
+Description: Get notified when an Instagram user is online!
+Name: InstaOnlineMonitor
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.instaonlinemonitor
+Icon: file:///Library/PreferenceBundles/InstaOnlineMonitor.bundle/InstaOnlineMonitor.png
+
+Package: net.limneos.instaonlinemonitor
+Version: 0.2-92
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-142)
+Conflicts: net.limneos.instaonlinemonitor
+Architecture: iphoneos-arm
+Filename: .//net.limneos.instaonlinemonitor_0.2-92_iphoneos-arm.deb
+Size: 215024
+Installed-Size: 992
+SHA256: 48148c532b2516bbee4a352347e5674d74cdf355cf98923da22c592ba19df929
+Description: Get notified when an Instagram user is online!
+Name: InstaOnlineMonitor
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.instaonlinemonitor
+Icon: file:///Library/PreferenceBundles/InstaOnlineMonitor.bundle/InstaOnlineMonitor.png
+
+Package: net.limneos.libbulletin
+Version: 0.1-153
+Section: Tweaks
+Maintainer: Elias Limneos
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//net.limneos.libbulletin_0.1-153_iphoneos-arm.deb
+Size: 35918
+Installed-Size: 332
+SHA256: 1fc99c10b871c23189c676329e8c87051f57a44fe552e182874af772f2dcaa5f
+Description: Simple library that displays bulletins
+Name: libbulletin
+Author: Elias Limneos
+
+Package: net.limneos.limshell
+Version: 0.0.1-44
+Section: System
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//net.limneos.limshell_0.0.1-44_iphoneos-arm.deb
+Size: 56888
+Installed-Size: 396
+SHA256: 4cbb8f1e98faa3cca73c88b8daca15a038584d8c4332224fa87e6707b405d30c
+Description: A shell that injects into processes
+ A shell that injects into processes
+ Usage: limshell <processName | processPID>
+ Command examples: 
+ choose(SomeClassName)
+ [UIApp windows]
+ a=[NSString stringWithUTF8String:hello]
+ a=[[UIApp windows] firstObject]
+ a=instance(0xf20f320f23) (some object pointer address)
+ addFunction(notify_post,i*)
+ notify_post("some.notifiication")
+ Still under development
+Name: limshell
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.limneos.nfcwriterx
+Version: 3.2-37+debug
+Section: Utilities
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, me.kanam.nfcwriterquickaction
+Architecture: iphoneos-arm
+Filename: .//net.limneos.nfcwriterx_3.2-37+debug_iphoneos-arm.deb
+Size: 953770
+Installed-Size: 4196
+SHA256: 0c48adf7641427942cee657d2a66733432b2a74c985f5ca797da1513bf82b3dc
+Description: NFCWriter XS for iOS 11/12/13
+Name: NFCWriter XS
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
+MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
+Icon: file:///Applcations/NFCWriter.app/icon@2x.png
+
+Package: net.limneos.nfcwriterx
+Version: 3.2-48+debug
+Section: Utilities
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, me.kanam.nfcwriterquickaction
+Architecture: iphoneos-arm
+Filename: .//net.limneos.nfcwriterx_3.2-48+debug_iphoneos-arm.deb
+Size: 954276
+Installed-Size: 4196
+SHA256: 967a417e9de8c9cb02edc649438bb047c6bd599550f2ced2cfa2c746f8bcac43
+Description: NFCWriter XS for iOS 11/12/13
+Name: NFCWriter XS
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
+MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
+Icon: file:///Applcations/NFCWriter.app/icon@2x.png
+
+Package: net.limneos.nobetaexpiredalert
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//net.limneos.nobetaexpiredalert_0.0.1-4_iphoneos-arm.deb
+Size: 3830
+Installed-Size: 136
+SHA256: 8fc8b0510bd7c0dc1356a404dfad3317ec719d791048552ee93168012a6864a8
+Description: Removes Beta Expired Nag Alerts
+Name: NoBetaExpiredAlert
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.limneos.randomiconsflip
+Version: 0.3-13
+Section: Tweaks
+Maintainer: Elias Limneos
+Depends: mobilesubstrate, firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: .//net.limneos.randomiconsflip_0.3-13_iphoneos-arm.deb
+Size: 10162
+Installed-Size: 152
+SHA256: e05df098efea7654e8696fb32a35392faab03a9834e3332f8b5a95257d31633e
+Description: Randomly Flips SB Icons
+Name: Random Icon Flip
+Author: Elias Limneos
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.randomiconsflip
+
+Package: net.limneos.sigmafix
+Version: 1.0-6
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//net.limneos.sigmafix_1.0-6_iphoneos-arm.deb
+Size: 6560
+Installed-Size: 168
+SHA256: 68a04ed8473edb0312eb189ad48c6a483fd99fec6f1172e9f3c15b159e124d5d
+Description: Greek final sigma words fix
+Name: SigmaFix
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.sigmafix
+
+Package: net.limneos.simpleactivationactions
+Version: 0.1-1
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//net.limneos.simpleactivationactions_0.1-1_iphoneos-arm.deb
+Size: 6074
+Installed-Size: 104
+SHA256: 45e8a716cb2e1897676ab8732e183a68f1f977775b14decc9a624da63e5af3d0
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Name: SimpleActivationActions
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.limneos.smarttapx
+Version: 0.3-2
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate,preferenceloader
+Conflicts: net.limneos.smarttap
+Architecture: iphoneos-arm
+Filename: .//net.limneos.smarttapx_0.3-2_iphoneos-arm.deb
+Size: 115498
+Installed-Size: 744
+SHA256: 191df5cdc9fb64a7586b4301c06a6987afb477ebc689ceb29ae7323fbf29ce36
+Description: Turn on the screen by tapping it!
+Name: SmartTap XS
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/smarttapx
+MainLibMD5: 6826bef59926496eb615b56b79fa2eed
+Icon: file:///Library/PreferenceBundles/SmartTapSettings.bundle/SmartTapSettings@2x.png
+
+Package: net.limneos.voicechangerx
+Version: 2.2-2
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Architecture: iphoneos-arm
+Filename: .//net.limneos.voicechangerx_2.2-2_iphoneos-arm.deb
+Size: 241078
+Installed-Size: 1440
+SHA256: dc968bc3791fb3de80ea806016d097aa26f19725a597d13c8d9ca068ef6e0ad3
+Description: Change your voice during a call!
+Name: VoiceChanger XS (iOS 11/12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+MainLibMD5: 2f5b304e5f7934e9846f04a29c0e9331
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+
+Package: net.limneos.voicechangerx
+Version: 2.2-51
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Architecture: iphoneos-arm
+Filename: .//net.limneos.voicechangerx_2.2-51_iphoneos-arm.deb
+Size: 243580
+Installed-Size: 1440
+SHA256: 32454e88b2cc7abcd438d086095fabc676208a6b55a58ee88adeb278e81c758c
+Description: Change your voice during a call!
+Name: VoiceChanger XS (iOS 11/12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+MainLibMD5: c683efc2b87f7f498badadd109a0b2c4
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+
+Package: uncar
+Version: 0.0.1-6
+Section: System
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//uncar_0.0.1-6_iphoneos-arm.deb
+Size: 8576
+Installed-Size: 132
+SHA256: a2448d5d75e57515effaeb18e7a566e38b6422fd57d3c7a48ac2733b485488e3
+Description: Extract Asset.car files from bundles
+ Command line tool that extracts png images from Asset.car files
+Name: uncar
+Author: Elias Limneos <limneoselias@gmail.com>
+

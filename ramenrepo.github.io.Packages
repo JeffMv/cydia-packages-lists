@@ -1,0 +1,33 @@
+Package: com.ramenrepo.limelight
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: ty_ph <tylerpharand@gmail.com>
+Filename: ./debs/com.ramenrepo.limelight_1.9.6_iphoneos-arm.deb
+Size: 32635136
+MD5sum: 1bcf2bf31a598a61e46676a5916f1644
+SHA1: 4b7a88889af6cdd095ad1bbc16ad3dbf63b07501
+SHA256: 8614886ad5ab30cf5448bb3fc14a935d1b80a963ea9597d101276c19915e008b
+Section: Themes
+Homepage: ramenrepo.github.io
+Description: Colorful glyphs for anemone
+Author: ty_ph <tylerpharand@gmail.com>
+Depiction: https://ramenrepo.github.io/depictions/?p=com.ramenrepo.limelight
+Name: Limelight
+
+Package: com.ramenrepo.soba
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ty_ph <tylerpharand@gmail.com>
+Filename: ./debs/com.ramenrepo.soba_1.2_iphoneos-arm.deb
+Size: 313086
+MD5sum: df9d1dd5a877ac07907ae4c09c2350a2
+SHA1: 7ec57545e76774778ac5f305e40479648a020d5a
+SHA256: 4953bb80da24a21c736c7b57b2d1d9c8d518f4edf2896c04acb591211d226fdf
+Section: Themes
+Homepage: ramenrepo.github.io
+Description: Battery + Cellular status icons for Alkaline
+Author: ty_ph <tylerpharand@gmail.com>
+Dependance: com.fortysixandtwo.alkaline, com.anemonetheming.anemone
+Depiction: https://ramenrepo.github.io/depictions/?p=com.ramenrepo.soba
+Name: Soba
+

@@ -1,0 +1,49 @@
+Package: cydia.appcake.iphonecake.com
+Version: 4.96
+Section: Utilities
+Maintainer: hotsjf <iphonecake@gmail.com>
+Pre-Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: debs//ac4.deb
+Size: 4609234
+MD5sum: ed8923d5c3d11462edbfc0bdbe33cd3a
+Description: AppCake 4 Legacy version.
+Name: AppCake 4
+Author: hotsjf <iphonecake@gmail.com>
+Website: http://iphonecake.com/forum/
+Depiction: http://iphonecake.com/mobileapp/depiction/
+Icon: file:///Applications/iPhoneCake.app/AppIcon57x57.png
+
+Package: cydia.com.ipc.crackerxi
+Version: 1.1.16
+Section: System
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: debs//crackerxi_1.1.16.deb
+Size: 9960926
+MD5sum: 8f5b64ef7649f6bceae3c323fa9d70ef
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+Website: https://ipastore.me
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: cydia.net.angelxwind.appsyncunified
+Version: 74.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Depends: firmware (>= 5.0), firmware (<= 13.4.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Filename: debs//nodelete-net.angelxwind.appsyncunified.deb
+Size: 42200
+Installed-Size: 496
+MD5sum: 7daf0ddb87bac52be0f55e34fa22bbc5
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Name: AppSync Unified
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Homepage: https://cydia.akemi.ai/
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+

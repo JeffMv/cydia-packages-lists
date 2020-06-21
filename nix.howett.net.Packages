@@ -1,0 +1,1288 @@
+Package: net.howett.theos
+Version: svn.347-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 460
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.347-1_iphoneos-arm.deb
+Size: 30542
+MD5sum: 7ef85655dbb19462dfb4b996dd9e7c9e
+SHA1: a9f0a9c331e8a49a124f2e5c1ca872be4cbf06df
+SHA256: 3164c1f39f48965fc2a3826be10d209f2a32fdbe73e2736607be5e06e1a1016f
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 0.9.523-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 472
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_0.9.523-1_iphoneos-arm.deb
+Size: 49266
+MD5sum: aee4db77e5c81c477e2839b7342e15a2
+SHA1: ba2e0bf0f03e2ffabe07fdc5dd6f33a533b54d66
+SHA256: 8f1f90a74f5e2a1586996644697c6d315f0483c2668d5d7d1bf014f06b33716a
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.355-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 472
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.355-1_iphoneos-arm.deb
+Size: 32494
+MD5sum: 5f0078205175aa18458c4168741ed1bf
+SHA1: 2f45840a9c5f0b00649287568d37f62e3741521e
+SHA256: 32f709a2604440777680124ab808d57cbbbd9d4b230e31816b7b37d387fee293
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.523-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 472
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.523-1_iphoneos-arm.deb
+Size: 49270
+MD5sum: 78d0de0f4516fffd658891db348fdf04
+SHA1: fd666d15a46228b52539320978b230dde781a7db
+SHA256: b51bdde0c32be2cfe794ff11e914a3413543aba2f5864c265a392c172a495bcf
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.354-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 472
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.354-1_iphoneos-arm.deb
+Size: 32358
+MD5sum: 286bda997ad39c3fa0cd00ef0c5414e9
+SHA1: 2f175948832e81171ff2f652b72be9e476982ccd
+SHA256: ddce4e910d1c5da8bcc912ba96b872f4516783f183a172e469a429a6b6f82299
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.528-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 472
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.528-1_iphoneos-arm.deb
+Size: 49508
+MD5sum: 8bf3fdd4706573b5ca6893a1ac4820cc
+SHA1: 07b3f899db4e89cc24f7acf2114f15ad22b13c81
+SHA256: 47de1d5bf4eeaab9e68be7090422a40090ed14bc7192612155bf13e5ef73d490
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.355-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 472
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Recommends: mobilesubstrate
+Filename: ./net.howett.theos_svn.355-2_iphoneos-arm.deb
+Size: 32504
+MD5sum: be21b044204983e38c140c0c1c326148
+SHA1: 5e850ac335a6fa1df035df657dc8ad6c00112646
+SHA256: 9a003cbafbb833d8e74ed87e8599fd154f28e0640e07dad12322b0094be1dfd3
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.529-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 472
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.529-1_iphoneos-arm.deb
+Size: 49590
+MD5sum: 00168526b57c73791157d8fe8e97f014
+SHA1: 30aa65dacb9209778c6763a84a9107333702b7f7
+SHA256: b23f63789ff6da9d9ce18a8bc6c296e05fa277a8e1bc771fb5b547cc6746eda5
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.355-3
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 472
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.355-3_iphoneos-arm.deb
+Size: 32512
+MD5sum: 9b715ca1baf34b6c38fc3186dbcf323c
+SHA1: bc7846163436b4833aed921bb492cadc5910c9ad
+SHA256: 79bb0140bb0ea06e33df4dcec1c0355c3b916b8474559e7c41a92dc98e267740
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.550-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 544
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.550-1_iphoneos-arm.deb
+Size: 53768
+MD5sum: 2c1c466b1c69df6df823953b529db330
+SHA1: becf08647915f0d85a392801a4a5336a95ae0915
+SHA256: 1f3a2cccae4b5242b92f274ea56f7308b22f27b7e6d56e5083bdc6ec374ef743
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.355-4
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 496
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.355-4_iphoneos-arm.deb
+Size: 38416
+MD5sum: 9b0c36c8832bf4a9dd003dd7cda08b22
+SHA1: dab668b8b3942f574ef85ca2e82d07bd74a3f78f
+SHA256: 27b03144cc55540da9b84a4f9e816a4da2e13d7ea051068eb871b3b263bb034b
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.550-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 544
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.550-2_iphoneos-arm.deb
+Size: 53798
+MD5sum: 17bcd0603fe4050eb6166c8f42d54cb7
+SHA1: 406d69c4649476341b941dc7a153196c93e41f04
+SHA256: 5269e4ac668fa5f8f6d05f7a6fba88cf78678019e0195b6b6629ea2277596366
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.381-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 512
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.381-1_iphoneos-arm.deb
+Size: 40092
+MD5sum: 54f7174da5bb078601fca4277892b1b4
+SHA1: 65bb0a6269e41d7ae646a9f9e4b5327faefda0d7
+SHA256: e2a12605a63e8888872f7eca784c01dfbd8574ae5b69336923188dcd5067549d
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.552-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 544
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.552-1_iphoneos-arm.deb
+Size: 53848
+MD5sum: e041ad3f71d8655a56919f4e97d28364
+SHA1: ab57950dc883d4151356c127a153a638b6dd179d
+SHA256: a9587e819255b7a9a0ead9142c63c339addacf8008c7959a05aaa295509bb4c8
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.381-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 512
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.381-2_iphoneos-arm.deb
+Size: 40070
+MD5sum: 9b58ca76a1ebb10019f60872bacd2517
+SHA1: b26073eb824618b06038827c01e1d88695ae91f6
+SHA256: 804dd40bfd0dd35e0a975a2a7146745a3247bea619aac2eacca060e4ca1931d1
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.552-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 544
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.552-2_iphoneos-arm.deb
+Size: 53848
+MD5sum: f8442c6e1436fc80c020ec8396021c14
+SHA1: 757e4e119c1acc9d248a398c9c0634fc20b42668
+SHA256: 23d73716305d66fb149a581f71c0d7ec2f8b89a1e858da7b40a1f169e1cf6e32
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.382-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 512
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.382-1_iphoneos-arm.deb
+Size: 40072
+MD5sum: 76471f0ac0a23137abe6b867db4bd757
+SHA1: e2a13309a06e537dc6af4ab02ce3e976c71a8d5d
+SHA256: 3cc5f9afb1b38c16cdae29cfa11a2969e1fb2016e9864662373536e319ae0924
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.561-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 584
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.561-1_iphoneos-arm.deb
+Size: 56134
+MD5sum: 75a47eb7c633c56f0748debfdb49c434
+SHA1: f76114ac7eb717814ece2b65da309ea8b8d60538
+SHA256: b92d71cbec65e10dfb5952d9e1797b65add1d03f1be71fcee361d1897edc4436
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.401-4
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 412
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.401-4_iphoneos-arm.deb
+Size: 35322
+MD5sum: 0041f3b07c10f27d2057279332bffeac
+SHA1: 8a3197c7ed44bc5d23528be0620ff839d23d2b03
+SHA256: 6d3389873ed54a5642238e433f1196af72d094ca9483a971b667355d07be1316
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.565-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 600
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.565-1_iphoneos-arm.deb
+Size: 56896
+MD5sum: 2ca358781a4641f4cbaec9cbfe0edcb4
+SHA1: 4137faebcddaa93945fc135f022a9a7bb9916c00
+SHA256: 39bda6b6956fc2eb3a4e2951d531eb5e15bca7371f61d4e602b838d7dce55e47
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.309-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 428
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.309-1_iphoneos-arm.deb
+Size: 28630
+MD5sum: 91685e28117f109082c989aab9d6365d
+SHA1: b682bf16db4418e586980b32fc9ce1ce90ec5ecb
+SHA256: 6b744740a3d56afa533277f7d1a3432a924ba49362bc775009519f1c9fb5973d
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.572M-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 600
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.572M-1_iphoneos-arm.deb
+Size: 57228
+MD5sum: 749e1d0c046ef1e436d5eb87923a44fc
+SHA1: c61f2c9b56a87f45fa924416c842d5e64e0a1d66
+SHA256: d19ab61f01816ab8370af320ea612201527af0fb7d3f4a0d84536f2ab976ff11
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.348-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.348-2_iphoneos-arm.deb
+Size: 30316
+MD5sum: bb36a1f970611f93dd06167a88f30f84
+SHA1: 325df26d807fd94276df3e76d61ee9b20ebbc9a6
+SHA256: 8427c288c73afb57bd75cc05fd38b2c6d4550e49ac8539f9ca10f24e48ad927c
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.577M-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 600
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.577M-1_iphoneos-arm.deb
+Size: 57470
+MD5sum: d043386706e45747f3f9c58cd926f168
+SHA1: 1c6699ed3d72a85bd5a3fa0746f624de22a267b7
+SHA256: 34cf48372bb8046d5d098a52fffe942963a7f4b735651c250254473134201948
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.418-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 436
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.418-1_iphoneos-arm.deb
+Size: 41624
+MD5sum: 0edb91a1a40ecbdffdd57133db508bbc
+SHA1: 65c53e97b27b10e3e4fc25a4fef8028b1fbfff19
+SHA256: 9177aa688a6d52760858add3639398cc60b23f212bbef8420d489e5db69dc00d
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.598-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 600
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.598-1_iphoneos-arm.deb
+Size: 58114
+MD5sum: cd8e4270e7e82d73ae70db32b73e20e1
+SHA1: b3f302894e3730bd48e49ef3678bd7ebaa2f4def
+SHA256: 411021cf3c8104a4f4642fd6c7a7dc4c166b18e76bc4e318d3db3fdbe3c0fc80
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.423-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 436
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.423-1_iphoneos-arm.deb
+Size: 42224
+MD5sum: 80a3d81b036f5c3be3a0e93f55f7acfd
+SHA1: 5ceb55ad5abd68d80617ecef92ae5129a310edbf
+SHA256: 53d7782fab41f00fb42a91e784f4b40f45515fbef48053524bb695659a14adec
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.598-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 600
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.598-2_iphoneos-arm.deb
+Size: 58118
+MD5sum: 0f1428d2f8243e0b6f450e63844bb97d
+SHA1: a2a8d26b221d6b465ac36cee578fc00c5edd54ef
+SHA256: 63b02003185cc58a106eb16d8d579316e5189cfbe81e89207c4771ac5a0e6f36
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.428-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 436
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.428-1_iphoneos-arm.deb
+Size: 42336
+MD5sum: da093e539f6128b56293e3f1faad95e9
+SHA1: a99569bdb3918b20148e1ef46348cc520d56ad11
+SHA256: 05662a076ae4da2558b577b4b946dc10cd7cc744c097ba0c91df4323a2a4d57b
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.604-4
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 600
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.604-4_iphoneos-arm.deb
+Size: 58112
+MD5sum: 616501b4b9f75c292d7333217fe93159
+SHA1: 0fb9bcd5bb73accb7448841af3f821805cc3b39a
+SHA256: ce4e66b36c3833f39c98b2f0c9b7464443052ed56658ae9c72410470cb496101
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.431-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.431-1_iphoneos-arm.deb
+Size: 38038
+MD5sum: 24f15a4b60efb32a55bf7452ce71fb76
+SHA1: 92895cddb1a7dcff7993c4b163a888b7b7cb8178
+SHA256: f476f437283f1d9f73bdcd726d74c29bc5c48a4e36b7ea2d40b89475febea6b3
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.258-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 320
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.258-1_iphoneos-arm.deb
+Size: 21564
+MD5sum: 7396b486e3f2aa00d3823ba4b8e67a71
+SHA1: dd53b63d7087c5c4074119b4daea3c49e8c95d7c
+SHA256: cc6cd945cc79b0d03f4d178ee474bccf65a63cbacfb9d81f77569095bb178abb
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.431-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.431-2_iphoneos-arm.deb
+Size: 38042
+MD5sum: 41f3fada27377bf21ef69f127997763c
+SHA1: b23380d7c67e7d2d84db80a1de5ae99a5b82dcb2
+SHA256: df47e8c51a3deed058bb811d9ed9f6e043571f038c013648c9d08d9d1b79a8f5
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.262-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 324
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.262-1_iphoneos-arm.deb
+Size: 21634
+MD5sum: f89b700777f8d00ee922b4abb52bcc11
+SHA1: 0e4c7cf8db0fec9d031249256eada3c308be92fc
+SHA256: e7e6fd77baca5838331a0a02e1247887c6cbccaac2c59623caeb878dff994771
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.437-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 384
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.437-1_iphoneos-arm.deb
+Size: 39208
+MD5sum: 145ebdd94088539b261419398a30719d
+SHA1: edc90772e2ed9148c5ba34190bcbec98470ff661
+SHA256: 1849219b7003153b467b51b3edd06ea85cf5df5c6428a8ed709520c38009a711
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.263-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 324
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.263-1_iphoneos-arm.deb
+Size: 21644
+MD5sum: b7cc48d445b4394fa180aa9534a0efe9
+SHA1: 5e622eabf66c062bff9c39c36baf6fc914bd4531
+SHA256: 5ff54bf9c7ec4726e7c5c7117534bb0da57a15c141d28ae470bf16380327f51f
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.437-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 384
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.437-2_iphoneos-arm.deb
+Size: 39216
+MD5sum: b05a55b2793deda66babba20605d7177
+SHA1: 2d91e92a6f995bbd1e6fa4e5c4a8384635237059
+SHA256: 60c58eb93439b6b799290d724308ec046a9c091516ff0626ef33a2afcbda6c58
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.264-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 324
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.264-1_iphoneos-arm.deb
+Size: 21648
+MD5sum: ca5fa959718f103759cc9e1944253baa
+SHA1: 0e515fc02846d17ffffde1585a163e8c1c59d97c
+SHA256: 7109cbac5541078bd9700cc38615eb15dbc7e4032b2b3735dddebd98b362199f
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.438-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 384
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.438-1_iphoneos-arm.deb
+Size: 39202
+MD5sum: 6050f0be0b4d2aecc29bc3dd528e62cd
+SHA1: 6bae445c4cffb82827b380ba2bc691683f35d624
+SHA256: 6bdfa6e31461e41f4091624bf06d954aa9b0b8293d388e3e6357d2c222042c7c
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.265-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 324
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.265-1_iphoneos-arm.deb
+Size: 21708
+MD5sum: 9e19c55308aa9a48f99927c69315f158
+SHA1: b14a2c704c632cfcd4bc14d16241a6123ec85264
+SHA256: f8d0348290b3ae8256d2b99e5f1d437ecd3e3e2ef4bc294b7111532dc4eb6657
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.446-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 396
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.446-1_iphoneos-arm.deb
+Size: 40214
+MD5sum: 070d96b71c6f2ac45ca9699628317f20
+SHA1: 4e3fabf89da7b30e3a0050b9d1b2059afce991a7
+SHA256: ffdabdb3b396d251c6e8e587e4e9494dca355490fd971b8833a18df8a15bc99c
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.275-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 328
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.275-1_iphoneos-arm.deb
+Size: 22454
+MD5sum: 6cf5e0f5d15c8c6b5f593ac2a0ddb5f0
+SHA1: 310b041175224ed84fac89b19247d12f5d39f256
+SHA256: c90d10ac4ffc3f5984368bfee35ddcfb66caf66b04e82706825727c05d2eb74c
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.464-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 396
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.464-1_iphoneos-arm.deb
+Size: 40396
+MD5sum: 19f8d3bcbd262646c281449186571995
+SHA1: d4c335da01a9c1bfa95e43297c8c12190de167e6
+SHA256: e761add43c2fafbc07b242fa33db6db5456b48a86ecf5d1820a67d7e4887b573
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.278-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 332
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.278-1_iphoneos-arm.deb
+Size: 22618
+MD5sum: f641f11a24b3fca474f57fe5751139d7
+SHA1: 493e97165d5f5f0789cb3cd767a39baa4cc6da7a
+SHA256: 7d49417ade9c30a522fdae5833c0f9390b001426ec59309fce15c60ee38922a9
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.465-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 396
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.465-1_iphoneos-arm.deb
+Size: 40398
+MD5sum: 6a4391ee821e312494cf3b9a21c66c80
+SHA1: 2be7e3d3fb38710b793aec23e95c4e503eb86421
+SHA256: f3a55001ac7f9821dadc663c08bef19fd4afb5ecb87a7a63aeab2cc2dc6f4994
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.280-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 344
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.280-1_iphoneos-arm.deb
+Size: 22852
+MD5sum: 914a1f3817b28c603b06be44b02c5d0a
+SHA1: 3bfb7b8a1f1c8724e5398099d6d67e9fd64cbe20
+SHA256: 10575c43065b71d2ad11c434ab8ab14937bb266601b916b4f28c3e95d4143c26
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.466-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 396
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.466-1_iphoneos-arm.deb
+Size: 40390
+MD5sum: 5db93916dd35337d89f72e6799ae18f5
+SHA1: 27b4bcf8bc75d75497d4a7953a896f099f0fb96a
+SHA256: d6f47042acbe64610347001645979d57b8d54cbe22e6552558271316a1067980
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.286-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 364
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.286-1_iphoneos-arm.deb
+Size: 23366
+MD5sum: 8bce9c92109d94333bcaa628213c777e
+SHA1: cac0cbdfc0621fac215c167ce7affb1cc2116910
+SHA256: 912da7d4da79045bc7c0a5941beb2af46599cafc10ad58d6a0df6c0b1fe9bff8
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.473-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 420
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.473-1_iphoneos-arm.deb
+Size: 41532
+MD5sum: 1ddb6a733a4a26ee6f0e657f0f007a3f
+SHA1: f87de28a80efea20157162f48f933bebbe920c8c
+SHA256: adaa59493ee73196809042009390bf774a79a8cfb5a3c299c265fc94e6a487b2
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.290-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 364
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.290-1_iphoneos-arm.deb
+Size: 23412
+MD5sum: e0ec1155abcf6338fba0d6cceb31fc96
+SHA1: 73b185d533d4dde36b58d6a341dbbe23bfc55ccc
+SHA256: 7d90354296c2eb55945f2bb96b2a645634e3685e2d375ec4a06df06db34f3304
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.475-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 440
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.475-1_iphoneos-arm.deb
+Size: 42134
+MD5sum: 44e6c3e8e84499c3860b59e3aa75f1e8
+SHA1: db34f3a3c4b0a7c72c573c05b6aef4f8c8aba173
+SHA256: 5983c13a2a476d4fa8be59f69f3a8b8cb2913ecd7db5a1badbce60672eb5fa32
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.294-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 368
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.294-1_iphoneos-arm.deb
+Size: 23650
+MD5sum: d3375b2c1560a43b4b2fed22363c7fdd
+SHA1: a65c3a84a2d797201a791ee5576fd8685c348205
+SHA256: 53feb200291692b442dcf2230fc6ca4e61a354b0c4a805e7d3b64f0817e63a92
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.478-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.478-1_iphoneos-arm.deb
+Size: 46560
+MD5sum: 128763047279be67d94252ae7118b9bc
+SHA1: a83396139bf0cc3f45496513feda90508b1392f2
+SHA256: 7931b97dfc5c7e59ef7e26f4c51e84b96bbacb6dc74d5bf4929d96a7e933a2a7
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.300-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 372
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.300-1_iphoneos-arm.deb
+Size: 23920
+MD5sum: ef3d7af094b1f90b4ea39bc72c6f1a13
+SHA1: 26b0b62181dda05d023b23567548e8a283ce3e8c
+SHA256: 94cd949b1f09d3370d6cdf769c9616d4eaf83b9b4f73079f840c2c8996cab3b2
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.479-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.479-1_iphoneos-arm.deb
+Size: 46578
+MD5sum: b1a9b38f874d7b8735561370ae98152c
+SHA1: fa87fb6ab2d4c024db005e1088ee0e475dee7255
+SHA256: 9b73476c3128ae1225e05e8c8763b376897a709c2c31510cdb6922e129abdd57
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.302-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 416
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.302-1_iphoneos-arm.deb
+Size: 27416
+MD5sum: 94143c6b6dd85af1b1fc7208edd2f3f0
+SHA1: 37d9fd5f0e76b309a3ca8ae7129aafb03821d3c8
+SHA256: 7e61cfbcb188429c701ad3391b705f200af75b37dc4bcca1f00d8716950c48f7
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.485-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.485-1_iphoneos-arm.deb
+Size: 47138
+MD5sum: 9639d31f9783f0c5c5b13ccb2c568111
+SHA1: 4f22f2607a263ac25b67736876d20b8361dcfe40
+SHA256: 762bdd8e8da5ccf3b59f6cdbf088d02abfb5298981ad4768415dbea841e80f24
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.306-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 428
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.306-1_iphoneos-arm.deb
+Size: 28332
+MD5sum: 7fd8517ee7e8fd811516e571ae532e61
+SHA1: 99261dfe4cb02caf884f9206f26564b0831eb733
+SHA256: 2490234c8fcd022309b4960a4ffab5b09bbeb2d15da6e254716ca3cbe5f8b7b3
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.341-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 460
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.341-1_iphoneos-arm.deb
+Size: 30474
+MD5sum: 651ff7445d9df98c21ad97ef0ff4f409
+SHA1: b6dfd2a7ea4ca198419c81cc42c129cbbe7e0213
+SHA256: 0b850fa3c4486b35c8ce854b5f7058a487cc4c9e2c718c67693ff0979f9a5b8f
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.347-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.347-2_iphoneos-arm.deb
+Size: 30278
+MD5sum: 2a71291ee9c0a097c06ff7754f4bcd2a
+SHA1: 4ca9d4e3915e76dc71174c88c80cce2b34badf9e
+SHA256: 7d55c3b4851c62134fa4da015ff4a319747d486e8c803c746b62067b10852f4d
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.491-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.491-1_iphoneos-arm.deb
+Size: 47224
+MD5sum: 27e2c264690ec013f83db7baf5f62549
+SHA1: fc68242118761d476ca67e5b1ebb99ddc94497a0
+SHA256: 44dc56efb0c5bc60e4614b4e5e869ad026482610c2d006acc8fa7fe9e0adaed4
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.348-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.348-1_iphoneos-arm.deb
+Size: 30294
+MD5sum: 4d677699503eca6aae2011c76b11fcfa
+SHA1: 26a4a3020e85ba22e4dd6bc1e2eca202245998b7
+SHA256: 4270c13a778f49038f045ca1405276a44d8b44d2e54c716bcc1df4fa87805655
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.613
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.613_iphoneos-arm.deb
+Size: 58528
+MD5sum: 8af4e52ee3f6ff027f64150bd096de25
+SHA1: 31d90d24242a0eeed19b438c24e809b20d02700f
+SHA256: ce0cbf0936531be463477f081307d8a90078ee385094ef8209cbc31b5c4ec7a6
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.350-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync
+Filename: ./net.howett.theos_svn.350-1_iphoneos-arm.deb
+Size: 30466
+MD5sum: dac14990695e928815fe959a800feb54
+SHA1: ba8d2f31998c75694d0151b7232f976bd0e0edcc
+SHA256: 0387e84dd06319478b20925094a39fdb73ce331dc2a0ea4d696110349ac2900f
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.496-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 456
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.496-1_iphoneos-arm.deb
+Size: 47564
+MD5sum: 2cb8edbc426c0023d0848567cf26e5bd
+SHA1: a94f8c5c8e8a5d633ded6644c88159c2ab047d7e
+SHA256: d142f2c7a35abfee0152445e6d461b28f7c48bfb7d0fdc6149696cf85b22e5b8
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.496-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 460
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.496-2_iphoneos-arm.deb
+Size: 47654
+MD5sum: 3dc5c7fa4185a617ca9a42c2db9feb6b
+SHA1: 1bf3cfaf268bd46e6dd58d92f4c02d59886df8f8
+SHA256: 22765a45694538ae96cfcce442a00fe43cad2d68aae2da123226c54833cfe37f
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: svn.507-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 464
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_svn.507-1_iphoneos-arm.deb
+Size: 48330
+MD5sum: 760b4c34dc100986c67e1faccfe3d288
+SHA1: 4099cc9ed3629b1803c563143dcf83ea1f685677
+SHA256: 4b3d5551c158de9fefa00d0c826289afbede432392835a1e5c7e697c9a3738bf
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.622
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.622_iphoneos-arm.deb
+Size: 59166
+MD5sum: 4fb00947428ef7eb55986a63f2b68dce
+SHA1: b5e3ddc9d2835da389fd809f9e2c4d8ac0221a1a
+SHA256: e59532407b961191fb17d0fc550921ee17bb90d9d7994e8f6e6c0fbd7f7b6413
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.622-2
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.622-2_iphoneos-arm.deb
+Size: 59166
+MD5sum: c3ffca78139fc8e1015d1019fd6a36eb
+SHA1: dce1c3768bf79b29890daa5e99b319f25a63ee85
+SHA256: 020ca4669406b3090b7b97c1bd07a7a5fe00e8dad31873c1d1307da37e4f05cf
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.629-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 616
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.629-1_iphoneos-arm.deb
+Size: 59730
+MD5sum: 302d7c67aef9710474a04936933e8bdf
+SHA1: 0ddf0c67b0e5c6d3416b09944ef26872c5bb0a33
+SHA256: ab351c7cede4b3fe8f523da2e360f04641f4fe242212a86d291440397c52b848
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.630-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 616
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.630-1_iphoneos-arm.deb
+Size: 59742
+MD5sum: 66a3ad36b9136760166ba48176a021a1
+SHA1: f610f4ed04857d2628ebbf2e573393339a92b847
+SHA256: 53e357bd2286fc5f81733d480f323ab910bed793a5d2a0c5f1deb4bbb319660e
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.638-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 616
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.638-1_iphoneos-arm.deb
+Size: 59760
+MD5sum: d583447bbffb8dcb77b5513814ce4c40
+SHA1: 1daba9abb606a4ed3661dd128f1f9ab1e4a4a57d
+SHA256: 82148548c57ba315ec9cd6e097f3dceff301df193807df9860bab233f0929219
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+
+Package: net.howett.theos
+Version: 1:0.9.639-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 616
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Filename: ./net.howett.theos_1:0.9.639-1_iphoneos-arm.deb
+Size: 60448
+MD5sum: e591f1f26a7fa53c9c031caad95e46c4
+SHA1: b0c31bc8d9e92ad94b7d69625efcc84f387a4664
+SHA256: c400afcdf2e22716598d203fe6abfa2c080de0fdb41682fa1949f1279aaa8d09
+Section: System
+Description: iphoneos build system
+Tag: role::developer
+Author: Dustin Howett <dustin@howett.net>
+Name: Theos
+

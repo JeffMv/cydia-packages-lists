@@ -1,0 +1,51 @@
+Package: Flex3beta
+Name: Flex 3 Beta
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Recommended: com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Version: 1:3~Beta92
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Filename: app/download/Flex3_3~Beta92.deb
+Size: 14254948
+Depiction: http://v2.getdelta.co/depictions/Flex3beta.html
+MD5sum: 83392ad581370c121ed06cc4504a9a3b
+SHA256: 66d2063b8162cb9f7b453d4744892b234485702f05b872e41d50a4220327581a
+
+Package: Flex2packagebeta
+Name: Flex 2
+Depends: mobilesubstrate, firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0)
+Conflicts: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
+Replaces: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
+Version: 1.994
+Architecture: iphoneos-arm
+Description: Easily make your own tweaks, and share them on the Flex Community Cloud.
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Filename: app/download/Flex2packagebeta_1.994_iphoneos-arm.deb
+Size: 2431638
+Depiction: http://v2.getdelta.co/depictions/Flex2packagebeta.html
+MD5sum: a7a12f65ee3532a1186baeed9c5e1775
+SHA256: ccd54bcf1da8a5a78f62391cbc4f3bc25d6a9ccf4312be62b9ec5c7b3d4d6f19
+
+Package: Flex2Blackpackagebeta
+Name: Flex 2.5
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap (>= 1.0)
+Conflicts: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, Flex2PointFivepackagebeta, com.fuyuchi.flex2, Flex2Blackpackage
+Replaces: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, Flex2PointFivepackagebeta, com.fuyuchi.flex2, Flex2Blackpackage
+Version: 1:2.5~Beta32
+Architecture: iphoneos-arm
+Description: Flex 2 for iOS 9
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Filename: app/download/Flex2Black_2.5~Beta32.deb
+Size: 33528046
+Depiction: http://v2.getdelta.co/depictions/Flex2Blackpackagebeta.html
+MD5sum: ea207e36abfa1b60e43af0a39aaaf7b3
+SHA256: 94922210db388fc524bf230cc1086447f0b82211017da0ecbe76b13c871e1d27

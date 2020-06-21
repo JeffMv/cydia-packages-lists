@@ -1,0 +1,39 @@
+Package: com.alexzielenski.tinybar
+Version: 0.1.4-2
+Architecture: iphoneos-arm
+Maintainer: Alex Zielenski
+Installed-Size: 304
+Depends: firmware (>= 7.0.2), mobilesubstrate, preferenceloader, applist
+Filename: deb/com.alexzielenski.tinybar_0.1.4-2_iphoneos-arm.deb
+Size: 79094
+MD5sum: a8ec0ba244f5cffb904991839d0a2a03
+SHA1: f05172b720f8a74495cde486dda2e1aecb50bc8d
+SHA256: cef6aec31796e6eca1e100a4e23610368ed2562a4faafa3830711a5d8112a106
+Section: Tweaks
+Priority: optional
+Homepage: http://www.alexzielenski.com
+Description: Thins notification banners down to size!
+Author: Alex Zielenski <http://www.alexzielenski.com>
+Depiction: http://repo.alexzielenski.com/depictions/TinyBar.html
+Name: TinyBar
+Sponsor: Alex Zielenski <support@alexzielenski.com>
+
+Package: com.alexzielenski.zeppelin
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alex Zielenski
+Installed-Size: 2196
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Filename: deb/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
+Size: 961890
+MD5sum: 2efd4f65eecd969fc7dca751a6beb072
+SHA1: 0907ac534585dd77db4fb0965a9758542915c3a5
+SHA256: e33f60859985ed1f70eb25ee99ea964bd31067cb54c6d4ceddbaa3ca001a533f
+Section: Tweaks
+Homepage: http://www.alexzielenski.com
+Description: Replaces carrier text with an image!
+Author: Alex Zielenski <http://www.alexzielenski.com>
+Icon: http://i.imgur.com/tvLxnB5.png
+Name: Zeppelin
+Sponsor: Alex Zielenski <support@alexzielenski.com>
+

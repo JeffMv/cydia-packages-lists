@@ -1,0 +1,1663 @@
+Package: com.cpdigitaldarkroom.abeo
+Version: 0.0.1-19+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdiggitaldarkroom.com>
+Installed-Size: 512
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Filename: debs_public/com.cpdigitaldarkroom.abeo_0.0.1-19+debug_iphoneos-arm.deb
+Size: 126890
+MD5sum: 333095e4f3d1244d16629a31012a26df
+SHA1: f71014d4c9dae1cb07dfe49a71660f3280ccdbbe
+SHA256: 4bfcaa8973a1751ef5134fb53d6ff9fb4c444a320ce9260975e6b46696c7e0dc
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Removes the dock and adds a new row of icons.
+Author: CP Digital Darkroom <admin@cpdiggitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/abeo.php
+Name: Abeo
+
+Package: com.cpdigitaldarkroom.agape
+Version: 2.1.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs_public/Agape.deb
+Size: 1281180
+MD5sum: 2b4c67d1cd7c9185cdda4ad1532db6b8
+SHA1: e2547a9ef358ca5bb84e06081262e30205ecc0fd
+SHA256: 6acd7f5826fa34e193ca7e1ab969954c252b1c011e3143d53d152a8fb17e7611
+Section: Tweaks
+Description: Collective Giveaway Platform
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Name: Agape
+
+Package: com.cpdigitaldarkroom.amp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs_public/com.cpdigitaldarkroom.amp_1.0_iphoneos-arm.deb
+Size: 2276
+MD5sum: 74f2912f119097d980f2260b8c1ee2e0
+SHA1: aec16513f5e5d4be5f940c8fbb56ffbbde2d3725
+SHA256: f1d526414235d082c97b7c79df2932af60ba2780cd39234a1091fcb46ec420ab
+Section: Tweaks
+Description: Always Music Page When Playing
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: AMP
+
+Package: com.cpdigitaldarkroom.anis
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 564
+Depends: mobilesubstrate, applist, com.a3tweaks.flipswitch, preferenceloader, libactivator, firmware (>= 8.0)
+Filename: debs_public/com.cpdigitaldarkroom.anis_1.2_iphoneos-arm.deb
+Size: 84034
+MD5sum: 053b1e1a61d6672f96ea850472ef8477
+SHA1: 4a82c2ab5b5c65ebcaa13f0161b610b1cb73e769
+SHA256: 2c8431c6b97f3780aab2babcc3b447f6bd90f0fecf50fa66d1f9011e55bc8f30
+Section: Tweaks
+Description: Centralized Hotbar For Apps & Shortcuts
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Dev: cpdigitaldarkroom
+Name: Anisette
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: debs_public/com.cpdigitaldarkroom.barmoji_2020.3_iphoneos-arm.deb
+Size: 55078
+MD5sum: 7a5b96dd22c423ed96f41716cda0e545
+SHA1: 12390d0aca3f68283e433094dff618337c2c9cfd
+SHA256: b98a284beebdb9fc663cea6903f7125d8daa0bc96418c09ece114aca7eff91af
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Name: Barmoji
+
+Package: com.cpdigitaldarkroom.bettergrabbers
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.bettergrabbers_1.2-2_iphoneos-arm.deb
+Size: 137746
+MD5sum: 293430a7a3141ae9207aa59aba6a30eb
+SHA1: bcd5cc0462dc51853f5211d2ed59e89921b8b73d
+SHA256: c2f7496fb735aae8174e20df0207ad783cc5bd4e3887f49bc7a149151de4695a
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Better placed NC and CC grabbers on LockScreen.
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/bettergrabbers.php#packageHeader
+Name: BetterGrabbers
+
+Package: com.cpdigitaldarkroom.blow
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.blow_1.1_iphoneos-arm.deb
+Size: 12712
+MD5sum: 292c368df72e14fe8fcddb0c76f50056
+SHA1: 2e357ce23cc58ed82097d5fb3ef8e3eb8bb2ea26
+SHA256: 258b34329e32a8e689a36adaec7351094142c2af275792ed21fa3be347441b5d
+Section: Tweaks
+Description: Allows Modification of Expriments
+ Go to your user profile page and tap on the new icon on the top left.
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: IGExperiments
+
+Package: com.cpdigitaldarkroom.blurcons
+Version: 0.0.1-61
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 348
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: debs_public/com.cpdigitaldarkroom.blurcons_0.0.1-61_iphoneos-arm.deb
+Size: 109952
+MD5sum: 7a469b97c49b72cf7bf8271c2f704cdd
+SHA1: f287e39ee9a82721515998e12bb819f23124c66a
+SHA256: 5886333cba009037c504774cd34633be8c795561a63a9da320fc49e952115eaf
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Blur around resized icons.
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/blurcons.php
+Name: BlurCons
+
+Package: com.cpdigitaldarkroom.blurslide2
+Version: 0.0.1-222
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader
+Filename: debs_public/com.cpdigitaldarkroom.blurslide2_0.0.1-222_iphoneos-arm.deb
+Size: 190184
+MD5sum: 31b3563aa96db54e77c5f2c0dd9a0eaa
+SHA1: 2435f366da4be7faaa326a17700cd382e2370951
+SHA256: b023ecda953760e0643e2504da290066aea86b864167516b60dc985495e86ef4
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: An awesome MobileSubstrate tweak!
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/blurslide2.php
+Name: BlurSlide²
+
+Package: com.cpdigitaldarkroom.bragideux
+Version: 0.0.1-182+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 832
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.bragideux_0.0.1-182+debug_iphoneos-arm.deb
+Size: 231796
+MD5sum: 59cbe34b0592e04085973f7ab042bd23
+SHA1: 41e3e16ecda465addf34294daba038368acdecfe
+SHA256: d99ca58f5ac63c77689cc602d480a9883b418750e01686453db858d2fd8e285a
+Section: Tweaks
+Description: Redesigned ControlCenter Controls
+ Extremly limited beta, no options to configure at this point and ColorFlow2 is a dependency for now since I have coded in fallback options when its not available. This Beta is really only if you want the Bragi interface with Colorization ON! REMEMBER, OPTIONS ARE NOT TURNED ON
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Bragi Deux
+
+Package: com.cpdigitaldarkroom.bundlr
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 532
+Filename: debs_public/com.cpdigitaldarkroom.bundlr_0.0.2_iphoneos-arm.deb
+Size: 222840
+MD5sum: 81cce7c02ea98dc25071bda6d6851bc9
+SHA1: 2ed130ed506c0a1b50ddc5e412ec483a982a9e82
+SHA256: 588d94fdc28e00fd4dbca707df899fc6b2d8fce83a0d817704f390e4d2b78bea
+Section: Utilities
+Description: Bundlr is a small app for designers. Bundlr makes it simple to lookup app bundle ids without having to download the app from the AppStore. This is a very limited initial release so don't expect much more than bare bones. Currently it only works for the US appstore and only iphone apps. I'll add in iPad apps and changing the appstore country. Also more awesome features will get added in the near future.
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Bundlr
+
+Package: com.cpdigitaldarkroom.catalyst
+Version: 0.0.1.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 316
+Filename: debs_public/com.cpdigitaldarkroom.catalyst_0.0.1.4_iphoneos-arm.deb
+Size: 35112
+MD5sum: e4f8e2492c5e42f151de1a72b7845034
+SHA1: 5ec4d2d0b46b621a10746af8761885dfc11a743d
+SHA256: a2d9c6267ed73ba39093f2a963b1b095a4245c52b6f886e1550ccff60bd7421a
+Section: System
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.catalyst/
+Description: CPDD Tweak Development Library
+Tag: role::developer
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.catalyst/
+Name: Catalyst
+
+Package: com.cpdigitaldarkroom.ccdeseparator
+Version: 2.0-7
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.ccdeseparator_2.0-7_iphoneos-arm.deb
+Size: 4254
+MD5sum: 378a762f7765090fe90e6b6d811cf425
+SHA1: a5f872dc14ef09b9faa3a9f20eded0c087ba0986
+SHA256: 56299567b13c398beda61343013c62b48866ed20f5fda73e4c33310e5e41466d
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Removes Control Center separator lines
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/ccdeseparator.php
+Name: CC Deseparator
+
+Package: com.cpdigitaldarkroom.ccshadowremover
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.ccshadowremover_0.0.1-2_iphoneos-arm.deb
+Size: 3594
+MD5sum: 0e60b1a65d5e5bdb28087059a2247af2
+SHA1: 9b3332fdbfdf83e95fd449962917fc3609d82d9d
+SHA256: 6e04e9cc349faba784fdf760c3f23634287e867d2c3d8baec35a1064ed407116
+Section: Tweaks
+Description: Remove the dark shadow above the CC
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Name: CCShadowRemover
+
+Package: com.cpdigitaldarkroom.chromatolockbeta
+Version: 0.0.1-25
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 316
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (<= 8.0)
+Filename: debs_public/com.cpdigitaldarkroom.chromatolockbeta_0.0.1-25_iphoneos-arm.deb
+Size: 109286
+MD5sum: 70e5e1fad93903967bfac99c07166780
+SHA1: a4136c5a2cf909f94efaca8a218aa7e69b3d193e
+SHA256: 8d28cddf6c0a11dc73f4c6b1bd50160a3e8a95c552d8fff225a8fc9e732863f1
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Your lockscreen, colorized.
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/chromatolock.php
+Name: Chromatolock
+
+Package: com.cpdigitaldarkroom.cistemaperio
+Version: 0.0.1-63
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 344
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.cistemaperio_0.0.1-63_iphoneos-arm.deb
+Size: 105436
+MD5sum: d7cb6c6024b3b11f16ba1fa42a28fa3f
+SHA1: ca52647204b7500fd18cf9bbe54e3d0011c55b5a
+SHA256: fd8092d25c8a28124f326b74ef2a81587b6769d41d431949cdb391f9731b85c3
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: An awesome MobileSubstrate tweak!
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/cistemaperio.php
+Name: Cistem Aperio
+
+Package: com.cpdigitaldarkroom.ckcounter
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 272
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs_public/com.cpdigitaldarkroom.ckcounter_1.1_iphoneos-arm.deb
+Size: 43520
+MD5sum: 25b0c4098671c44a1b2c3d1b400791dc
+SHA1: 47cb546bf4af6dcee0be49f054e3caf31d20f9fe
+SHA256: 65227c803c3fec8699cce497e2cc511d74e4d66899a6c64ae4f7fa665f94c25a
+Section: Tweaks
+Description: Messages Conversation Counter
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: CKCounter
+
+Package: com.cpdigitaldarkroom.cleo
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 240
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 8.0)
+Conflicts: com.cpdigitaldarkroom.cream
+Replaces: com.cpdigitaldarkroom.cream
+Filename: debs_public/com.cpdigitaldarkroom.cleo_1.0.5_iphoneos-arm.deb
+Size: 75282
+MD5sum: 7f7ac124262f8598264eebd05361169e
+SHA1: aed2e060d388ba9049637058464e2b1a442534b7
+SHA256: 7f11b4a479aa30a05d967abbd087aad0c1661e1fb0a5d8d408f3bedeba7d9a29
+Section: Tweaks
+Description: Stock Feeling Redesigned Control Center
+ Remove auto dismiss for some CCSettings toggles
+Author: CP Digital Darkroom & 4urum <tweaks@cpdigitaldarkroom.support>
+Name: Cleo
+
+Package: com.cpdigitaldarkroom.cornered
+Version: 0.9.9
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.cornered_0.9.9_iphoneos-arm.deb
+Size: 3280
+MD5sum: 0c3dc14099e6d020ebf1e6f586415e7e
+SHA1: bcecba7bd18a02326c97ca9af191848719cdca14
+SHA256: 139bddfc86509083a3f8f12678a84e16b1427819c9e0c860940adfd4b545faf6
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: iOS 9 styled UIControllerAlerts
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/cornered.php
+Name: Cornered
+
+Package: com.cpdigitaldarkroom.cpddconnect
+Version: 4.1.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs_public/com.cpdigitaldarkroom.connect.deb
+Size: 8579364
+MD5sum: b26852e15094d2f5c49682f034b17efe
+SHA1: 7f2a51f46ea180174270192e28ea91a4eb65c3b0
+SHA256: da6ec0df4a1f2b584a0093e6824166f785d3e94102f7ac09376d5fe65407a259
+Section: App
+Priority: optional
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.cpddconnect/
+Description: CPDD Account Management and Bug Reporter
+Tag: purpose::app, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.cpddconnect/
+Icon: file:///Applications/Connect.app/AppIcon60x60@3x.png
+Name: CPDD Connect
+
+Package: com.cpdigitaldarkroom.cream
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 656
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 8.0)
+Filename: debs_public/com.cpdigitaldarkroom.cream_1.2.5_iphoneos-arm.deb
+Size: 170626
+MD5sum: 70c687900f9a634b5c22db85e98405e1
+SHA1: 961c97fc571c3627891135433c2beb9315ddc5f9
+SHA256: 9e610f9ef88a17301adf4c15de99eb8a188283e6ecdd70937aee8d509cc88b35
+Section: Tweaks
+Description: Colored CC Toggles Like WatchOS
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Cream
+
+Package: com.cpdigitaldarkroom.cream2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 500
+Depends: mobilesubstrate, firmware (>= 10.0), org.thebigboss.libcolorpicker
+Filename: debs_public/com.cpdigitaldarkroom.cream2_1.0.1_iphoneos-arm.deb
+Size: 101190
+MD5sum: 7882b5da9b5ce481a3091383c51946d1
+SHA1: 5c05abbde6b19671606d8e50d65c91715250e731
+SHA256: 8982032f6e14e035d8ec891eb7ba933cfbcc1f98562883a1081d328d0f5f27e4
+Section: Tweaks
+Description: Custom Colored CC Toggles
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Cream 2
+
+Package: com.cpdigitaldarkroom.creamless
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.creamless_1.0_iphoneos-arm.deb
+Size: 4324
+MD5sum: 197433334742618a81f356d0137f7284
+SHA1: e9e1e361fc6948e408ae6855ec192cf4b4ba07ba
+SHA256: 41b261ba86116514a245b21038b57941ea493534ac47774c626f22a6650bdbb1
+Section: Tweaks
+Description: Remove iOS 10 Toggle Coloring
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Creamless
+
+Package: com.cpdigitaldarkroom.cuttlefish
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.cuttlefish_1.0.3_iphoneos-arm.deb
+Size: 7596
+MD5sum: b74757e84aa460a1fca9bd11ea47d053
+SHA1: 9211092cea69742129f5a66ebc978f1cd4ba6aca
+SHA256: c87332de4f8590cf360f26e049335dc7848a03a9f8ee7b43b4208c92ff1421df
+Section: Tweaks
+Description: Color Shortcut menu background blur to icon
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Cuttlefish
+
+Package: com.cpdigitaldarkroom.deckswitchernodarkening
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs_public/com.cpdigitaldarkroom.deckswitchernodarkening_0.0.1-1_iphoneos-arm.deb
+Size: 3410
+MD5sum: 1e23e5f3ef666a388ed914f2c721a4f3
+SHA1: 2420537d1175d3e24ed4dbf1fdea0c96e868b0f1
+SHA256: 7a13af6ca60db21a3dcd3c3ceb6d8513254b4f6e460647afaa2b2ff794222fbd
+Section: Tweaks
+Description: Remove the dark overlay in AppSwitcher background
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: DeckSwitcher No Darkening Layer
+
+Package: com.cpdigitaldarkroom.deckswitchernoiconlabel
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs_public/com.cpdigitaldarkroom.deckswitchernoiconlabel_0.0.1-1_iphoneos-arm.deb
+Size: 3208
+MD5sum: 2ee075545ec67116d473a3619dc77ef2
+SHA1: 019bd85541ec5c7b11e824812e593e398b1d8a8b
+SHA256: 954023051340e297d9d0ab7f8a044fa489217667a463a4699187006f72f476a7
+Section: Tweaks
+Description: Remove App Icon and Label From AppSwitcher
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: DeckSwitcher No App Icon Or Label
+
+Package: com.cpdigitaldarkroom.earthview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 948
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.earthview_1.0_iphoneos-arm.deb
+Size: 237550
+MD5sum: 33d5501d92f76c3fdd9a5a8cc21188b8
+SHA1: 415ec1be1a84358becd216f02070b142305b9a68
+SHA256: 9f49bc718481ada71f22c39b3cdc680f9e753980c52b172ccfe4e41b1b35ede8
+Section: Tweaks
+Description: Set wallpapers from Google EarthView
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: EarthView WallSetter
+
+Package: com.cpdigitaldarkroom.edge
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 764
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.edge_1.0.9_iphoneos-arm.deb
+Size: 238390
+MD5sum: 84548b164f11432bd2429a9b978a9a2c
+SHA1: 7e7b5d51c054ee263e9678fe88530d8cabc7fccc
+SHA256: e7e0b87d28c61c94dd1813ced73001c5dc1254140ef1e4874c8b00c168dd6677
+Section: Tweaks
+Description: An Edge Experience For iOS
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Edge
+
+Package: com.cpdigitaldarkroom.effacepad
+Version: 0.0.1-30
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 476
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.effacepad_0.0.1-30_iphoneos-arm.deb
+Size: 169504
+MD5sum: f4dbaf9ab236258715535b0ed3f56969
+SHA1: e51b16833cd48431f0baa35ae3f8c07f6d0df756
+SHA256: 68620c9ce39663593bc9c9deb2cbe95d0485027bff719e2f652e937d8f8a4b6a
+Section: Tweaks
+Description: Add a delete button to the LS passcode keypad
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: EffacePad
+
+Package: com.cpdigitaldarkroom.evanesco
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 700
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.evanesco_1.1.3_iphoneos-arm.deb
+Size: 180060
+MD5sum: 506ecede195858903212dba15fa4f65b
+SHA1: f3c635d6788019c4850aeae0f5cea9d8570aea0c
+SHA256: 835784a3d174b77e7e447ccd06a07c3b3e469cc50c4d29686ba58a28096820c0
+Section: Tweaks
+Description: Clear Your Homescreen After Inactivity
+ Added iOS 8 compatibility. Added option of selecting fade alpha.
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Icon: file:///Library/PreferenceLoader/Preferences/Evanesco@3x.png
+Name: Evanesco
+
+Package: com.cpdigitaldarkroom.eventonappclose
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 304
+Depends: mobilesubstrate, libactivator, applist
+Filename: debs_public/com.cpdigitaldarkroom.eventonappclose_1.1.1_iphoneos-arm.deb
+Size: 48048
+MD5sum: 5d759c8fbae9f3a48b253e561bcfb7a6
+SHA1: 51380fa352d668c3075ea84f71c246c7755de70f
+SHA256: 787be2716f32d3b5e2ebdf1072ad6096e0bed0835afb3a23cf33763d0b0bbf9e
+Section: Addons (Activator)
+Priority: optional
+Description: Trigger Events On Application Close
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: EventOnAppClose
+
+Package: com.cpdigitaldarkroom.ezccx
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.ezccx_1.0.1_iphoneos-arm.deb
+Size: 9800
+MD5sum: b359ed27ac01c03be331a204ef556bef
+SHA1: 797fcc6a94ddec616751a2e2243319ffff7fb474
+SHA256: f0b5f9a7621b4a1b2ce1284b335e2d51a2378064ab3229803c9ec645ecfea9d2
+Section: Tweaks
+Description: Easier CC Access on iPhone X
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: EZCCX
+
+Package: com.cpdigitaldarkroom.fairydust
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks+fairydust@cpdigitaldarkroom.support>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Filename: debs_public/com.cpdigitaldarkroom.fairydust_0.0.1-2_iphoneos-arm.deb
+Size: 163874
+MD5sum: 630b88d3e4675825394ba418d181f604
+SHA1: 9efd98a69ec8ededfbcd16ee79f99c91ae4e8df0
+SHA256: d5f85c7c90550907b37f4182fdbc237d8bd27331e8963265a944f007fc906622
+Section: Tweaks
+Description: Customizable in call, recording, and tethering status bar color.
+Author: CP Digital Darkroom <tweaks+fairydust@cpdigitaldarkroom.support>
+Name: Fairydust
+
+Package: com.cpdigitaldarkroom.fappsize
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 724
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.fappsize_0.0.4_iphoneos-arm.deb
+Size: 169358
+MD5sum: 37b0fc61f3b62a58f98f86af188a5a72
+SHA1: bbba58569305afd92a3814bcdb3dfd01e1a780c0
+SHA256: 2e70a390a7d480573d4a9c8963579e226321d5b3e4334f925481dde692195b19
+Section: Tweaks
+Description: Show Application Size As Shortcut Item
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: FᵃᵖᵖSize
+
+Package: com.cpdigitaldarkroom.fastunlockx
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.fastunlockx_1.0_iphoneos-arm.deb
+Size: 3958
+MD5sum: dcdbce19ffdb48c8a3fda2b4bb2384cd
+SHA1: f54e452815d26ebb70b34d18c5d47b9b127a5ea2
+SHA256: 2209f9f06fd8ecc72f977f1648c66511931f79446f67e2a0de93e3e4cfb29d2b
+Section: Tweaks
+Description: Faster unlock for iPhone X
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Name: FastUnlockX
+
+Package: com.cpdigitaldarkroom.funappocalypse
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.funappocalypse_0.0.2_iphoneos-arm.deb
+Size: 21376
+MD5sum: fe7e44236cce570485caf2e22a9d3a52
+SHA1: f9d69db9621484318176928d1a40b7c9f081f2ee
+SHA256: adc69192c7bd09ec50e08f20582f6c4a07d25c6a111956244d79354abc6b5238
+Section: Tweaks
+Description: It's a FunAppocalypse!
+ Increased randomness which wasn't so random before in terms of picking the trigger. Possible support for some older firmwares
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: FunAppocalypse
+
+Package: com.cpdigitaldarkroom.garrigans
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.garrigans_0.0.1_iphoneos-arm.deb
+Size: 5800
+MD5sum: 9c71454850afa782b5db7487de3ca771
+SHA1: 90ad7495ecfb56607ec16d84b0f0207565494ca2
+SHA256: 598b84e5897ae870734907765b633c1844d2542835130e3416c1460c4a3dd077
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.garrigans/
+Description: Disable deleting text messages
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.garrigans/
+Dev: cpdigitaldarkroom
+Name: Garrigans Shitty Friends
+
+Package: com.cpdigitaldarkroom.gazelle
+Version: 0.1.2.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 4900
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs_public/com.cpdigitaldarkroom.gazelle_0.1.2.1_iphoneos-arm.deb
+Size: 632218
+MD5sum: 9a2be489893bbf16624160185cc02e13
+SHA1: 8d6cb761afe7e379022d372f55b2e7424da0cb26
+SHA256: 1a3c8d7c651be58c8652d6c42ba97f2783188b4ef944338154fbd3adeaa70c50
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.gazelle/
+Description: Elegant and Quick Interactions for Apps
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.gazelle/
+Icon: file:///Library/PreferenceBundles/Gazelle.bundle/images/Gazelle@3x.png
+Name: Gazelle
+
+Package: com.cpdigitaldarkroom.ghosty
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.ghosty_1.0_iphoneos-arm.deb
+Size: 6352
+MD5sum: 8eb00b1e32ba61713edfe0077109bfbe
+SHA1: dd9ac6c1a34f45e119420e533d830cede3c401c7
+SHA256: dbb151b108d848d1eb35040d64b9e8bef8286ad5625c50ced7f7455724651c48
+Section: Tweaks
+Description: Dim Icons When Shortcut Menu Is Presented
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Ghosty
+
+Package: com.cpdigitaldarkroom.goldenhours
+Version: 0.1-20
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader
+Filename: debs_public/com.cpdigitaldarkroom.goldenhours_0.1-20_iphoneos-arm.deb
+Size: 59442
+MD5sum: e52229da6407cc01e12f49f4053deb3a
+SHA1: 4177af22e09b33c7a9b98bc066e4b533304c6b4f
+SHA256: 8baba0cb3ef48ad64c3ba75593021aa70496442ed5cc4457dd96e00db0a04ae2
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Important Times For Photographers
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/goldenhours.php
+Name: Golden Hours
+
+Package: com.cpdigitaldarkroom.gridiculous
+Version: 0.2~beta3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 200
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Filename: debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb
+Size: 12446
+MD5sum: 3f483914f73dcf803268df04ab53f8b3
+SHA1: 7f7b86687e8a9e974559c7ca19d9952b322dabeb
+SHA256: 87912c98e8e55846aa521da7be3e1dbf5923a66501b25da24c6694a5719221bd
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.gridiculous/
+Description: Icons Anywhere? That's Gridiculous
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.gridiculous/
+Name: gridiculous
+
+Package: com.cpdigitaldarkroom.hearttransplant
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.hearttransplant_2.2.1_iphoneos-arm.deb
+Size: 6278
+MD5sum: 16b577fa6894f7df7413b04fd8a1f52a
+SHA1: 527d16f73a94bf58244639ee137dd94393a6bba3
+SHA256: 39e25f2f37516525c02b65c3e2fbd024c163d3548bbc36660658e4f32cbc4f5f
+Section: Tweaks
+Description: Add to My Music by Liking a Song
+Author: CP Digital Darkroom & Andrew Wiik <tweaks@cpdigitaldarkroom.support>
+Name: Heart Transplant
+
+Package: com.cpdigitaldarkroom.hidemex
+Version: 1.4.10
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 2208
+Depends: mobilesubstrate, firmware (>= 9.0), org.thebigboss.libcolorpicker, preferenceloader, applist
+Filename: debs_public/com.cpdigitaldarkroom.hidemex_1.4.10_iphoneos-arm.deb
+Size: 531456
+MD5sum: 4d5fb7324ce9957fdd534b9e852d001c
+SHA1: cb2a24264ea115e26a429a04759a697d3fd2a301
+SHA256: 0a6d2ff308a3c8ce3eb7716e3165fcb8a198c55bfb560c1cc1c5a079506676a5
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.hidemex/
+Description: The Ultimate iOS Customizing Experience
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.hidemex/
+Name: HideMeX
+
+Package: com.cpdigitaldarkroom.hidemex10
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 3264
+Depends: mobilesubstrate, firmware (>= 10.0),firmware (<= 11.0), org.thebigboss.libcolorpicker, preferenceloader, applist
+Replaces: com.cpdigitaldarkroom.cream2, com.cpdigitaldarkroom.creamless, com.cpdigitaldarkroom.cuttlefish, com.cpdigitaldarkroom.cistemaperio, com.antique.camhdr+, com.antique.ccdotsaway, com.cpdigitaldarkroom.taptapflip, com.expetelek.simplepasscodebuttons, com.candoizo.onion
+Filename: debs_public/com.cpdigitaldarkroom.hidemex10_1.1.3_iphoneos-arm.deb
+Size: 822468
+MD5sum: a30e4672f5ee2f2a70841d25daca8676
+SHA1: 3d0abeae0fdf9d10df53a589069ff52980569610
+SHA256: bf073d3c4eb5f6675a856f3e02fa1acaa13ffca34f9218b9b4938cb36cedd6b2
+Section: Tweaks
+Description: The Ultimate iOS Customizing Experience
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: HideMeX (iOS 10)
+
+Package: com.cpdigitaldarkroom.hsmapfix
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.hsmapfix_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5102
+MD5sum: 6b138fed193301daf2e42eef49640b47
+SHA1: e4082e4b2a5a8e142017de78de6eb30aa94c7406
+SHA256: c163ee6b0161a310b5521d9897e36509a26f2d4302199d9edb3ce83a0657639e
+Section: Tweaks
+Description: Temp Fix For Some Tweaks
+ Apple removed homescreenMap from SBIconViewMap. Temp Fix.
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: HSMapFix
+
+Package: com.cpdigitaldarkroom.iffound3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 2004
+Depends: mobilesubstrate, libactivator, firmware (>= 8.0)
+Filename: debs_public/com.cpdigitaldarkroom.iffound3_1.0.1_iphoneos-arm.deb
+Size: 618424
+MD5sum: 4166bfa735de843597abbfb032cb8516
+SHA1: 4ae2790f8aa5858339bbfc43dcabe93e53989e10
+SHA256: 378fa4629dc90a975c3de2ff155b4df8d291d08aab13abc59736fcbe857e812d
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.iffound3/
+Description: Makes returning your lost or stolen device easier.
+Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.iffound3/
+Dev: cpdigitaldarkroom
+Icon: file:///Library/PreferenceBundles/IfFound3.bundle/images/IfFound3@2x.png
+Name: IfFound3
+
+Package: com.cpdigitaldarkroom.itsevanesco
+Version: 2020.6
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 468
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: com.cpdigitaldarkroom.evanesco, com.1conan.evanescoxi
+Filename: debs_public/com.cpdigitaldarkroom.itsevanesco_2020.6_iphoneos-arm.deb
+Size: 51908
+MD5sum: 91476c3ea88b057a77e8ae5f579f8350
+SHA1: e859035735c04654916c7781a11f9e5e73a33e43
+SHA256: 98e4dddbdb86fe4483c3e380009caa24146da93031dba0b56c5acf47d3a8a3c4
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.itsevanesco/
+Description: Clear Your Homescreen After Inactivity
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.itsevanesco/
+Icon: file:///Library/PreferenceLoader/Preferences/Evanesco@3x.png
+Name: Evanesco!
+
+Package: com.cpdigitaldarkroom.kairos
+Version: 1.0.6-9+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 1084
+Depends: mobilesubstrate
+Conflicts: com.creatix.switchservice
+Replaces: com.creatix.switchservice
+Filename: debs_public/com.cpdigitaldarkroom.kairos_1.0.6-9+debug_iphoneos-arm.deb
+Size: 328652
+MD5sum: 65e49ab91124445f6c61d6f017208199
+SHA1: e6d6b8fc96b1a289435d6d9e14380d2b0dd06233
+SHA256: 2e8c11f8ccf1ab111252b6753063aa929f27d9b5cc5342e30abd4e5665fe4cb2
+Section: Tweaks
+Description: Simple Message Scheduling for iOS
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Icon: file:///Library/PreferenceBundles/Kairos.bundle/images/Kairos@2x.png
+Name: Kairos
+
+Package: com.cpdigitaldarkroom.kairos2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks+kairos2@cpdigitaldarkroom.support>
+Installed-Size: 492
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: com.cpdigitaldarkroom.kairos
+Filename: debs_public/com.cpdigitaldarkroom.kairos2_1.0.3_iphoneos-arm.deb
+Size: 107342
+MD5sum: 4ea635a1b9fa3a1acfd70442f4406ed2
+SHA1: 583684635ce7a05c4d1ff50d8a51462394b98673
+SHA256: ec0ed663f6c45d786049777716ee387d13988b60440620bdfffcfc90468aa796
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.kairos2/
+Description: Message Scheduling for iOS Messages
+Tag: purpose::app, compatible::ios10
+Author: CP Digital Darkroom <tweaks+kairos2@cpdigitaldarkroom.support>
+Depiction: http://subscriber.cpdigitaldarkroom.com/repo/depiction.php?iframe=http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.kairos2/
+Icon: file:///Library/PreferenceBundles/Kairos2.bundle/images/Kairos2@3x.png
+Name: Kairos 2
+
+Package: com.cpdigitaldarkroom.keyvibe
+Version: 0.0.1-15+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs_public/com.cpdigitaldarkroom.keyvibe_0.0.1-15+debug_iphoneos-arm.deb
+Size: 6358
+MD5sum: 77fee2c28f85f8673965df944368f3e9
+SHA1: d638fc37ee0a8ef4d0c8321036171508fa69b942
+SHA256: 68e4f2589d07db0e53bec63e8aaa3832c38faab506a46eb5c92674c909593e21
+Section: Tweaks
+Description: Haptic Feedback on Keyboard Press
+ This is only intended for 6s and 6s+ since it uses the Haptic Engine in them and doesn't fall back onto the motor on older devices since I just needed this for me and wanted it to be as small as possible.
+ Version 0.0.1-14-Debug changes vibration from key up to key down
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: KeyVibe
+
+Package: com.cpdigitaldarkroom.kush
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.kush_0.0.1_iphoneos-arm.deb
+Size: 3586
+MD5sum: 6911b3d87fcca7b1bd1809c3b8ed54ce
+SHA1: 2663e7d2781e4c26b7bd6a8a2d6d306aaaf5ecc6
+SHA256: b1241fc00da4441034e48ec7e965aa80b96ebfa273b1bca93173257b979a3671
+Section: Tweaks
+Description: Remove CC white lightening tint view
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: kush
+
+Package: com.cpdigitaldarkroom.lastlogin
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.lastlogin_1.0.1_iphoneos-arm.deb
+Size: 27782
+MD5sum: 7c82583a4a5dfa0ce0830631f5e6301b
+SHA1: 938f1854014caf4319f3ddb661636aa5c65121af
+SHA256: 170c59b7b727c0eb53936db5210881c3f3aa1f4ac53e482b6d176d40f65a79cb
+Section: Tweaks
+Description: LockScreen Login Attempts
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: LastLogin
+
+Package: com.cpdigitaldarkroom.legacyswitcher
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs_public/com.cpdigitaldarkroom.legacyswitcher_0.0.1-2_iphoneos-arm.deb
+Size: 3282
+MD5sum: f6ae91e6a02dcadeaaa9635c194f5cb0
+SHA1: 8bb56f6a36873f93a140262e9004135be5f2a62f
+SHA256: d094056e48e2b7aa9bfe9710305f439f779aaf251eba90b6676c4ae7978cbf3a
+Section: Tweaks
+Description: iOS 7/8 App Switcher for iOS9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: LegacySwitcher
+
+Package: com.cpdigitaldarkroom.liverings
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.liverings_1.2_iphoneos-arm.deb
+Size: 12216
+MD5sum: 00966d6a3a8f84d0e853fa2e57075ed5
+SHA1: fa377b040a196673bec547f0e14dd412a363aec6
+SHA256: 67d4d94e29760c105831e755a87c4399296c374429748d0250db053fc646fc3c
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.liverings/
+Description: Live Activity App Rings
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.4
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.liverings/
+Name: LiveRings
+
+Package: com.cpdigitaldarkroom.logger
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 240
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: debs_public/com.cpdigitaldarkroom.logger_0.0.1_iphoneos-arm.deb
+Size: 13142
+MD5sum: d77def06e44b3f6a0cb8572c649086c3
+SHA1: 9fa4de0200caf4c4ad67f44324a62d65eb596900
+SHA256: b976eb1c99ad3d9ce570d300301528e77bf6f75ba58d1bb463f7c6a0a1109544
+Section: Tweaks
+Description: Log Phone Activity
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Logger
+
+Package: com.cpdigitaldarkroom.lollipopui
+Version: 0.0.1-59
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.lollipopui_0.0.1-59_iphoneos-arm.deb
+Size: 237108
+MD5sum: 0847372e382722a37589def71f103ec7
+SHA1: 7dd0bf7365cf643702600a97b987f2525c812889
+SHA256: ee3af96a9b3979129ea070c9279c844ad0cc731a4aa23a8fc38d59670018a682
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Android Lollipop UI for iOS
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/loliui.php
+Name: LollipopUI
+
+Package: com.cpdigitaldarkroom.lollipopuisounds
+Version: 0.0.1-14
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 8008
+Depends: mobilesubstrate, preferenceloader, com.anemonetheming.anemone (>= 0.1~nightly-77) | com.unlimapps.toneenabler, com.anemonetheming.anemone (>= 0.1~nightly-77)  | winterboard
+Filename: debs_public/com.cpdigitaldarkroom.lollipopuisounds_0.0.1-14_iphoneos-arm.deb
+Size: 4533108
+MD5sum: 07c8a0e8cf50778fd3a0f48347564543
+SHA1: 05f7dd57091219b5b7ad47a5779dd421df6fd0f7
+SHA256: 73ece3f6d61822b2c5252ba07ca46bcd799e39969bfa7c02d984524278593fe4
+Section: Themes
+Homepage: http://cpdigitaldarkroom.com/
+Description: Android Lollipop UISounds for iOS
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/loli.php
+Name: Lollipop UISounds
+
+Package: com.cpdigitaldarkroom.lsartrounder
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.lsartrounder_0.0.1_iphoneos-arm.deb
+Size: 9842
+MD5sum: b19d760ddb145c4150c6bdf4addb5b41
+SHA1: 2fa79f66ab02783e2d38f97ea7528c882c6cf4fe
+SHA256: 6b472e698a383915606103b1b3643831f2111dcf0d573486c217be76ac352c91
+Section: Tweaks
+Description: Round LS Album Artwork Corners
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: LSArtRounder
+
+Package: com.cpdigitaldarkroom.medusa
+Version: 0.0.1-7
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs_public/com.cpdigitaldarkroom.medusa_0.0.1-7_iphoneos-arm.deb
+Size: 4618
+MD5sum: 916775e488eec2e61e2671e7c56421cb
+SHA1: 8266ee2cf2228e78f880c304a440cc59bc9d7f76
+SHA256: f36f0e6c05e066e68f996530a58b43ed40828ff087e0c6964d154565e53a61ec
+Section: Tweaks
+Description: iOS 9 iPad Pro Featured Across all iDevices
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Medusa
+
+Package: com.cpdigitaldarkroom.music
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 640
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.music_1.0.5_iphoneos-arm.deb
+Size: 149938
+MD5sum: a41927d6b51c207917964150a777e609
+SHA1: 0ccdbeb35eacedcaf65515d16d96d93723ca10d5
+SHA256: eed872982dba8136b9e99a1cd6f92dda6e3d41beeb3aabf394430c35b69ca75b
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.music/
+Description: Autotweet Now Playing Information
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.music/
+Name: MusicTweet
+
+Package: com.cpdigitaldarkroom.musicbar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 276
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.musicbar_0.0.1_iphoneos-arm.deb
+Size: 28082
+MD5sum: d28fa284e352ffff1ae95189b982d618
+SHA1: 6798b483ed47e67a6987c239b082fa317708251f
+SHA256: bdac51a48c208243fcc0c165b45c2b60b26605992146df4626473a81c30d1001
+Section: Tweaks
+Description: Quick Bottom Music Controls
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: MusicBar
+
+Package: com.cpdigitaldarkroom.ncapp
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.ncapp_1.0.2_iphoneos-arm.deb
+Size: 31004
+MD5sum: f4876276ed14a8bd846951be11c6c007
+SHA1: 9264242beea3dba98d27e4cfcdf7c8f0896a712a
+SHA256: 2bd46312cefd79ce396207ea3337b3c223ef4a0d2665ce89e47d9bac96f1546d
+Section: Tweaks
+Description: Quick Access To Apps in the NC
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: NCApps
+
+Package: com.cpdigitaldarkroom.newtermhax
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate, ws.hbang.newterm
+Filename: debs_public/com.cpdigitaldarkroom.newtermhax_1.0_iphoneos-arm.deb
+Size: 6172
+MD5sum: 0291602a0c6cd6833dafdff76d155045
+SHA1: 57de644e174d74a422110d221c5ac826c273131f
+SHA256: 0f67534157d9fba9582ce0d990a21f24488d3e3f3d5cc16178466a9d855af408
+Section: Tweaks
+Description: Dark Blurred Background Style
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: NewStyle for NewTerm
+
+Package: com.cpdigitaldarkroom.noflashlightwake
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.noflashlightwake_1.0_iphoneos-arm.deb
+Size: 4730
+MD5sum: 3cc8f4c17fc676e81f5abe2aa01419a5
+SHA1: 8d89719d9104d24dee0377f5adc2bf2c7203cf4f
+SHA256: 94e4a74ec71e48cd2599634fd687fc0ad83d52ed44b231371893a99a0886553c
+Section: Tweaks
+Description: Disable Lift and Tap to wake when flashlight is on
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: NoFlashlightWake
+
+Package: com.cpdigitaldarkroom.numerals
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.numerals_1.0_iphoneos-arm.deb
+Size: 5884
+MD5sum: 909d34cec7aca3d4b72b5e15bc5c08fb
+SHA1: e49471723128154ce7d0b1ce395303d6bac48c87
+SHA256: 11a41bdfefc5ff50154d54cc8dc47179845473442941d1551b68482b22df1b05
+Section: Tweaks
+Description: Roman Numeral Badge Numbers
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Numerals
+
+Package: com.cpdigitaldarkroom.nuud
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.nuud_0.0.1-6_iphoneos-arm.deb
+Size: 5168
+MD5sum: ab93092326d9a6216e160ca69a66638e
+SHA1: 8f5f5654ac202e292931c8824b63f7fabaf2884a
+SHA256: 8ca0937fa71aa0eea20be68c28d97bd9eff1e2198995a948136d2036679eb73c
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Blur All Camera Roll album previews.
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/nuud.php#packageHeader
+Icon: http://repo.cpdigitaldarkroom.com/newdepics/images/nuudIcon.png
+Name: Nüüd
+
+Package: com.cpdigitaldarkroom.ointb
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.ointb_0.0.5_iphoneos-arm.deb
+Size: 8788
+MD5sum: b9c9e3600dc8f613bec9844618f1bc93
+SHA1: 3315e421c701d2b7a3116ba5125be622b7011a6b
+SHA256: dc8bc71be21b63f9f80b3a4e57384fe2efa9a0c809490545c697825b611e035d
+Section: Tweaks
+Description: Open new safari tab in background
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Tab in Background
+
+Package: com.cpdigitaldarkroom.ontapmusic
+Version: 0.0.1-164
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 544
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.ontapmusic_0.0.1-164_iphoneos-arm.deb
+Size: 255120
+MD5sum: f198196fc3157545565ddc7705f25ed4
+SHA1: 8ec6917d5d758a50e30c53431870da7a66ff4194
+SHA256: db47cf6d06c05f064373b905ecffe3539fba037604834e21113609c6d74e7f54
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Music Controls At Your Tap
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/otm.php
+Name: OnTapMusic
+
+Package: com.cpdigitaldarkroom.ontapmusicredux
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Quantum Tweaks <support@quantumtweaks.com>
+Installed-Size: 980
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.ontapmusicredux_1.3.2_iphoneos-arm.deb
+Size: 283084
+MD5sum: 04dac8ff3b3e380c4dde5e01fdf5f364
+SHA1: 038c222bca7c1f9269a7e20e0b0ff27edbc9ca36
+SHA256: f27bece675f4fe61b6701d47818616fa1030a985b852a88f2db8a150eebc0364
+Section: Tweaks
+Description: Redesigned Music Controls For CC and Reachability
+Author: Quantum Tweaks <support@quantumtweaks.com>
+Name: Bragi
+
+Package: com.cpdigitaldarkroom.packages
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.packages_1.0.3_iphoneos-arm.deb
+Size: 9226
+MD5sum: 0683873518fc7fcd7ce4651af0d8c5c6
+SHA1: 9393b4f7eb6ffd593c274e6e880f1c48ea90df24
+SHA256: 8f0d88e950a569c8b6dd23e0c86a96a74165879b64d75e8b442a37f4870f4799
+Section: Tweaks
+Description: Easily get a count of installed packages
+ Change Log:
+ 1.0.3 - Add Tweaks and Themes count as well as fix the label not using stock settings
+ 1.0.2 - Better package count command.
+ 1.0.1 - Fix small visual bug only OCD user would notice.
+ 1.0 - Initial Release.
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Packages
+
+Package: com.cpdigitaldarkroom.placeholder
+Version: 0.0.1-15+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.placeholder_0.0.1-15+debug_iphoneos-arm.deb
+Size: 15700
+MD5sum: ee71ac9211902b0f729cf24feb686b2d
+SHA1: 70e5d6a68f0a1354845da0fff63753376efff13d
+SHA256: 99d533da533471c573657cfa3d250d6e15c1feef0dc8b827e9c0c054e0192d83
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Placeholder
+
+Package: com.cpdigitaldarkroom.premoshare
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.premoshare_1.0_iphoneos-arm.deb
+Size: 29232
+MD5sum: 1afdfcc88a86eb904573f6beed3383a5
+SHA1: 0ce1d84e54d93fe196f2c80f93d49cf017b84651
+SHA256: cc5b562f00ebcb23a2f15d1027fc9d13a2e444edbf9d6d204a5d01b2fb883f59
+Section: Tweaks
+Description: Force Touch Home Screen For Quick Social Share
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Premò Share
+
+Package: com.cpdigitaldarkroom.pressunlock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 1328
+Depends: mobilesubstrate, preferenceloader
+Filename: debs_public/com.cpdigitaldarkroom.pressunlock_1.0.1_iphoneos-arm.deb
+Size: 418958
+MD5sum: f909b2228e9ef3ef1f60fb35828df70e
+SHA1: bfa825dfac5f23c8d6fc46da4812bb00556c83ac
+SHA256: 293f2fa2241890a40780658b8568204e328fdeed5c1c355de6b4bfb2db3f51c5
+Section: Tweaks
+Description: Unlock By Holding A Number Pad Button
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: PressUnlock
+
+Package: com.cpdigitaldarkroom.qsr
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs_public/com.cpdigitaldarkroom.qsr_0.0.1_iphoneos-arm.deb
+Size: 6388
+MD5sum: bf30e14586d4be2750b84dcb2e6a5f4c
+SHA1: 974837ef261b1f8fc1bed6ce4a947aab97fc2944
+SHA256: 8cb43c8ce4bf6214850f6bdb51670fde3718bb7c1f0b0bec6a70f1e5e8144c58
+Section: Tweaks
+Description: Add Shuffle/Repeat to ControlCenter
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: QuickShuffleRepeat
+
+Package: com.cpdigitaldarkroom.quickcraft
+Version: 0.0.1-23
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: debs_public/com.cpdigitaldarkroom.quickcraft_0.0.1-23_iphoneos-arm.deb
+Size: 110206
+MD5sum: 9d3639ddff1ee2d0037a257a2a751d05
+SHA1: 5e81feae131a23f3ba8ba759a8c2475b54fa3093
+SHA256: e310c0e91bf17764e4d23b14dc6749f761845fc36be19cd765dd28f8a4904f6d
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Awesome Minecraft 0.10.4 Mods!
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/quickcraft.php
+Name: QuickCraft
+
+Package: com.cpdigitaldarkroom.readdaa
+Version: 0.0.1-38+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.readdaa_0.0.1-38+debug_iphoneos-arm.deb
+Size: 6024
+MD5sum: dd8e55fac22c3ce5fd6425e6e510da35
+SHA1: d17129896fc5c120897ed6c26ff2ca2191a9fbfb
+SHA256: 0f699cfd461a75eda4430a9c01f849a3eee1b87e638b052efa820b4a088bd798
+Section: Tweaks
+Description: Automatic Reader View In Safari
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Readdaa
+
+Package: com.cpdigitaldarkroom.respringfix
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.respringfix_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4746
+MD5sum: 249941cd327da2f4d9e7c1048c220e66
+SHA1: 423eb969a1bc1dead5045028d33e4ec37e1dcae5
+SHA256: 633a5eb2a3e87e064986913a5b7bdf2ba395a7ac53d2e92d283913410cc2b59d
+Section: Tweaks
+Description: Temp fix for some tweaks
+ Apple removed _relaunchSpringBoardNow from SpringBoard. Temp fix, devs update your code
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: RespringFix
+
+Package: com.cpdigitaldarkroom.rounder
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.rounder_0.5_iphoneos-arm.deb
+Size: 4716
+MD5sum: ce452e52d2892b259328549c0fa28e57
+SHA1: 747468a832b06570c67502ebfb819701eca3e391
+SHA256: 3acd0509b2a37b945daf7811eb17dc572ebbb7b047289be1438a0df6bb405f07
+Section: Tweaks
+Description: A rounded floating ControlCenter
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Rounder
+
+Package: com.cpdigitaldarkroom.safariwallsetter
+Version: 1.1-14+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 1096
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.safariwallsetter_1.1-14+debug_iphoneos-arm.deb
+Size: 259972
+MD5sum: 6a72b93b3daa3a9c9a873fbb1fc217e8
+SHA1: 88f40f5b1ac5c45cd00b6b99478db837a47fd224
+SHA256: e5242c0ffcb18237ea2fe36ed2b9cd0ee4d55019b61056254f4ab0dc21fdf503
+Section: Tweaks
+Description: Replace Copy button with Set Wallpaper
+ 1.1 Adds iOS 9 Force Touch action support
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Icon: file:///Library/PreferenceBundles/SafariWallSetter.bundle/SafariWallSetter.png
+Name: SafariWallSetter
+
+Package: com.cpdigitaldarkroom.shortcuts
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 1216
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.shortcuts_1.0.2_iphoneos-arm.deb
+Size: 258836
+MD5sum: 6aaa01419c5d066fb90b88c4b231e56e
+SHA1: c95e3d321610c8fb29f38cd785fc2acfc16c9e02
+SHA256: ae66a178365895de189d7b23539128f50fc537dc0f469e5fae6f18b4fd53c292
+Section: Tweaks
+Description: Add Force Touch Menus To More Apps
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Shortcuts
+
+Package: com.cpdigitaldarkroom.sliver
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.sliver_0.0.1-5_iphoneos-arm.deb
+Size: 3862
+MD5sum: 28e3c2702053985e008199616857eee6
+SHA1: 9209d241e600d257096800ae7ee931dec4da601b
+SHA256: 9727c6dddaa92ab4c491ae042e537260304e49c56d89df53fa1f1689ea1e4b3d
+Section: Tweaks
+Description: Your dock blur shrunk down to a sliver
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Sliver
+
+Package: com.cpdigitaldarkroom.smartpass
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.smartpass_1.0.7_iphoneos-arm.deb
+Size: 184230
+MD5sum: 3091101bbc5aab4e70abe68383e1dc93
+SHA1: b2d1f0fbecd7697395cf670e8b7f4db7983879fa
+SHA256: 30f4cf1ff8c2c2c6c6638864105d0b6dc42033ebb5dda547c27f2cf0f15ac9ce
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.smartpass/
+Description: Smarter Passcode Entry Management
+Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.smartpass/
+Dev: cpdigitaldarkroom
+Icon: file:///Library/PreferenceBundles/SmartPass.bundle/images/SmartPass@2x.png
+Name: SmartPass
+
+Package: com.cpdigitaldarkroom.swiper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.swiper_1.0_iphoneos-arm.deb
+Size: 2078
+MD5sum: fa1f07ca1234660876aa054cd87fb9e4
+SHA1: 4713254dd106e8d9f979f6fe3b419f5558adca11
+SHA256: de340c3c61b12691afa11d03c7d048e1e17b1d59f79af3896664a99e005e0a2f
+Section: Tweaks
+Description: Swipe To Close Apps on iPhone X
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Swiper
+
+Package: com.cpdigitaldarkroom.swipeswitcher
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.swipeswitcher_1.0_iphoneos-arm.deb
+Size: 6702
+MD5sum: 4b19d8eb54ba7b52146f76f15dc464b8
+SHA1: 7187d02c43a112abff5f725ab7be7baf9610be99
+SHA256: 114744656322b1fdf1603b8eb8d42239cd07c84941ce38c7d0466dfbb9bceb00
+Section: Tweaks
+Description: Non 3D Touch Side Swipe Switcher Invocation
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: SwipeSwitcher
+
+Package: com.cpdigitaldarkroom.taptapflip
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.taptapflip_1.3.3_iphoneos-arm.deb
+Size: 9838
+MD5sum: d35a09d246a1545ff4e77a49f1cfda5b
+SHA1: b0d80cb598af06ff96532d1e5ce4730395835f14
+SHA256: debeb469e64409b60fe6338b0f84d69375d14a2b860dcaee721339b3a2bdea1c
+Section: Tweaks
+Description: Two taps to flip camera!
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Name: TapTapFlip
+
+Package: com.cpdigitaldarkroom.teardrop
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.teardrop_0.0.1_iphoneos-arm.deb
+Size: 28456
+MD5sum: a798dec9f5a3544f7a189153fe04eb2a
+SHA1: a72cbedbe89b11bb362c23b11edbcb5e1c6cc191
+SHA256: fe14f8943af3f29a2a844b019c9ae74afe759fe15a22888f6e76711eb61727c4
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.teardrop/
+Description: MobileSMS, Massive Attack
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.teardrop/
+Dev: cpdigitaldarkroom
+Name: Teardrop
+
+Package: com.cpdigitaldarkroom.tuer
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.tuer_0.1_iphoneos-arm.deb
+Size: 4696
+MD5sum: ea88e62c0fb7a72cbe09d3119ee90d6f
+SHA1: a82e231a56ee5809db3aba68f8c28e4ae6e79d7a
+SHA256: 3ebb5d2f9f1fb32f2addbcb2024e3f87ff11c9f486dcb5f968c7c1706a2f179e
+Section: Tweaks
+Description: Slide Switcher Cards To Kill All Apps
+ Swipe up on the Home Screen card to kill all apps, more coming soon, DRM free and FREE foreva
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Tuer
+
+Package: com.cpdigitaldarkroom.underboard.demo
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 2068
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.underboard.demo_0.0.1-2+debug_iphoneos-arm.deb
+Size: 701956
+MD5sum: 954b492741c4de72a9732cc2fea58cae
+SHA1: fb60fe3933185e7e7195504c4694f5906bc7c0cb
+SHA256: 62d8e7614e9738214a59715376456396edea02702faa815e29f0bb9a32cbf9ec
+Section: Tweaks
+Description: Centralized hub For Apps & Shortcuts
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: UnderBoard (Free Demo)
+
+Package: com.cpdigitaldarkroom.vibr8or
+Version: 0.0.1-12
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.vibr8or_0.0.1-12_iphoneos-arm.deb
+Size: 5488
+MD5sum: cf28aaef24e4c5d7e1fb0bcb7a6d5a1c
+SHA1: b681160d3eb24451686fd59249777d4dc1d6cb72
+SHA256: fc4baa3de54671a08412f21b050eef318a91af12afa457c723463a41aaebed37
+Section: Tweaks
+Description: Vibrate your device, endlessly
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Vibr8or
+
+Package: com.cpdigitaldarkroom.volumesound
+Version: 0.69-2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks+volumesound@cpdigitaldarkroom.support>
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: debs_public/com.cpdigitaldarkroom.volumesound_0.69-2_iphoneos-arm.deb
+Size: 155040
+MD5sum: ee0765aff62970ebba2903b57d3c400e
+SHA1: 4a6ae4de394f9d6ec966f0d9d228e8f364ef940a
+SHA256: 4bcb74ddc08ca470bb458ecf5b5ef1777ea2a375ec30ffdde310a204a6d5b4d5
+Section: Tweaks
+Description: Customizable Volume Change Sounds
+Author: CP Digital Darkroom <tweaks+volumesound@cpdigitaldarkroom.support>
+Name: VolumeSound
+
+Package: com.cpdigitaldarkroom.waassetalbum
+Version: 0.9
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 652
+Depends: mobilesubstrate
+Filename: debs_public/com.cpdigitaldarkroom.waassetalbum_0.9_iphoneos-arm.deb
+Size: 210874
+MD5sum: 9177829516a7e208b712a00d4dffb77e
+SHA1: 95ea2f93320cf5739a934c45950c93332b6dfb17
+SHA256: f0ea8ab19a7584e0f772a1c119aa733b3bfd11a656a70e5e98f92478e43ba7c8
+Section: Tweaks
+Description: Custom Save Album For WhatsApp Images
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: WAAssetAlbum
+
+Package: com.cpdigitaldarkroom.wallrotator
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 3248
+Depends: mobilesubstrate
+Conflicts: com.cpdigitaldarkroom.tayrotator
+Filename: debs_public/com.cpdigitaldarkroom.wallrotator_1.0.3_iphoneos-arm.deb
+Size: 2888166
+MD5sum: d32e805065c21391a40bc5ddf89bb5f8
+SHA1: cf60f8237bd0ea1f91709a50cae5ce5dfb53bd47
+SHA256: 6ab239e75382c87737260bb0af930862c73d0c11be42cd05172e6a123dd88bd1
+Section: Tweaks
+Homepage: http://cpdigitaldarkroom.com/
+Description: Keep your wallpaper fun and fresh
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://repo.cpdigitaldarkroom.com/newdepics/wallrotator.php
+Icon: file:///Library/PreferenceBundles/WallRotator.bundle/WallRotator.png
+Name: WallRotator
+
+Package: com.cpdigitaldarkroom.wallrotator.emmawatson
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depends: com.cpdigitaldarkroom.wallrotator
+Filename: debs_public/com.cpdigitaldarkroom.wallrotator.emmawatson_1.0_iphoneos-arm.deb
+Size: 787328
+MD5sum: de217fbef0040870b143a0ef7cbf1e61
+SHA1: 8236ed09edee283dcdcb3a4d128b23022e592181
+SHA256: ebb829a0ad27444ceb11016551d109d5a2a54c65479b1f6da3371d9812da48dc
+Section: Themes
+Description: Set of Emma Watson wallpapers for WallRotator
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Emma Watson WallRotator Pack
+
+Package: com.cpdigitaldarkroom.wallrotator.taylorpack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depends: com.cpdigitaldarkroom.wallrotator
+Filename: debs_public/com.cpdigitaldarkroom.wallrotator.taylorswift_1.0_iphoneos-arm.deb
+Size: 853614
+MD5sum: b68788b5942459d43004da2417a02f7f
+SHA1: 763aa19fdb53c6cd0fdea1861d13b7608a4657eb
+SHA256: 4db44ae2a2d57be47aa81251fd00e09603500efb00cfd61e4e41317ec88f8ba3
+Section: Themes
+Description: Set of Taylor Swift wallpapers for WallRotator
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Taylor Swift WallRotator Pack
+
+Package: com.cpdigitaldarkroom.watchconnection
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 200
+Depends: mobilesubstrate, libstatusbar
+Filename: debs_public/com.cpdigitaldarkroom.watchconnection_0.1_iphoneos-arm.deb
+Size: 14832
+MD5sum: fa9b56c595bfd3897e0e19847266a16d
+SHA1: 33f8ad917717e696a23306bd2de7a616f92cfe27
+SHA256: c05c1676592941709fb835869b35e26aaa03d95e513eeb4589fc4c46fc7a7a70
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.watchconnection/
+Description: Statusbar Icon For Apple Watch Status
+Tag: purpose::extension, cydia::free, compatible::ios9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.watchconnection/
+Dev: cpdigitaldarkroom
+Name: WatchConnection
+
+Package: com.filippobiga.cpdigitaldarkroom.harlem
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 656
+Depends: mobilesubstrate, libactivator
+Filename: debs_public/com.filippobiga.cpdigitaldarkroom.harlem_0.3_iphoneos-arm.deb
+Size: 515060
+MD5sum: 068f9763cb62efa1492b8dd6702665b4
+SHA1: 9acb723ab9753dcbc522483bb58ccb7360ed7603
+SHA256: 7dfd95ee2ef1c6b8627fe45efee5e34f246fc7cca047e7614c8216d3f6286272
+Section: Tweaks
+Description: SpringBoard Harlem Shake!
+ iOS 10 fixes.
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Harlem Shake
+
+Package: com.quantumtweaks.eucnide
+Version: 1.0.1.2
+Architecture: iphoneos-arm
+Maintainer: Quantum Tweaks <support@quantumtweaks.com>
+Installed-Size: 700
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, firmware (>= 9.0)
+Filename: debs_public/com.quantumtweaks.eucnide_1.0.1.2_iphoneos-arm.deb
+Size: 213382
+MD5sum: ec6a625bfb5ee235e560c2a66db0e7fc
+SHA1: c1ba27383ebaf9f00765a1a4b20cf6a927d8e3ba
+SHA256: 59488ea81f1b45bd4d91458859a439ba47746c7998705e6ab13d017b747736ff
+Section: Tweaks
+Description: A Beautifully Redesigned Control Center
+Author: Quantum Tweaks <support@quantumtweaks.com>
+Developer: CPDigitalDarkroom
+Icon: file:///Library/PreferenceBundles/Eucnide.bundle/images/Eucnide@3x.png
+Name: Eucnide
+

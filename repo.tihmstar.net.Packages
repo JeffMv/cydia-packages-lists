@@ -1,0 +1,2180 @@
+Package: com.56klabs.fuzzyDuck
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: isa56k
+Depends: firmware (>= 6.0),com.innoying.sbutils,lighttpd,wget,gawk,com.ericasadun.utilities
+Filename: debs/com.56klabs.fuzzyduck_0.4_iphoneos-arm.deb
+Size: 8620
+MD5sum: d85a65179cd1308961d3df4d6c9fd909
+SHA1: 50601e69d24f08ca3f6ecf2096b4e2b4f0b7fec6
+SHA256: 7ec9ab449515594fbbb753620f9bdb09a4a495baccffe963b83d99e5684fb5d7
+Section: cmd-tool
+Priority: optional
+Homepage: http://www.isa56k.com
+Description: Automated iOS Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool for helping you fuzz!
+    <p>      Usage:   fuzzyDuck.sh <filename> <url> <port> <sleep>
+    <p>               fuzzyDuck.sh fuzzThis.mov http://localhost 3000 15  <- Standard Usage
+    <p>               fuzzyDuck cleanUp <- !!Warning!! Deletes all fuzzyDuck directories (01 - 04)
+    <p>               fuzzyDuck installUpD0g <- Installs upD0g a launch Daemon to run after reboot / panic
+    <p>               fuzzyDuck removeUpD0g <- Removes upD0g launch Daemon
+ </div>
+ </html>
+Author: isa56k
+Dev: isa56k
+Name: fuzzyDuck
+
+Package: com.56klabs.fuzzyPie
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: isa56k
+Depends: firmware (>= 6.0),python
+Filename: debs/com.56klabs.fuzzypie_0.1_iphoneos-arm.deb
+Size: 1870
+MD5sum: bc2a11a5026d856b9d95f4dfcc3faf2c
+SHA1: 106468b41d883c3ad274dbb26053e4e23ac8d960
+SHA256: 11b094ba5e76b3bb608247cfcdc06e9184d861e3ac4e7d1b28ab1374d6cf2ea3
+Section: cmd-tool
+Priority: optional
+Homepage: http://www.isa56k.com
+Description: Python based fuzzer.
+ <html>
+ <div align="left">
+ <p>A tool to create mutated fuzz testcases.
+    <p>      Usage:   fuzzPie.py <original input file> <mutated ouput file>
+    <p>
+ </div>
+ </html>
+Author: isa56k
+Dev: isa56k
+Name: fuzzPie
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 0.1.0.3
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,com.cameronfarzaneh.safariresetter,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_0.1.0.3_iphoneos-arm.deb
+Size: 7982
+MD5sum: 65d14f6f634eabc081225321986f43a9
+SHA1: 9a61e6c2b3346ac465ff8d15cf3e3b1a47cd5ad9
+SHA256: 2544819ae9e079bc0416b2a24956a3189dff401170ed6e786e7d6d1dfe3ebd01
+Section: cmd-tool
+Priority: optional
+Description: Automated MobileSafari Fuzzer
+ A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ Usage:
+ ~$ fuzzycactus start /path/to/file
+ ~$ fuzzycactus stop
+ ~$ fuzzycactus help
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work. Once the script is started you can safely disconnect.
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option. Otherwise, all your hard work will go to Apple and you will be sad. =(
+ Read more about how this package works, and see the source code at http://github.com/compilingEntropy/fuzzycactus
+ Report bugs or ask questions to me on twitter @compiledEntropy
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,com.cameronfarzaneh.safariresetter,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_1.0.4-1_iphoneos-arm.deb
+Size: 8302
+MD5sum: 6c653fb6f824ce5484f91884424b6bf6
+SHA1: 6a8c7bb3dac227b7eb620783baed3f1482514e96
+SHA256: 46631773247175f3ef6b047f7f15be258719479743b8605bcede95cb9222bf29
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <body bgcolor="#FFFFFF">
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <p>Usage:
+ <br>~$ fuzzycactus start /path/to/file
+ <br>~$ fuzzycactus stop
+ <br>~$ fuzzycactus help
+ <p>The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <br>Once the script is started you can safely disconnect.
+ <p>Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <br>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <p>Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ </div>
+ </body>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 1.0.5-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,com.cameronfarzaneh.safariresetter,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_1.0.5-1_iphoneos-arm.deb
+Size: 8944
+MD5sum: 445c03d47650db0194388c597c246688
+SHA1: 197f34309f112a331034bf9b9c3243184abc2661
+SHA256: 94d7a54fa48d5931770cb058c4379318c886df688aead9a2558596f4271cd754
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ <p>Usage: fuzzycactus [start/stop/help] /path/to/file.mov [-s] [-t 11]
+ <p>~$ fuzzycactus start /path/to/file
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus help
+ <br>
+ <p>The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ <p>Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ <p>Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,com.cameronfarzaneh.safariresetter,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_1.0.6-1_iphoneos-arm.deb
+Size: 9656
+MD5sum: 90f49e3c33b04d582171edb168f8ea49
+SHA1: c1e3cab4fdbef697f15ca67718b81f860a20743b
+SHA256: 26c15d8e18d667406150a90f5e9ec50acb841b7839a0691e745eb973e7a87bab
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage: fuzzycactus [start/stop/watch/help] /path/to/file.mov [-s] [-t 11] [-r 0.0001:0.001]
+ <p>~$ fuzzycactus start /path/to/file
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>1.0.6
+ <p>Added 'watch' command to allow you to view current session
+ <p>Added '-r' option to allow users to specify their own mutation percentages
+ <p>Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 1.0.7-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,com.cameronfarzaneh.safariresetter,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_1.0.7-1_iphoneos-arm.deb
+Size: 9762
+MD5sum: 6318de395163371ab48dc1162d6ca09d
+SHA1: 51bf1c88817e912e29b3394caf04e25706ad2185
+SHA256: 3496f487d5e44a5d5b1a0646a8eafabbf10d6ac165a32e23d81bc5d577022234
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage: fuzzycactus [start/stop/watch/help] /path/to/file.mov [-s] [-t 11] [-r 0.0001:0.001]
+ <p>~$ fuzzycactus start /path/to/file
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>1.0.7
+ <p>Fixed directory naming
+ <p>Fixed pairing algorithm
+ <p>Fixed hangs in crashclean
+ <p>Fixed '*' appender
+ <p>Fixed 'watch' to count processes better
+ <br>
+ 1.0.6
+ <p>Added 'watch' command to allow you to view current session
+ <p>Added '-r' option to allow users to specify their own mutation percentages
+ <p>Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 2.0-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,com.cameronfarzaneh.safariresetter,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_2.0-1_iphoneos-arm.deb
+Size: 11050
+MD5sum: 7823ef19b7b81bd39e46b1a64f69a97d
+SHA1: c1b400ae49dfcc1acf55a78b0a0c2a0cc67d297d
+SHA256: d55e83003c02991ca45195318b2ea725a9f695f1b3e18c77dfc2d7d16f87ddde
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage:
+ <p>fuzzycactus [action] [file] [options]
+ <p>fuzzycactus [start/stop/watch/help] [./file.mov] [-s] [-t 11] [-r 0.0001:0.001] [-k]
+ <p>~$ fuzzycactus start ./file.mov
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>2.0.1
+ <p>-Lets you know when using non-default options
+ <p>-Significant speed improvements on startup
+ <p>-Returns the number of crashes so far when attaching with 'watch'
+ <br>
+ 2.0
+ <p>-Consolidated scripts to one file
+ <p>-Crashcleans in realtime as it fuzzes
+ <p>-Auto-removes files that didn't cause crashes
+ <p>-Added the '-k' option, allowing you to resume fuzzing after a kernel panic
+ <p>-Completely re-worked logic
+ <p>-Removed several hundred lines of duplicate code
+ <p>-Fixed 'stop' so that it now works (was previously broken)
+ <p>-Made 'watch' actually consistent
+ <p>-Saves most recently used settings in config file for easy resuming
+ <p>-Reads previous seed, no more 'skipping..' forever
+ <p>-Better handling of file extensions
+ <p>-Process management that is actually real
+ <p>-Better internal handling of errors for a smoother ride
+ <p>-Speed and memory improvements
+ <p>-Help text now makes so much more sense
+ <p>-Better
+ <br>
+ 1.0.7
+ <p>-Fixed directory naming
+ <p>-Fixed pairing algorithm
+ <p>-Fixed hangs in crashclean
+ <p>-Fixed '*' appender
+ <p>-Fixed 'watch' to count processes better
+ <br>
+ 1.0.6
+ <p>-Added 'watch' command to allow you to view current session
+ <p>-Added '-r' option to allow users to specify their own mutation percentages
+ <p>-Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 2.0.4-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,com.cameronfarzaneh.safariresetter,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_2.0.4-1_iphoneos-arm.deb
+Size: 11206
+MD5sum: 71f8fe4997de973bcde4fee5d7bedcda
+SHA1: 9583e318752d9903d950d9a6b85e7e8586ec2c7c
+SHA256: 1a902c2cb65d53445873d9e2ab35e56ba3cb99da8e46c53e9b9c07b1b0a2b427
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage:
+ <p>fuzzycactus [action] [file] [options]
+ <p>fuzzycactus [start/stop/watch/help] [./file.mov] [-s] [-t 11] [-r 0.0001:0.001] [-k]
+ <p>~$ fuzzycactus start ./file.mov
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>2.0.4
+ <p>-Fix log-file truncation after reboot
+ <br>
+ 2.0.3
+ <p>-Fixed crash detection
+ <p>-Fixed duplicate crash issue
+ <br>
+ 2.0.2
+ <p>-Minor bugfixes
+ <br>
+ 2.0.1
+ <p>-Lets you know when using non-default options
+ <p>-Significant speed improvements on startup
+ <p>-Returns the number of crashes so far when attaching with 'watch'
+ <br>
+ 2.0
+ <p>-Consolidated scripts to one file
+ <p>-Crashcleans in realtime as it fuzzes
+ <p>-Auto-removes files that didn't cause crashes
+ <p>-Added the '-k' option, allowing you to resume fuzzing after a kernel panic
+ <p>-Completely re-worked logic
+ <p>-Removed several hundred lines of duplicate code
+ <p>-Fixed 'stop' so that it now works (was previously broken)
+ <p>-Made 'watch' actually consistent
+ <p>-Saves most recently used settings in config file for easy resuming
+ <p>-Reads previous seed, no more 'skipping..' forever
+ <p>-Better handling of file extensions
+ <p>-Process management that is actually real
+ <p>-Better internal handling of errors for a smoother ride
+ <p>-Speed and memory improvements
+ <p>-Help text now makes so much more sense
+ <p>-Better
+ <br>
+ 1.0.7
+ <p>-Fixed directory naming
+ <p>-Fixed pairing algorithm
+ <p>-Fixed hangs in crashclean
+ <p>-Fixed '*' appender
+ <p>-Fixed 'watch' to count processes better
+ <br>
+ 1.0.6
+ <p>-Added 'watch' command to allow you to view current session
+ <p>-Added '-r' option to allow users to specify their own mutation percentages
+ <p>-Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 2.0.6-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,com.cameronfarzaneh.safariresetter,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_2.0.6-1_iphoneos-arm.deb
+Size: 11664
+MD5sum: 704fa0ea42ead400d428b6fabf7bcf33
+SHA1: 442b94adc935ebca33ca3d18917ca59367b4dc20
+SHA256: 92e360e94dddfe98cc9394d176f5978aa6266c42fbfabae36da22c84d562138a
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage:
+ <p>fuzzycactus [action] [file] [options]
+ <p>fuzzycactus [start/stop/watch/help] [./file.mov] [-s] [-t 11] [-r 0.0001:0.001] [-k]
+ <p>~$ fuzzycactus start ./file.mov
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>2.0.6
+ <p>-Removed dependency on safariresetter
+ <p>-Fine-tuned slowdown timing
+ <br>
+ 2.0.5
+ <p>-Fixed logging bug
+ <p>-Fixed bug where the type of crash wasn't properly found if the crash was a panic
+ <p>-Fixed really weird bug where having 'slowdown' turned on would eventually cause every file loaded to crash
+ <p>-Made slowdown slightly faster
+ <p>-Fixed an issue where sometimes resuming after a panic would fail entirely
+ <p>-Fixed an issue where resuming after a panic would load the file which caused the panic again, causing a bootloop
+ <p>-Minor UI improvements
+ <br>
+ 2.0.4
+ <p>-Fix log-file truncation after reboot
+ <br>
+ 2.0.3
+ <p>-Fixed crash detection
+ <p>-Fixed duplicate crash issue
+ <br>
+ 2.0.2
+ <p>-Minor bugfixes
+ <br>
+ 2.0.1
+ <p>-Lets you know when using non-default options
+ <p>-Significant speed improvements on startup
+ <p>-Returns the number of crashes so far when attaching with 'watch'
+ <br>
+ 2.0
+ <p>-Consolidated scripts to one file
+ <p>-Crashcleans in realtime as it fuzzes
+ <p>-Auto-removes files that didn't cause crashes
+ <p>-Added the '-k' option, allowing you to resume fuzzing after a kernel panic
+ <p>-Completely re-worked logic
+ <p>-Removed several hundred lines of duplicate code
+ <p>-Fixed 'stop' so that it now works (was previously broken)
+ <p>-Made 'watch' actually consistent
+ <p>-Saves most recently used settings in config file for easy resuming
+ <p>-Reads previous seed, no more 'skipping..' forever
+ <p>-Better handling of file extensions
+ <p>-Process management that is actually real
+ <p>-Better internal handling of errors for a smoother ride
+ <p>-Speed and memory improvements
+ <p>-Help text now makes so much more sense
+ <p>-Better
+ <br>
+ 1.0.7
+ <p>-Fixed directory naming
+ <p>-Fixed pairing algorithm
+ <p>-Fixed hangs in crashclean
+ <p>-Fixed '*' appender
+ <p>-Fixed 'watch' to count processes better
+ <br>
+ 1.0.6
+ <p>-Added 'watch' command to allow you to view current session
+ <p>-Added '-r' option to allow users to specify their own mutation percentages
+ <p>-Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 2.0.7-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_2.0.7-1_iphoneos-arm.deb
+Size: 12108
+MD5sum: 5db04afa9f51e493fbc419f44b581b44
+SHA1: 10b5075c2c5fe4bb0546aa194fc290443ce09f94
+SHA256: 0603c0a23b07fd238a7a82629e217f1798bf3ab915e81c2ad86c765980815111
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage:
+ <p>fuzzycactus [action] [file] [options]
+ <p>fuzzycactus [start/stop/watch/help] [./file.mov] [-s] [-t 11] [-r 0.0001:0.001] [-k]
+ <p>~$ fuzzycactus start ./file.mov
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>2.0.7
+ <p>-Fixed an issue where sometimes the tabs in MobileSafari wouldn't be cleared properly
+ <p>-Faster startup for people running iOS6
+ <p>-Fixed a problem where packages would be marked as 'manually installed', which broke 'apt-get autoremove' & friends
+ <p>-Cleaner output when fuzzing ends
+ <br>
+ 2.0.6
+ <p>-Removed dependency on safariresetter
+ <p>-Fine-tuned slowdown timing
+ <br>
+ 2.0.5
+ <p>-Fixed logging bug
+ <p>-Fixed bug where the type of crash wasn't properly found if the crash was a panic
+ <p>-Fixed really weird bug where having 'slowdown' turned on would eventually cause every file loaded to crash
+ <p>-Made slowdown slightly faster
+ <p>-Fixed an issue where sometimes resuming after a panic would fail entirely
+ <p>-Fixed an issue where resuming after a panic would load the file which caused the panic again, causing a bootloop
+ <p>-Minor UI improvements
+ <br>
+ 2.0.4
+ <p>-Fix log-file truncation after reboot
+ <br>
+ 2.0.3
+ <p>-Fixed crash detection
+ <p>-Fixed duplicate crash issue
+ <br>
+ 2.0.2
+ <p>-Minor bugfixes
+ <br>
+ 2.0.1
+ <p>-Lets you know when using non-default options
+ <p>-Significant speed improvements on startup
+ <p>-Returns the number of crashes so far when attaching with 'watch'
+ <br>
+ 2.0
+ <p>-Consolidated scripts to one file
+ <p>-Crashcleans in realtime as it fuzzes
+ <p>-Auto-removes files that didn't cause crashes
+ <p>-Added the '-k' option, allowing you to resume fuzzing after a kernel panic
+ <p>-Completely re-worked logic
+ <p>-Removed several hundred lines of duplicate code
+ <p>-Fixed 'stop' so that it now works (was previously broken)
+ <p>-Made 'watch' actually consistent
+ <p>-Saves most recently used settings in config file for easy resuming
+ <p>-Reads previous seed, no more 'skipping..' forever
+ <p>-Better handling of file extensions
+ <p>-Process management that is actually real
+ <p>-Better internal handling of errors for a smoother ride
+ <p>-Speed and memory improvements
+ <p>-Help text now makes so much more sense
+ <p>-Better
+ <br>
+ 1.0.7
+ <p>-Fixed directory naming
+ <p>-Fixed pairing algorithm
+ <p>-Fixed hangs in crashclean
+ <p>-Fixed '*' appender
+ <p>-Fixed 'watch' to count processes better
+ <br>
+ 1.0.6
+ <p>-Added 'watch' command to allow you to view current session
+ <p>-Added '-r' option to allow users to specify their own mutation percentages
+ <p>-Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 2.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_2.1-1_iphoneos-arm.deb
+Size: 12992
+MD5sum: 2b5f641277a1f573a10d64d671c836a4
+SHA1: eb6f6d1144c3cc5d26231f43b6c4d9dc16beb7b6
+SHA256: 8bbc3d814d09d193ea79f72a171bde22d4f0356d0bf416cfeed96109cb5c1841
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage:
+ <p>fuzzycactus [action] [file] [options]
+ <p>fuzzycactus [start/stop/watch/help] [./file.mov] [-s] [-t 11] [-r 0.0001:0.001] [-k]
+ <p>~$ fuzzycactus start ./file.mov
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>2.1
+ <p>-iOS 7.1 crash files (.ips) now supported
+ <p>-Fixed issue where 'stop' action wouldn't work sometimes
+ <p>-Warns if user is running iOS7 and screen is locked, unlocking automatically is borked in iOS7
+ <p>-Better at finding MobileSafari's location on iOS7
+ <p>-Better handling of config file
+ <p>-Better at getting major system version
+ <p>-Clears more cache/cookies from MobileSafari when resetting
+ <p>-Much more accurate installation of missing dependencies
+ <p>-More accurate naming of directories in results
+ <p>-Kpanics are no longer in their own directory, are now a crash type
+ <p>-LowBatteryLog and ResetCounter crashlogs are no longer kept
+ <p>-Organized code, small improvements
+ <br>
+ 2.0.7
+ <p>-Fixed an issue where sometimes the tabs in MobileSafari wouldn't be cleared properly
+ <p>-Faster startup for people running iOS6
+ <p>-Fixed a problem where packages would be marked as 'manually installed', which broke 'apt-get autoremove' & friends
+ <p>-Cleaner output when fuzzing ends
+ <br>
+ 2.0.6
+ <p>-Removed dependency on safariresetter
+ <p>-Fine-tuned slowdown timing
+ <br>
+ 2.0.5
+ <p>-Fixed logging bug
+ <p>-Fixed bug where the type of crash wasn't properly found if the crash was a panic
+ <p>-Fixed really weird bug where having 'slowdown' turned on would eventually cause every file loaded to crash
+ <p>-Made slowdown slightly faster
+ <p>-Fixed an issue where sometimes resuming after a panic would fail entirely
+ <p>-Fixed an issue where resuming after a panic would load the file which caused the panic again, causing a bootloop
+ <p>-Minor UI improvements
+ <br>
+ 2.0.4
+ <p>-Fix log-file truncation after reboot
+ <br>
+ 2.0.3
+ <p>-Fixed crash detection
+ <p>-Fixed duplicate crash issue
+ <br>
+ 2.0.2
+ <p>-Minor bugfixes
+ <br>
+ 2.0.1
+ <p>-Lets you know when using non-default options
+ <p>-Significant speed improvements on startup
+ <p>-Returns the number of crashes so far when attaching with 'watch'
+ <br>
+ 2.0
+ <p>-Consolidated scripts to one file
+ <p>-Crashcleans in realtime as it fuzzes
+ <p>-Auto-removes files that didn't cause crashes
+ <p>-Added the '-k' option, allowing you to resume fuzzing after a kernel panic
+ <p>-Completely re-worked logic
+ <p>-Removed several hundred lines of duplicate code
+ <p>-Fixed 'stop' so that it now works (was previously broken)
+ <p>-Made 'watch' actually consistent
+ <p>-Saves most recently used settings in config file for easy resuming
+ <p>-Reads previous seed, no more 'skipping..' forever
+ <p>-Better handling of file extensions
+ <p>-Process management that is actually real
+ <p>-Better internal handling of errors for a smoother ride
+ <p>-Speed and memory improvements
+ <p>-Help text now makes so much more sense
+ <p>-Better
+ <br>
+ 1.0.7
+ <p>-Fixed directory naming
+ <p>-Fixed pairing algorithm
+ <p>-Fixed hangs in crashclean
+ <p>-Fixed '*' appender
+ <p>-Fixed 'watch' to count processes better
+ <br>
+ 1.0.6
+ <p>-Added 'watch' command to allow you to view current session
+ <p>-Added '-r' option to allow users to specify their own mutation percentages
+ <p>-Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_2.1.1-1_iphoneos-arm.deb
+Size: 13240
+MD5sum: 000d2ca83df7f60fb1913a057f351c52
+SHA1: 24428057792d5a2224d3a3e431186117b148391f
+SHA256: 175333ead5383644b0fc095e6a7def10598fb57be22274babc958e384c8b766d
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage:
+ <p>fuzzycactus [action] [file] [options]
+ <p>fuzzycactus [start/stop/watch/help] [./file.mov] [-s] [-t 11] [-r 0.0001:0.001] [-k]
+ <p>~$ fuzzycactus start ./file.mov
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>2.1.1
+ <p>-iOS 8 support
+ <p>-arm64 support
+ <p>-I don the Hat of Reduced Dependencies for +2 portability
+ <br>
+ <p>2.1
+ <p>-iOS 7.1 crash files (.ips) now supported
+ <p>-Fixed issue where 'stop' action wouldn't work sometimes
+ <p>-Warns if user is running iOS7 and screen is locked, unlocking automatically is borked in iOS7
+ <p>-Better at finding MobileSafari's location on iOS7
+ <p>-Better handling of config file
+ <p>-Better at getting major system version
+ <p>-Clears more cache/cookies from MobileSafari when resetting
+ <p>-Much more accurate installation of missing dependencies
+ <p>-More accurate naming of directories in results
+ <p>-Kpanics are no longer in their own directory, are now a crash type
+ <p>-LowBatteryLog and ResetCounter crashlogs are no longer kept
+ <p>-Organized code, small improvements
+ <br>
+ 2.0.7
+ <p>-Fixed an issue where sometimes the tabs in MobileSafari wouldn't be cleared properly
+ <p>-Faster startup for people running iOS6
+ <p>-Fixed a problem where packages would be marked as 'manually installed', which broke 'apt-get autoremove' & friends
+ <p>-Cleaner output when fuzzing ends
+ <br>
+ 2.0.6
+ <p>-Removed dependency on safariresetter
+ <p>-Fine-tuned slowdown timing
+ <br>
+ 2.0.5
+ <p>-Fixed logging bug
+ <p>-Fixed bug where the type of crash wasn't properly found if the crash was a panic
+ <p>-Fixed really weird bug where having 'slowdown' turned on would eventually cause every file loaded to crash
+ <p>-Made slowdown slightly faster
+ <p>-Fixed an issue where sometimes resuming after a panic would fail entirely
+ <p>-Fixed an issue where resuming after a panic would load the file which caused the panic again, causing a bootloop
+ <p>-Minor UI improvements
+ <br>
+ 2.0.4
+ <p>-Fix log-file truncation after reboot
+ <br>
+ 2.0.3
+ <p>-Fixed crash detection
+ <p>-Fixed duplicate crash issue
+ <br>
+ 2.0.2
+ <p>-Minor bugfixes
+ <br>
+ 2.0.1
+ <p>-Lets you know when using non-default options
+ <p>-Significant speed improvements on startup
+ <p>-Returns the number of crashes so far when attaching with 'watch'
+ <br>
+ 2.0
+ <p>-Consolidated scripts to one file
+ <p>-Crashcleans in realtime as it fuzzes
+ <p>-Auto-removes files that didn't cause crashes
+ <p>-Added the '-k' option, allowing you to resume fuzzing after a kernel panic
+ <p>-Completely re-worked logic
+ <p>-Removed several hundred lines of duplicate code
+ <p>-Fixed 'stop' so that it now works (was previously broken)
+ <p>-Made 'watch' actually consistent
+ <p>-Saves most recently used settings in config file for easy resuming
+ <p>-Reads previous seed, no more 'skipping..' forever
+ <p>-Better handling of file extensions
+ <p>-Process management that is actually real
+ <p>-Better internal handling of errors for a smoother ride
+ <p>-Speed and memory improvements
+ <p>-Help text now makes so much more sense
+ <p>-Better
+ <br>
+ 1.0.7
+ <p>-Fixed directory naming
+ <p>-Fixed pairing algorithm
+ <p>-Fixed hangs in crashclean
+ <p>-Fixed '*' appender
+ <p>-Fixed 'watch' to count processes better
+ <br>
+ 1.0.6
+ <p>-Added 'watch' command to allow you to view current session
+ <p>-Added '-r' option to allow users to specify their own mutation percentages
+ <p>-Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.compilingEntropy.fuzzycactus
+Version: 2.1.5-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),com.innoying.sbutils,bc,lighttpd,adv-cmds,curl,wget,coreutils
+Filename: debs/com.compilingentropy.fuzzycactus_2.1.5-1_iphoneos-arm.deb
+Size: 13624
+MD5sum: 6143d4d0efa5db99292aadef52e76caf
+SHA1: 92a15e54b4dc1c88e453d7fa8ec41b0fcdb2861c
+SHA256: 94c53f1fa699b9158f300b27efc753b0539c0e3f29309ee3ba5443f6eddc25b0
+Section: cmd-tool
+Priority: optional
+Homepage: http://twitter.com/compiledEntropy
+Description: Automated MobileSafari Fuzzer
+ <html>
+ <div align="left">
+ <p>A tool which automates and simplifies the on-device fuzzing of MobileSafari.
+ <p>How it works: This tool can turn anyone's freshly jailbroken device into a fuzzing machine in minutes. All the setup is handled for you.
+ <br>
+ Usage:
+ <p>fuzzycactus [action] [file] [options]
+ <p>fuzzycactus [start/stop/watch/update/help] [./file.mov] [-s] [-t 11] [-r 0.0001:0.001] [-k]
+ <p>~$ fuzzycactus start ./file.mov
+ <p>~$ fuzzycactus stop
+ <p>~$ fuzzycactus watch
+ <p>~$ fuzzycactus update
+ <p>~$ fuzzycactus help
+ <br>
+ The working directory for this tool is /private/var/fuzzycactus/, you can see your results and crashes in there.
+ <p>Start and stop the script over ssh (rather than mobileterminal) to avoid confusing the device as it does its work.
+ <p>Once the script is started you can safely disconnect.
+ <br>
+ Always remember: Before you begin fuzzing, go to 'Settings' > 'General' > 'About' > 'Diagnostics & Usage' and check the "Don't Send" option.
+ <p>Otherwise, all your hard work will go to Apple and you will be sad. =(
+ <br>
+ Read more about how this package works, and see the source code on <a href="http://github.com/compilingEntropy/fuzzycactus">GitHub</a>.
+ <p>Report bugs or ask questions to me on twitter <a href="http://twitter.com/compiledEntropy">@compiledEntropy</a>
+ <br>
+ <br>
+ Changelog:
+ <p>2.1.5
+ <p>-Added an 'update' function, so you can now update with 'fuzzycactus update'.
+ <br>
+ <p>2.1.4
+ <p>-Fix where date was not being pulled from crashes in certain situations
+ <br>
+ <p>2.1.3
+ <p>-Fixed crashtype detection: Apple decided it would be fun to put 'com.apple.whatever' in front of crash filenames in ios8 sometimes
+ <p>-Also made the apt dependency installer less prompty
+ <br>
+ <p>2.1.2
+ <p>-Fixes crash pairing again, not my fault this time (see below)
+ <p>-This release includes a workaround for what appears to be a race condition between the creation of the crash files, and the population of their contents. Sometimes we would try to read from the file in the gap. I have not observed this bug on iOS < 8. (When I wrote this tool to find bugs, this is not what I intended ;) )
+ <br>
+ <p>2.1.1
+ <p>-iOS 8 support
+ <p>-arm64 support
+ <p>-I don the Hat of Reduced Dependencies for +2 portability
+ <br>
+ <p>2.1
+ <p>-iOS 7.1 crash files (.ips) now supported
+ <p>-Fixed issue where 'stop' action wouldn't work sometimes
+ <p>-Warns if user is running iOS7 and screen is locked, unlocking automatically is borked in iOS7
+ <p>-Better at finding MobileSafari's location on iOS7
+ <p>-Better handling of config file
+ <p>-Better at getting major system version
+ <p>-Clears more cache/cookies from MobileSafari when resetting
+ <p>-Much more accurate installation of missing dependencies
+ <p>-More accurate naming of directories in results
+ <p>-Kpanics are no longer in their own directory, are now a crash type
+ <p>-LowBatteryLog and ResetCounter crashlogs are no longer kept
+ <p>-Organized code, small improvements
+ <br>
+ 2.0.7
+ <p>-Fixed an issue where sometimes the tabs in MobileSafari wouldn't be cleared properly
+ <p>-Faster startup for people running iOS6
+ <p>-Fixed a problem where packages would be marked as 'manually installed', which broke 'apt-get autoremove' & friends
+ <p>-Cleaner output when fuzzing ends
+ <br>
+ 2.0.6
+ <p>-Removed dependency on safariresetter
+ <p>-Fine-tuned slowdown timing
+ <br>
+ 2.0.5
+ <p>-Fixed logging bug
+ <p>-Fixed bug where the type of crash wasn't properly found if the crash was a panic
+ <p>-Fixed really weird bug where having 'slowdown' turned on would eventually cause every file loaded to crash
+ <p>-Made slowdown slightly faster
+ <p>-Fixed an issue where sometimes resuming after a panic would fail entirely
+ <p>-Fixed an issue where resuming after a panic would load the file which caused the panic again, causing a bootloop
+ <p>-Minor UI improvements
+ <br>
+ 2.0.4
+ <p>-Fix log-file truncation after reboot
+ <br>
+ 2.0.3
+ <p>-Fixed crash detection
+ <p>-Fixed duplicate crash issue
+ <br>
+ 2.0.2
+ <p>-Minor bugfixes
+ <br>
+ 2.0.1
+ <p>-Lets you know when using non-default options
+ <p>-Significant speed improvements on startup
+ <p>-Returns the number of crashes so far when attaching with 'watch'
+ <br>
+ 2.0
+ <p>-Consolidated scripts to one file
+ <p>-Crashcleans in realtime as it fuzzes
+ <p>-Auto-removes files that didn't cause crashes
+ <p>-Added the '-k' option, allowing you to resume fuzzing after a kernel panic
+ <p>-Completely re-worked logic
+ <p>-Removed several hundred lines of duplicate code
+ <p>-Fixed 'stop' so that it now works (was previously broken)
+ <p>-Made 'watch' actually consistent
+ <p>-Saves most recently used settings in config file for easy resuming
+ <p>-Reads previous seed, no more 'skipping..' forever
+ <p>-Better handling of file extensions
+ <p>-Process management that is actually real
+ <p>-Better internal handling of errors for a smoother ride
+ <p>-Speed and memory improvements
+ <p>-Help text now makes so much more sense
+ <p>-Better
+ <br>
+ 1.0.7
+ <p>-Fixed directory naming
+ <p>-Fixed pairing algorithm
+ <p>-Fixed hangs in crashclean
+ <p>-Fixed '*' appender
+ <p>-Fixed 'watch' to count processes better
+ <br>
+ 1.0.6
+ <p>-Added 'watch' command to allow you to view current session
+ <p>-Added '-r' option to allow users to specify their own mutation percentages
+ <p>-Updated the '-t' regex to allow decimal time values
+ </div>
+ </html>
+Author: compilingEntropy
+Dev: compilingEntropy
+Name: Fuzzycactus
+
+Package: com.nexuist.webzzuf
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: lighttpd, coreutils
+Filename: debs/com.nexuist.webzzuf_0.1_iphoneos-arm.deb
+Size: 1260
+MD5sum: b14051a58af85e743a121cb7fb55c1e8
+SHA1: d78ba7739a6476b7b81d0f9e73c614288057331b
+SHA256: fb064d546d2ed605b7cddc85f4fc3d3ab146ba3ea8b41d95fb180eec5d21cb71
+Section: cmd-tool
+Priority: optional
+Description: A server that automatically fuzzes .mov files per request.
+Author: Nexuist
+Dev: Nexuist
+Name: webzzuf
+
+Package: com.uroboro.tools
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: uroboro<uroboro.845@gmail.com>
+Filename: debs/com.uroboro.tools_0.0.1_iphoneos-arm.deb
+Size: 19732
+MD5sum: 5377f7ec01b71c007167bc3a211ebd48
+SHA1: c92775a2af348a44260fcf5d5be5b12a8731a287
+SHA256: 2f2db3207db50d747bcbecc8f05e815d751a11a99053a357e2f9147e3a2d0fb2
+Section: Development
+Description: CLI tools to aid jailbreak development
+Tag: role::hacker
+Author: uroboro
+Name: Uroboro's tools
+
+Package: com.uroboro.tools
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: uroboro<uroboro.845@gmail.com>
+Filename: debs/com.uroboro.tools_0.0.2_iphoneos-arm.deb
+Size: 11874
+MD5sum: adba973e67a0c5dc49fc2ad0d07f3f60
+SHA1: f4a016c2528e0ec6b8e99c10dafe7c20e8724454
+SHA256: 4b0d0e57bb54fd8f284da718edf16dadf90b9cba87d5dedc011db820694462a6
+Section: Development
+Description: CLI tools to aid jailbreak development (hexdiff)
+Tag: role::hacker
+Author: uroboro
+Name: Uroboro's tools
+
+Package: com.uroboro.tools
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: uroboro<uroboro.845@gmail.com>
+Filename: debs/com.uroboro.tools_0.0.3_iphoneos-arm.deb
+Size: 16370
+MD5sum: a0c3804c149083e030457bcafcab0131
+SHA1: 58f3aaf485f4bdd5d0c6540b7b0370b8e678c104
+SHA256: 767e5372bb71272ab23f120f64f0b0e5cb907ccc22c60eb0d023243ad574a7c7
+Section: Development
+Description: CLI tools to aid jailbreak development (hexdiff)
+Tag: role::hacker
+Author: uroboro
+Name: Uroboro's tools
+
+Package: com.uroboro.tools
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: uroboro<uroboro.845@gmail.com>
+Filename: debs/com.uroboro.tools_0.0.5_iphoneos-arm.deb
+Size: 21098
+MD5sum: 9ce7342a9ef0bcd60fb25e2bbf663471
+SHA1: d9c881f2bb9a6718af21676ffde129f9c1dd9fed
+SHA256: b370a6c9bae2ce31655b346d4a6793ce424d483c6f96d8fd15a85a28a195fbc0
+Section: Development
+Description: CLI tools to aid jailbreak development (hexdiff)
+Tag: role::hacker
+Author: uroboro
+Name: Uroboro's tools
+
+Package: com.uroboro.tools
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: uroboro<uroboro.845@gmail.com>
+Filename: debs/com.uroboro.tools_0.0.7_iphoneos-arm.deb
+Size: 19986
+MD5sum: 81d0a4e5490311b39d2fc1dd0988b185
+SHA1: 2f040b6b79bfec8408cc2bfce4df94a67cc04a20
+SHA256: c399e1edafe358a2a10261d103f9213a3e9963bd285aae7070eeba8729415699
+Section: Development
+Description: CLI tools to aid jailbreak development (hexdiff)
+Tag: role::hacker
+Author: uroboro
+Name: Uroboro's tools
+
+Package: com.uroboro.tools
+Version: 0.0.7-1
+Architecture: iphoneos-arm
+Maintainer: uroboro<uroboro.845@gmail.com>
+Filename: debs/com.uroboro.tools_0.0.7-1_iphoneos-arm.deb
+Size: 20128
+MD5sum: 15897e9579f38cb1f080550e1a995056
+SHA1: 828ef916bed1b1757231dd787c7f65f7b6b6ac3e
+SHA256: 6067831860274e36811c9547f65efe73fe69d6c5671e34359c365d957a5d79d5
+Section: Development
+Description: CLI tools to aid jailbreak development (hexdiff)
+Tag: role::hacker
+Author: uroboro
+Name: Uroboro's tools
+
+Package: com.uroboro.tools
+Version: 0.0.7-5
+Architecture: iphoneos-arm
+Maintainer: uroboro<uroboro.845@gmail.com>
+Filename: debs/com.uroboro.tools_0.0.7-5_iphoneos-arm.deb
+Size: 18872
+MD5sum: 4cc02a90ffa4f37b6351c5f87b63b40e
+SHA1: 43cc83dbd6267093754bc246ef545166ca50168e
+SHA256: 0d115199888e995962b8b1292981dea3c34310940d89ce981743b3547b810de8
+Section: Development
+Description: CLI tools to aid jailbreak development (hexdiff)
+Tag: role::hacker
+Author: uroboro
+Name: Uroboro's tools
+
+Package: com.uroboro.tools
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: uroboro<uroboro.845@gmail.com>
+Filename: debs/com.uroboro.tools_0.0.8_iphoneos-arm.deb
+Size: 14934
+MD5sum: e0f66614ec65346efa0577aa918541d5
+SHA1: c2be97efa7e82abf858b7044526909e38c07cae5
+SHA256: 8fa26481ee76372933125fb73e924e2dceeb6203b53587bb66becf6ec8838d3e
+Section: Development
+Description: CLI tools to aid jailbreak development (hexdiff)
+Tag: role::hacker
+Author: uroboro
+Name: Uroboro's tools
+
+Package: kloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 6.0)
+Conflicts: cy+cpu.arm64
+Filename: debs/kloader-1.0.0.deb
+Size: 7982
+MD5sum: 16347bf66c0c84e4870d2cbba42d1dee
+SHA1: 58194352911aa3ae03dafbc88ddb6f247818ee8f
+SHA256: 1fdbaf24db617955afd30244884f99f15be58763a723eb5d81a07b52beae42f4
+Section: System
+Priority: optional
+Homepage: https://github.com/xerub/ios-kexec-utils/blob/master/kloader.c
+Description: Don't install if you don't know what that is
+ Do not install this package if you don't know what this is.
+ Installing this on a production device is not recommended.
+Author: winocm, xerub
+Name: kloader
+
+Package: libcrippy-1.0.0
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 6.0)
+Filename: debs/libcrippy-1.0.0.deb
+Size: 15858
+MD5sum: d0057e3946594ac6c18b7112383955e5
+SHA1: 175bfec615f2c802a1c0c74ffca649664f036001
+SHA256: f1f3253d43601acbacd12071e1de880a83b2b987b6238a131fc84ef813928465
+Section: Development
+Priority: optional
+Homepage: https://www.openjailbreak.org/projects/libcrippy-1-0
+Author: Drew Alden, Ethan Laur, Joshua Lee Tucker, L0 Ki, Patroklos Argyroudis
+Name: libcrippy-1.0.0
+
+Package: libpartialzip-1.0.0
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 6.0), libcrippy-1.0.0
+Filename: debs/libpartialzip-1.0.0.deb
+Size: 6830
+MD5sum: ab609167a1653beda05eb2876f2500bd
+SHA1: cf24410d852a756df9869e99dc3e0075baed092d
+SHA256: 2a0417afeaf3368285d409c396492158632a6c44e8051bc12f2bdb7b8ff0f1d6
+Section: Development
+Priority: optional
+Homepage: https://www.openjailbreak.org/projects/libcrippy-1-0
+Author: Drew Alden, Ethan Laur, Joshua Lee Tucker, L0 Ki, Patroklos Argyroudis
+Name: libpartialzip-1.0.0
+
+Package: net.tihmstar.etasonuntether
+Version: 1.3.0
+Architecture: iphoneos-arm
+Depends: firmware (= 8.4.1)
+Conflicts: cy+cpu.arm64
+Filename: debs/net.tihmstar.etasonuntether-1.3.0.deb
+Size: 22510
+MD5sum: 093e852875deb7d776cf972c7867a88f
+SHA1: 9c5e9a8c623ea95836d992044eeefbb3010f4c0e
+SHA256: c717b5a1d8f4b3bc0351e84313643dff94ed746b2bd941430b66bec5ddbd400c
+Section: System
+Priority: required
+Description: Untether for 8.4.1 32bit
+ <br>
+ Etason Untether is an untether package for 32bit devices running 8.4.1
+ <p>It exploits the Pegasus jsc bug and bootstraps Etason jailbreak.
+ <br>
+ KNOWN BUGS:
+ <p>- openssh daemon doesn't start
+ <br>
+ CHANGELOG:
+ <p>v1.3 adds support for iPad4
+ <p>v1.2 adds support for iPhone5
+ <p>v1.1 fixed icon cache bug
+ <br>
+ Features:
+ Logging is disabled by default, however you can enable it by creating a file at
+ <p>/var/logs/untetherhomedepot.log (MAKE SURE TO "chmod +w"!!!)
+ <br>
+ <p>Also there is an attempt of making a "bootloop protection"
+ <p>At boot a file is created at /var/logs/untetherhomedepotLoopProtection.txt
+ <p>which contains the number of times the exploit failed.
+ <p>If the number exceeds "10" then the untether boots without executing the kernelexploit.
+ <p>On every successfull boot the file is deleted.
+ <p>If you want to deactivate untether then run:
+ <p>"echo '10' > /var/logs/untetherhomedepotLoopProtection.txt"
+ <br>
+Author: tihmstar
+Dev: tihmstar
+Name: Etason untether
+
+Package: net.tihmstar.untetherhomedepot
+Version: 1.4.2
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.1), firmware (<= 9.3.4)
+Conflicts: cy+cpu.arm64
+Replaces: net.tihmstar.betterhomedepot
+Filename: debs/net.tihmstar.untetherhomedepot.deb
+Size: 22650
+MD5sum: 94e2ea5ebaac343ffc1a7514accc5c24
+SHA1: 375628b9348b730bf75108e5675ed74295909b28
+SHA256: 0988d513c1d7960f63b7944f7d7baae43aa49e63c8995411dd24ad7b1254e5f6
+Section: System
+Priority: optional
+Description: Untether for 9.1-9.3.4 32bit
+ <br>
+ UntetherHomeDepo is an untether package for 32bit devices running 9.1-9.3.4
+ <p>It exploits the Pegasus jsc bug and bootstraps HomeDepot jailbreak.
+ <br>
+ <p>THIS MIGHT BOOTLOOP YOUR DEVICE!!!!!
+ <p>DO NOT INSTALL IF YOU ARE AFRAID OF BOOTLOOPS!
+ <br>
+ KNOWN BUGS:
+ <p>- openssh daemon doesn't start
+ <br>
+ CHANGELOG:
+ <p>v1.4 added support for 9.2.1
+ <p>     Refusing to install when stage1 doesn't work (to prevent bootloops)
+ <p>v1.3 fixed lwvm patch (bug where 9.3.1 rootfs was ro)
+ <p>v1.2 fixed a bug where having a passcode would disable untether
+ <p>v1.1 fixed deepsleep bug
+ <br>
+ Currently supported device:
+ <p>iPhone4,1: 9.3.4
+ <br>
+ Features:
+ Logging is disabled by default, however you can enable it by creating a file at
+ <p>/var/logs/untetherhomedepot.log (MAKE SURE TO "chmod +w"!!!)
+ <br>
+ <p>Also there is an attempt of making a "bootloop protection"
+ <p>At boot a file is created at /var/logs/untetherhomedepotLoopProtection.txt
+ <p>which contains the number of times the exploit failed.
+ <p>If the number exceeds "10" then the untether boots without executing the kernelexploit.
+ <p>On every successfull boot the file is deleted.
+ <p>If you want to deactivate untether then run:
+ <p>"echo '10' > /var/logs/untetherhomedepotLoopProtection.txt"
+ <br>
+ There is an offsets.json file in /untether
+ <p>You should really not touch any of the files shipped with this package!
+ <p>However if you don't care about your device bootlooping, you
+ <p>might want to try your luck and add offsets to the file.
+ <p>But please keep in mind:
+ <p>MODIFYING THIS FILE CAN CAUSE BOOTLOOPS!
+ <br>
+ FINAL WARNING:
+ <p>INSTALL AT YOUR OWN RISK!!!!!
+Author: tihmstar
+Dev: tihmstar
+Name: UntetherHomeDepot
+
+Package: net.tihmstar.untetherhomedepotoffsets
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Pre-Depends: net.tihmstar.untetherhomedepot (>= 1.4.2)
+Conflicts: cy+cpu.arm64
+Filename: debs/net.tihmstar.untetherhomedepotoffsets.deb
+Size: 2330
+MD5sum: f284b5c82faca2168f79752d66631e70
+SHA1: 04fec8b0fae7d14b9e2dab7eea7b19310c8cc2e3
+SHA256: 58bebcdd287a598d0ed58bd36decc1dfbc5a2978cdb4297c8d707d01ed27ce61
+Section: System
+Priority: optional
+Homepage: https://gist.github.com/stek29/52b14b851089895fa66fde383d1bdbe5
+Description: Community Offsets for UntetherHomeDepot
+ <br>
+ UntetherHomeDepot is an untether package for 32bit devices running 9.1-9.3.4
+ <p>However it only ships with configuration for iPhone4,1 on 9.3.4
+ <p>This Package was created by the jailbreak community with the
+ <p>great initiative of @stek29 and aims to add offsets for every
+ <p>other device/ios combination.
+ <br>
+ <p>THIS MIGHT BOOTLOOP YOUR DEVICE!!!!!
+ <p>DO NOT INSTALL IF YOU ARE AFRAID OF BOOTLOOPS!
+ <br>
+ Many of the offsets were tested by the community, however
+ <p>some of them are still untested (but should work).
+ <p>For more information on which offsets have been tested
+ <p>and whether you help is needed, please check following gist:
+ <p>https://gist.github.com/stek29/52b14b851089895fa66fde383d1bdbe5
+ <br>
+ Info:
+ <p>If this package bootloops your device, try triggering bootloopprotection
+ <p>by rebooting at least 10 times!
+ <br>
+ FINAL WARNING:
+ <p>TIHMSTAR IS NOT RESPONSIBLE FOR THE CORRECTNESS OF THE SHIPPED OFFSETS!
+ <p>INSTALL AT YOUR OWN RISK!!!!!
+Author: stek29
+Name: Community Offsets
+
+Package: org.tihmstar.3dtsettings
+Version: 0.0.1-33
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/org.tihmstar.3dtsettings_0.0.1-33_iphoneos-arm.deb
+Size: 6268
+MD5sum: 6c8225ccb9977a9b764f30ecef04bb1b
+SHA1: d592331c902b3234060755daa1a5e1c204c5ad85
+SHA256: 849525c7c096aea609f5650f548a044e31c2e93a943c9153d325acc2dce33a32
+Section: Tweaks
+Description: 3D Touch shortcuts for settings
+ Adds 3D Touch shortcuts to settings app
+Author: tihmstar
+Name: 3DTSettings
+
+Package: org.tihmstar.3dtsettings
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/org.tihmstar.3dtsettings_0.0.2-1_iphoneos-arm.deb
+Size: 6268
+MD5sum: bbe86529e88eb78fcd78f6d0e42a3fdc
+SHA1: 1b918d235c0445ebac780eb8274f3b46ebeafe1b
+SHA256: bb6236d70140dbbfde793c5343fec630b2df11e4dd66227656aed754f04864a0
+Section: Tweaks
+Description: 3D Touch shortcuts for settings
+ Adds 3D Touch shortcuts to settings app
+Author: tihmstar
+Name: 3DTSettings
+
+Package: org.tihmstar.3dtsettings
+Version: 0.0.3-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/org.tihmstar.3dtsettings_0.0.3-1_iphoneos-arm.deb
+Size: 5800
+MD5sum: a215708f0e4613fad01d4f0f258d0e7a
+SHA1: 8a63868e7ff8252e40cd859f21828ccb9a047fbb
+SHA256: 7beda9975d704c2789eca9034246f6d8bcdb70294349647d948d948a3f596644
+Section: Tweaks
+Description: 3D Touch shortcuts for settings
+ Adds 3D Touch shortcuts to settings app
+Author: tihmstar
+Name: 3DTSettings
+
+Package: org.tihmstar.3dtsettings
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/org.tihmstar.3dtsettings_0.0.4-1_iphoneos-arm.deb
+Size: 6282
+MD5sum: e9bb0d04939b7cbf7592e34a894d7f73
+SHA1: 6350427da9d1c6ab4aa78f1980414b3d0069e603
+SHA256: 7b65c8ac1d34e88755ad931b841c2a6086745f439e5935fa60f4ac41ffde9d8a
+Section: Tweaks
+Description: 3D Touch shortcuts for settings
+ Adds 3D Touch shortcuts to settings app
+Author: tihmstar
+Name: 3DTSettings
+
+Package: org.tihmstar.3dtsettings
+Version: 0.0.5-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/org.tihmstar.3dtsettings_0.0.5-1_iphoneos-arm.deb
+Size: 6384
+MD5sum: 805c5898a2c2abb1e6b34eb840d02cbc
+SHA1: 359f84b4d413d7e02a339538230ff2c320147914
+SHA256: 647d909c008826fc6a010d459342973e3ba2d3c188f570c8c3929852b9a297cd
+Section: Tweaks
+Description: 3D Touch shortcuts for settings
+ Adds 3D Touch shortcuts to settings app
+Author: tihmstar
+Name: 3DTSettings
+
+Package: org.tihmstar.3dtsettings
+Version: 0.0.6-4
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/org.tihmstar.3dtsettings_0.0.6-4_iphoneos-arm.deb
+Size: 7214
+MD5sum: b3a50f85bf0ae54f583fc2728bfe7e8f
+SHA1: 607831f9d08e616ef46ae01e74bb255714cb8ea8
+SHA256: 5f9b232970d2e8949ca49365bf8ad5fc41207ae8d7deb0533cd8e46d15721325
+Section: Tweaks
+Description: 3D Touch shortcuts for settings
+ Adds 3D Touch shortcuts to settings app
+Author: tihmstar
+Name: 3DTSettings
+
+Package: org.tihmstar.CGFix
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/org.tihmstar.CGFix_1.0-1_iphoneos-arm.deb
+Size: 5352
+MD5sum: 30e3994ffd0d744cda70f227266ccefb
+SHA1: 530d581a1bedff13fe8087474c2eed2b6864345f
+SHA256: 40fda4a29c53ec559b375779f9ce63a639529f30687d306b5dc964f8887d7f18
+Section: System
+Priority: optional
+Homepage: tihmstar.net
+Description: Fix for CVE-2014-4377
+    This package contains a CydiaSubstrate-based fix for CVE-2014-4377
+    A CoreGraphics Memory Corruption Bug, which allows
+    arbitrary remote code execution.
+    It is patched in iOS 8+ but not in 7.1.2 and below
+    If you are Jailbroken on 7.1.2 or below, you should install this package.
+    More Information can be found here: http://blog.binamuse.com/2014/09/coregraphics-memory-corruption.html
+    A livedemo can be found here: http://www.binamuse.com/exploits/CoreGraphicsPoC/index.html
+    Sourcecode is available on my Github: https://github.com/tihmstar/CVE-2014-4377-Fix
+Author: tihmstar
+Dev: tihmstar
+Name: CGFix
+
+Package: org.tihmstar.CGFix
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/org.tihmstar.CGFix_1.0-2_iphoneos-arm.deb
+Size: 5320
+MD5sum: a63489a1f4b514bc0ae17d4cc7a75c12
+SHA1: e8c890481bcd498d873573128112f12f0a899342
+SHA256: 20e1918a16b4924afd9079f17e252f96cc886fbba271e3e40af9a9f8380d3ecc
+Section: System
+Priority: optional
+Homepage: tihmstar.net
+Description: Fix for CVE-2014-4377
+    This package contains a CydiaSubstrate-based fix for CVE-2014-4377
+    A CoreGraphics Memory Corruption Bug, which allows
+    arbitrary remote code execution.
+    It is patched in iOS 8+ but not in 7.1.2 and below
+    If you are Jailbroken on 7.1.2 or below, you should install this package.
+    More Information can be found here: http://blog.binamuse.com/2014/09/coregraphics-memory-corruption.html
+    A livedemo can be found here: http://www.binamuse.com/exploits/CoreGraphicsPoC/index.html
+    Sourcecode is available on my Github: https://github.com/tihmstar/CVE-2014-4377-Fix
+Author: tihmstar
+Dev: tihmstar
+Name: CGFix
+
+Package: org.tihmstar.DVIA-JBDetectionMethod1Patch
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Installed-Size: 48
+Depends: mobilesubstrate
+Filename: debs/org.tihmstar.DVIA-JBDetectionMethod1Patch_0.1-1_iphoneos-arm.deb
+Size: 2328
+MD5sum: 90260b56318b886757009cbfe9631245
+SHA1: 8f1f38703b7ca5e3a86f9503e694e2c9650d631a
+SHA256: e3266c621ba869d9bd01e5004680665a669bfdea857623507bd147a0acb19912
+Section: Tweaks
+Description: Solves a challange in DVIA
+ By installing this Package the Login Method 1 Challange
+ in the Runtime Manipulation section of DVIA is solved by
+ using mobilesubstrate :D
+ have fun :P
+Author: tihmstar
+Name: DVIA-JBDetection-Method1-Patch
+
+Package: org.tihmstar.DVIA-JBDetectionMethod1Patch
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Installed-Size: 48
+Depends: mobilesubstrate
+Filename: debs/org.tihmstar.DVIA-JBDetectionMethod1Patch_0.1-2_iphoneos-arm.deb
+Size: 2318
+MD5sum: 9338c149e77480a1f1d59a88103d0ec8
+SHA1: 99ab89b7d942ac6f3c0121f947886eb2d7d7a0b8
+SHA256: f37f8ad9ba597dc8d69001d0d1a7f46ca2c2ebcc50da8df17be43b04f085531c
+Section: Tweaks
+Description: Solves a challange in DVIA
+ By installing this Package the Login Method 1 Challange
+ in the Runtime Manipulation section of DVIA is solved by
+ using mobilesubstrate :D
+ have fun :P
+Author: tihmstar
+Name: DVIA-JBDetection-Method1-Patch
+
+Package: org.tihmstar.NoJBDetect
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate, applist
+Filename: debs/org.tihmstar.NoJBDetect_0.1-2_iphoneos-arm.deb
+Size: 22474
+MD5sum: 60a3025047c316d5a1baab51a4faa644
+SHA1: b4c6feb5e3f833ff839292cf0cb3ea8ce444f5ce
+SHA256: 1353dd72f2b9f03cf19aecb3e90f0ff2554f4c45c4e1abaf9b8f3cfdf1ad11ae
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: patches jailbreak detection
+    Prevents apps from detection a Jailbreak
+Author: tihmstar
+Dev: tihmstar
+Name: NoJBDetect
+
+Package: org.tihmstar.NoJBDetect
+Version: 0.1-3
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate, applist
+Filename: debs/org.tihmstar.NoJBDetect_0.1-3_iphoneos-arm.deb
+Size: 42054
+MD5sum: 6eebdce73b7f71835dc57d6cdb75824f
+SHA1: a89baae6cb096ba68cd519ea19b947494c00b4d6
+SHA256: e5549a5702ab4a05330990d91e5d17e5b3e4a52f9c1782d701b73720d6672a4f
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: patches jailbreak detection
+    Prevents apps from detecting a Jailbreak
+Author: tihmstar
+Dev: tihmstar
+Name: NoJBDetect
+
+Package: org.tihmstar.OKPasscode
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, shell-cmds
+Filename: debs/org.tihmstar.OKPasscode_1.1_iphoneos-arm.deb
+Size: 15856
+MD5sum: 9a1dbad2d7c6528de859617cdd091772
+SHA1: 85b7bc02ece98f26016ed0663a093c2127899563
+SHA256: a66e5fb7ffc5b6e78e92c9864cb59d8923c4a450b709e6d92d681eb3cb9c90e3
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: auto OK passcode
+    Unlocks device when correct passcode entered, without the need to press OK
+    Passcode is cached on first unlock after respring.
+    No need to unsecurely store passcode on filesystem.
+    No annoying debug logs in deviceconsole.
+    Killswitch available in settings app, enabled by default.
+    Respring required if tweak is turned on/off
+    Tested on iOS 7.1 and iOS 8.1
+Author: tihmstar
+Dev: tihmstar
+Icon: file:///Library/PreferenceLoader/Preferences/OKPasscodeIcon.png
+Name: OKPasscode
+
+Package: org.tihmstar.Reconnect-Signals
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator,  com.a3tweaks.flipswitch
+Filename: debs/org.tihmstar.Reconnect-Signals_1.0-4_iphoneos-arm.deb
+Size: 19868
+MD5sum: 2bd7e4d4d4b23aaae37b5c5437926bca
+SHA1: 7a59fcbb12c53df30a1aa727f3149e80cbac8e10
+SHA256: 7d0a542b0ea3981d458606e165cb51b0d438ad79fc2faa72d59f9c5090c4c140
+Section: Tweaks
+Priority: optional
+Homepage: http://tihmstar.org
+Description: swipe statusbar to reconnnect signals
+    Swipe statusbar to the right to reconnect WiFi + 3G/LTE
+    If you have bad signal E for example, just swipe on your statusbar
+    to re-connect and possibly get better signal :D
+Author: tihmstar
+Dev: tihmstar
+Name: Reconnect-Signals
+
+Package: org.tihmstar.Reconnect-Signals
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator,  com.a3tweaks.flipswitch
+Filename: debs/org.tihmstar.Reconnect-Signals_1.0-5_iphoneos-arm.deb
+Size: 20156
+MD5sum: 3b28add1210774815a85a022fc648e11
+SHA1: c8db38005ded87c481bb1cea4c13cb7e3bfba50e
+SHA256: 3e2a95f6ca87d1ec22373254174237489659064fd953680895a6005dedaeb251
+Section: Tweaks
+Priority: optional
+Homepage: http://tihmstar.org
+Description: swipe statusbar to reconnnect signals
+    Swipe statusbar to the right to reconnect WiFi + 3G/LTE
+    If you have bad signal E for example, just swipe on your statusbar
+    to re-connect and possibly get better signal :D
+Author: tihmstar
+Dev: tihmstar
+Name: Reconnect-Signals
+
+Package: org.tihmstar.Reconnect-Signals
+Version: 1.0-7
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator,  com.a3tweaks.flipswitch
+Filename: debs/org.tihmstar.Reconnect-Signals_1.0-7_iphoneos-arm.deb
+Size: 15996
+MD5sum: 69d6c050212f77b25da04303bd5e817f
+SHA1: 76393caa7192d9f010c249996fb1641717bb3612
+SHA256: d70c5702bfe622461a52385455900f4b9c41359b6564aa84aed7917f328cab84
+Section: Tweaks
+Priority: optional
+Homepage: http://tihmstar.org
+Description: swipe statusbar to reconnnect signals
+    Swipe statusbar to the right to reconnect WiFi + 3G/LTE
+    If you have bad signal E for example, just swipe on your statusbar
+    to re-connect and possibly get better signal :D
+Author: tihmstar
+Dev: tihmstar
+Name: Reconnect-Signals
+
+Package: org.tihmstar.Reconnect-Signals
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator,  com.a3tweaks.flipswitch
+Filename: debs/org.tihmstar.Reconnect-Signals_1.0-8_iphoneos-arm.deb
+Size: 10226
+MD5sum: 4fd6fbffb38e08803e0e31d369cd9ebc
+SHA1: dff56792020c5d2fea20837f6a4d0f0939970bdb
+SHA256: b43857c08baafd07df0e99e775117f27a2b8f8d162cdd5ae145857de3899c384
+Section: Tweaks
+Priority: optional
+Homepage: http://tihmstar.org
+Description: swipe statusbar to reconnnect signals
+    Swipe statusbar to the right to reconnect WiFi + 3G/LTE
+    If you have bad signal E for example, just swipe on your statusbar
+    to re-connect and possibly get better signal :D
+Author: tihmstar
+Dev: tihmstar
+Name: Reconnect-Signals
+
+Package: org.tihmstar.amazonVideoNoParentalRestriction
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/org.tihmstar.amazonVideoNoParentalRestriction_1.0-1_iphoneos-arm.deb
+Size: 4950
+MD5sum: 8bf988f9f724d8ebfdab520c30cee516
+SHA1: 92a612c218d0f2def417d0e7edc8546028ba38a8
+SHA256: cb60ca7aac3204cd7c2a96461e243272081b39c434799cac1a24a977a655c8f3
+Section: System
+Priority: optional
+Author: tihm
+Name: amazonVideoNoParentalRestriction
+
+Package: org.tihmstar.clockySlider
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/org.tihmstar.clockySlider_1.0-2_iphoneos-arm.deb
+Size: 5218
+MD5sum: 45eaae8673b185915d61c9023972c867
+SHA1: a03492ecbdde38c03d0eb51075efa285d8b9c8ee
+SHA256: 73b30711237ec50af86bbe6eba0fc6f2462083743124e30194e7712b2eab9c49
+Section: Tweak
+Priority: optional
+Homepage: tihmstar.net
+Description: time in slider + hide dateview
+    This tweak got requested by a friend of mine.
+    It hides the dateView on lockscreen and displays<br>
+    the current date + time in the unlockslider<br>
+    <br>
+    A killswitch "might" come in the next update
+Author: tihmstar
+Dev: tihmstar
+Name: clockySlider
+
+Package: org.tihmstar.deadPengu1n
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: bash, firmware (>= 7.0)
+Filename: debs/org.tihmstar.deadPengu1n.deb
+Size: 247856
+MD5sum: 96730d88279ae8a480fe18ec305182ba
+SHA1: bab61301957c4b541d91499e096b7cadd635954c
+SHA256: 796521abf18d4374a5f4e540887c805131aa8e58c742b9876d76081b0dde6041
+Description: deadPengu1n is a pangu untether bug
+ This package is harmless, promised!
+ All it does is showing a cute little penguin.
+ Oh wait, if you are jailbroken using
+ Pangu, then it will kernelpanic your device,
+ but that's it.
+ See? no worries ;P
+ feel free to install and try it out yourself ;)
+ NOTICE: you will need to reboot after install,
+ because i suck at updateing uicache,
+ so don't panic ;P
+Author: tihmstar
+Name: deadPengu1n
+
+Package: org.tihmstar.deezerNoAdTracking
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/org.tihmstar.deezerNoAdTracking_0.1-1_iphoneos-arm.deb
+Size: 9544
+MD5sum: 1e9e599ac1a7c910ded9eac77b7b0270
+SHA1: 7645f31cb7fbcbf6bdf3b863c31ffd2668f082fd
+SHA256: 0c7a8ab9ee9df0c2a00ad4b0650582b78ede49012454f340250a56f251967c85
+Section: System
+Priority: optional
+Description: Don't let deezer ads track you
+    Protect your privacy, by disabling deezer ad-tracking
+Author: tihmstar
+Dev: tihmstar
+Name: deezerNoAdTracking
+
+Package: org.tihmstar.fuzzyparrot
+Version: 0.1.0.2
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),lighttpd,php,curl
+Filename: debs/org.tihmstar.fuzzyparrot_0.1.0.2_iphoneos-arm.deb
+Size: 1440
+MD5sum: e8ce19dd60607ac45deeb83ea5d2e123
+SHA1: 934be511c407f3ce70aaee3d48f5472985f5ac5b
+SHA256: 748aba2104b7399c06bdcdd9e595df91a492023d254a194ff85c7baa34c43f63
+Section: cmd-tool
+Priority: optional
+Description: Semi-automated remote MobileSafari fuzzer
+ A tool which lets you fuzz unjailbroken iOS Devices,
+ simply put a file called "test.mov" to /var/www and
+ connect with your unjailbroken devices to the ip,
+ of then device running that tool, with mobilesafari
+Author: tihmstar
+Name: Fuzzyparrot
+
+Package: org.tihmstar.fuzzyparrot
+Version: 0.1.0.3
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0),lighttpd,php,curl
+Filename: debs/org.tihmstar.fuzzyparrot_0.1.0.3_iphoneos-arm.deb
+Size: 1810
+MD5sum: 8a7d909cd618d5aad7f32833e4b55ff6
+SHA1: a85b7533543001ff6cea235f32bb8f37ba3fd931
+SHA256: 3ead0589be8cd96adb584ee7d5219b3d1c5289addeedd8d1ebee8256b1cfea61
+Section: cmd-tool
+Priority: optional
+Description: Semi-automated remote MobileSafari fuzzer
+ A tool which lets you fuzz unjailbroken iOS Devices,
+ simply put a file called "test.mov" to /var/www and
+ connect with your unjailbroken devices to the ip,
+ of then device running that tool, with mobilesafari
+Author: tihmstar
+Name: Fuzzyparrot
+
+Package: org.tihmstar.hideMyBadge
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/org.tihmstar.hideMyBadge_0.1-1_iphoneos-arm.deb
+Size: 7134
+MD5sum: 2104d1758c5f7ea5658daa3393a1ed88
+SHA1: 651638f7be1ea47e0d0886c6ee7ba6d4e0dd06fc
+SHA256: 61bc448a6d7901ad2c663c1663e9db3c84a28f861aa89571588f5218a5a7564f
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: Hide badges on per app base
+    Tap the badge to see the "X"
+    Tap the "X" to clear the badge until you open the app next time.
+Author: tihmstar
+Dev: tihmstar
+Icon: http://repo.tihmstar.net/Icons/hideMyBadgeIcon.png
+Name: hideMyBadge
+
+Package: org.tihmstar.hideMyBadge
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/org.tihmstar.hideMyBadge_0.1-2_iphoneos-arm.deb
+Size: 7144
+MD5sum: 3a0a7f38f90e8786abda45ade0ff2b00
+SHA1: 1836752338a3536d0fd7cad231f2b4abe3f4fb0e
+SHA256: b9b58df77843ea4791414a5dcc0dd6ad8e768d4f0040bc315fd64467f9951d9a
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: Hide badges on per app base
+    Tap the badge to see the "X"
+    Tap the "X" to clear the badge until you open the app next time.
+Author: tihmstar
+Detailcfg: http://repo.tihmstar.net/detailcfg
+Dev: tihmstar
+Icon: file:///var/mobile/icon.png
+Name: hideMyBadge
+
+Package: org.tihmstar.jitterBoard
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs/org.tihmstar.jitterBoard_1.0-1_iphoneos-arm.deb
+Size: 24040
+MD5sum: 3cfd39a985f660e8a551af4cb6a953e1
+SHA1: 7811b7c5ca49c70965b7494e9c51c3cc06a3afb2
+SHA256: cf2b3172657830ab383a004326e912c503dbf5e055d0ac3f2be00cd11804c220
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: Make icons always jitter
+    Make the icons on the SpringBoard always jitter, as if you were in delete mode.
+    Tweak can be disabled in settings app, but needs respring.
+Author: tihmstar
+Dev: tihmstar
+Name: jitterBoard
+
+Package: org.tihmstar.kDFUApp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: openssl, libcrippy-1.0.0, libpartialzip-1.0.0, curl, kloader, firmware (>= 6.0)
+Filename: debs/org.tihmstar.kDFUApp-1.0.0.deb
+Size: 80582
+MD5sum: f0e20bdcf4bd1050d4e2b0ce9848afa0
+SHA1: fcc3f9052a55be247ff5cf42b662b9dbe2f4804a
+SHA256: 42b745f29412afb6e51518ef953a6781fad56d45d322f66211babb6474807d37
+Section: System
+Priority: optional
+Description: easy way to get into kDFU mode
+ kDFUApp is an easy way to get into kDFU mode
+ simply activate all switches and press the button
+ <br>
+ <br>Currently compatible with:
+ <br>iPhone3,1 / iPhone3,2 / iPhone3,3 / iPhone4,1 / iPhone5,1 / iPhone5,2 / iPhone5,4
+ <br>iPad2,1 / iPad2,2 / iPad2,3 / iPad3,1 / iPad3,3
+ <br>
+ <br>NOT COMPATIBLE WITH 64BIT DEVICES!
+Author: tihmstar
+Dev: tihmstar
+Name: kDFUApp
+
+Package: org.tihmstar.kDFUApp
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: openssl, libcrippy-1.0.0, libpartialzip-1.0.0, curl, kloader, firmware (>= 6.0)
+Filename: debs/org.tihmstar.kDFUApp-1.0.1.deb
+Size: 80222
+MD5sum: 9c460adcb238e61e3cc7cc5c488ce4f3
+SHA1: 369644c5968107e1211e065d3152fca38eda163a
+SHA256: ba146ba3a15592fc6a6b1c38dfa00241c3da38bd8df6a6136e709462f55839b3
+Section: System
+Priority: optional
+Description: easy way to get into kDFU mode
+ kDFUApp is an easy way to get into kDFU mode
+ simply activate all switches and press the button
+ <br>
+ <br>Currently compatible with:
+ <br>iPhone3,1 / iPhone3,2 / iPhone3,3 / iPhone4,1 / iPhone5,1 / iPhone5,2 / iPhone5,4
+ <br>iPad2,1 / iPad2,2 / iPad2,3 / iPad3,1 / iPad3,3
+ <br>
+ <br>NOT COMPATIBLE WITH 64BIT DEVICES!
+Author: tihmstar
+Dev: tihmstar
+Name: kDFUApp
+
+Package: org.tihmstar.kDFUApp
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: openssl, libcrippy-1.0.0, libpartialzip-1.0.0, curl, kloader, firmware (>= 6.0)
+Filename: debs/org.tihmstar.kDFUApp-1.0.2.deb
+Size: 80458
+MD5sum: d2fb236c946705c835a08f844527f0c1
+SHA1: bd26bd0a4d7c9a60d0af75a962ced322962d2f3f
+SHA256: b52de8c051332425576b11a3d9ce9637a70c184afc5479ad449d1467a4868271
+Section: System
+Priority: optional
+Description: easy way to get into kDFU mode
+ kDFUApp is an easy way to get into kDFU mode
+ simply activate all switches and press the button
+ <br>
+ <br>Currently compatible with:
+ <br>iPhone3,1 / iPhone3,2 / iPhone3,3 / iPhone4,1 / iPhone5,1 / iPhone5,2 / iPhone5,4
+ <br>iPad2,1 / iPad2,2 / iPad2,3 / iPad3,1 / iPad3,3
+ <br>
+ <br>NOT COMPATIBLE WITH 64BIT DEVICES!
+Author: tihmstar
+Dev: tihmstar
+Name: kDFUApp
+
+Package: org.tihmstar.noDictation
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/org.tihmstar.noDictation_0.1-1_iphoneos-arm.deb
+Size: 21156
+MD5sum: 652c8eb929b050a9eb1493b6366bf0d3
+SHA1: 6786f52ac824f4d597cd230f70ba3fc1a0d60293
+SHA256: ff96a39481fb67789fc57ce425ee2e4633e4b28410183d506ad39af86446bc48
+Section: Tweaks
+Priority: optional
+Author: tihmstar
+Dev: tihmstar
+Icon: file:///Library/Preferences/noDictationIcon.png
+Name: noDictation
+
+Package: org.tihmstar.patchEvasi0n7Stupidity
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: bash
+Filename: debs/org.tihmstar.patchevasi0n7stupidity.deb
+Size: 956
+MD5sum: cd8182bf3aaf93dcdcebdd114b52dc7c
+SHA1: dd00d7dad12ffee26fa8d35b6a62b338a034d51f
+SHA256: b70187621d0f638ab33e41dc9d4ea85d104839777af43a843e70e126f1980764
+Section: System
+Priority: optional
+Homepage: http://tihmstar.org
+Description: Fixes stupid mistake made by evasi0n7
+ This Package will fix the stupid security mistake
+ made by evasi0n7. It will protect you from the
+ exVasi0n security hole i found.
+ For more information please watch this video
+ English: videolink here
+ Deutsch: videolink here
+ <br>
+ Thanks a lot to uroboro for helping me with this patch :)
+Author: tihmstar
+Name: exVasi0n patch
+
+Package: org.tihmstar.patchEvasi0n7Stupidity
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: bash
+Filename: debs/org.tihmstar.patchEvasi0n7Stupidity.deb
+Size: 824
+MD5sum: e8a8a69e92e7782c93b4eaf7a3bdb8df
+SHA1: 5f5e7e6dcd1f23df54ae250944193e9833f786b4
+SHA256: 2d7f9219ccd5e76915d24cd025f481ce0efa0610986ba50db97e5011f90053da
+Section: System
+Priority: optional
+Homepage: http://tihmstar.org
+Description: Fixes stupid mistake made by evasi0n7
+Author: tihmstar
+Name: Evasi0n7 hole patch
+
+Package: org.tihmstar.phoenix-wallpaper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Filename: debs/org.tihmstar.phoenix-wallpaper.deb
+Size: 6760486
+MD5sum: 4d25c45b5727423312e407c291396b22
+SHA1: 064d7ba791b46e3a7145b12aed9d1a18442fd6be
+SHA256: 5f1204943f07d9ab084dd97931e84590e7f745a5eafb091f26ecb3b203e8870a
+Section: Wallpaper
+Priority: optional
+Description: Fancy Phoenix Wallpaper
+ Fancy Phoenix Wallpaper
+ If you're jailbroken with phoenix, you need to install
+ this to get the full feeling of a 9.3.5 jailbreak
+Author: @AR72014, @K3yB0ardC4t
+Name: Phoenix Wallpaper
+
+Package: org.tihmstar.secretLauncher
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader
+Filename: debs/org.tihmstar.secretLauncher_1.0-1_iphoneos-arm.deb
+Size: 105680
+MD5sum: df2fc0c5703e0b8c3d09f7f3bc3f77c0
+SHA1: 46fdee7b5a2f96c4294195e684051256dd479445
+SHA256: d294260f0cf8e4bb13e4ed6788eb0c819eb7c79818dc14709d018bbe49e4c2bb
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: Launches apps with secret button
+    Don't let people access your private apps,
+    This tweak shows an error message when you try to launch an app.
+    It only launches the app when you press and hold ABOVE the OK button.
+    Not knowing this secret, nobody will be able to launch your apps :D
+    Open Settings panel to know where you have to press and hold.
+Author: tihmstar
+Dev: tihmstar
+Icon: /Library/PreferenceBundles/secretLauncherPref.bundle/secretLauncherPrefIcon.png
+Name: secretLauncher
+
+Package: org.tihmstar.secretLauncher
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader
+Filename: debs/org.tihmstar.secretLauncher_1.0-2_iphoneos-arm.deb
+Size: 105802
+MD5sum: 14443f3f9b440d20f6b81565cf6562f8
+SHA1: cbc4f44382daa86201a05d3c8ad3ea5a8482ce44
+SHA256: 23ad7f89f0125619768181d4a4dae0f451bf1012124e0f250bc0f919f6c54aad
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: Launches apps with secret button
+    Don't let people access your private apps,
+    This tweak shows an error message when you try to launch an app.
+    It only launches the app when you press and hold ABOVE the OK button.
+    Not knowing this secret, nobody will be able to launch your apps :D
+    Open Settings panel to know where you have to press and hold.
+Author: tihmstar
+Dev: tihmstar
+Icon: /Library/PreferenceBundles/secretLauncherPref.bundle/secretLauncherPrefIcon.png
+Name: secretLauncher
+
+Package: org.tihmstar.shakeToPasteboard
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 7.0), mobilesubstrate, libactivator
+Filename: debs/org.tihmstar.shakeToPasteboard_0.1-1_iphoneos-arm.deb
+Size: 31544
+MD5sum: 04e40b152d6d6b3e15f578ea407be4d2
+SHA1: bf00fb0a6c6d5455b7556a7d1f2e02678d01596d
+SHA256: 177be7e0374ba4489eacbd63bb1b95ec3160f4a87233076fe045356313e4c787
+Section: System
+Priority: optional
+Homepage: tihmstar.net
+Description: shake to fill predefined string to pasteboard
+    shake your phone to fill a predefined string to pasteboard
+    If the string is empty, pastebaord gets cleared
+Author: tihmstar
+Dev: tihmstar
+Icon: file:///Library/PreferenceLoard/Preferences/shakeToPasteboardIcon.png
+Name: shakeToPasteboard
+
+Package: org.tihmstar.sneakySelfie
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/org.tihmstar.sneakySelfie_1.0-2_iphoneos-arm.deb
+Size: 6186
+MD5sum: fcc2b2d91d3ea158e877f56da17d8042
+SHA1: 4903185bfb0be968ae99e3df4db99a2ef4a08f63
+SHA256: 1a881fb1ee33f8406fac78d240cc200c0eba667bfb847af328156816f9f21d49
+Section: System
+Priority: optional
+Homepage: tihmstar.net
+Description: Camera album button makes a selfie
+    This tweak is made for the apple stock Camera app.
+    It takes a selfie, whenever someone presses the
+    imageWell (album-button) inside the camera app.
+    This does not hook SpringBoard, therefore you can still
+    press the albumbutton from the lockscreen camera.
+    This tweak makes much more sense with a
+    passcode and a tweak like "Applocker" to lock the
+    Photo app.
+    Enjoy all the funny selfies, people will take ;D
+Author: tihmstar
+Dev: tihmstar
+Name: sneakySelfie
+
+Package: org.tihmstar.tas7yf1sh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: bash, firmware (>=7.0)
+Filename: debs/org.tihmstar.tas7yf1sh.deb
+Size: 1334
+MD5sum: 789e9c66122fc56a6684be8278d76862
+SHA1: ad4ab400e6a5ef09b8eefd11348a6482aca87aa1
+SHA256: a92bd2ca7908519a1a71c890cfbfbe125b7bd5292dbc4f50af63ca800f9526a1
+Priority: standard
+Description: quick & dirty fix for deadPengu1n bug
+ This Package contains a quick and dirty fix
+ for the deadPengu1n bug i found in pangu jailbreak.
+ This will install a LaunchDaemon on your device,
+ which will chown pangu untether to root and chmod 700
+ on every reboot, so the user mobile can no longer
+ lauch the binary and cause the device to panic.
+ Props to @pythech who got the idea for this fix ;)
+Author: tihmstar
+Name: tas7yf1sh
+
+Package: org.tihmstar.tweetbotBetterNoConnection
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/org.tihmstar.tweetbotBetterNoConnection_1.0-1_iphoneos-arm.deb
+Size: 4618
+MD5sum: 53e849189151752cf8eee919fe6ac3b2
+SHA1: 222d9a29752e4c5340e85359a2d2380b451d00e8
+SHA256: 03b65160fde3683179a802b98b15ce8027a327fb8a5829da716842209e974cd6
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: Removes "twitter could be offline" from errormessage in Tweetbot
+    Made for: Tweetbot
+    When Tweetbot has no connection with the internet, it shows
+    the errormessage "Check your network connection. Twitter could also be down.".
+    It bugs me every time i see it, because no way twitter is ever down!
+    This tweak removed the "Twitter could also be down." part of the error.
+    This should work with all languages (English + German tested),
+    as the tweak searches for the first dot and removes everything behind it.
+Author: tihmstar
+Dev: tihmstar
+Name: tweetbotBetterNoConnection
+
+Package: org.tihmstar.whatsTweaks
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/org.tihmstar.whatsTweaks_0.1-1_iphoneos-arm.deb
+Size: 22312
+MD5sum: d3551f81b444cb033d1ada1a4d9ee08d
+SHA1: b02297044b6e165294f563ffedb8a9bd9757c112
+SHA256: cd336f484340b6c87b066736e5099b070a883a6d5d33fd03cd415c03ae3ddf4b
+Section: Tweaks
+Priority: optional
+Homepage: tihmstar.net
+Description: Some mods for Whatsapp
+    whatsTweaks is a package which contains several mods for whatsapp
+    currently it allows you:
+    -enable "Show Preview" in push notifications (in case you can't by stock)
+    -disable WhatsApp Calls (removing Call button next to profile pic, removing call history tab)
+Author: tihmstar
+Dev: tihmstar
+Name: whatsTweaks
+

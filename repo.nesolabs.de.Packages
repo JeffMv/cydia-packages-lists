@@ -1,0 +1,14 @@
+Package: de.nesolabs.snoopit
+Version: 1.0.10
+Section: Security
+Maintainer: NESO Security Labs <info@nesolabs.de>
+Depends: mobilesubstrate,applist
+Architecture: iphoneos-arm
+Filename: .//Snoop-it.deb
+Size: 4975398
+MD5sum: 8db0a7b31c783705fcd79f8361db19bd
+Description: Snoop-it - Runtime Analysis and Manipulation of iOS Apps
+Name: Snoop-it
+Author: NESO Security Labs <info@nesolabs.de>
+Homepage: https://code.google.com/p/snoop-it/
+
